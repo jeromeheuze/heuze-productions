@@ -1,0 +1,190 @@
+html, body {
+  color: #111;
+  background: #fff;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-wrap: break-word; }
+
+.centered {
+  text-align: center; }
+
+.hide {
+  display: none !important; }
+
+header {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  text-align: center;
+  z-index: 10; }
+  header.header-cont .branding {
+    text-align: left; }
+    header.header-cont .branding a {
+      text-decoration: none; }
+    header.header-cont .branding h1 {
+      text-transform: capitalize;
+      color: #fff;
+      font-weight: 500;
+      font-size: 1em;
+      padding-top: 20px;
+      margin: 0; }
+  header.header-cont .menu {
+    text-align: right; }
+    header.header-cont .menu ul {
+      list-style-type: none;
+      padding: 15px 0 0 0;
+      margin: 0; }
+      header.header-cont .menu ul li {
+        display: inline-block;
+        margin-right: 15px; }
+        header.header-cont .menu ul li:last-child {
+          margin-right: 0; }
+        header.header-cont .menu ul li a {
+          text-decoration: none;
+          text-transform: capitalize;
+          color: #fff;
+          font-weight: 500;
+          font-size: 0.8em; }
+          @media only screen and (min-width: 768px) {
+            header.header-cont .menu ul li a {
+              font-size: 0.7em; } }
+          header.header-cont .menu ul li a:link, header.header-cont .menu ul li a:visited {
+            color: #D6DBD9; }
+          header.header-cont .menu ul li a:hover {
+            color: #B5C0B0; }
+          header.header-cont .menu ul li a:active {
+            color: #B5C0B0; }
+
+.banner {
+  display: block;
+  padding: 120px 0;
+  color: #fff; }
+  .banner.full {
+    padding-bottom: 40px; }
+  .banner.short {
+    padding-bottom: 20px; }
+  .banner.pic {
+    background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg") center center no-repeat;
+    background-size: cover; }
+  .banner h1.line1, .banner .line1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    margin-bottom: 0; }
+    @media only screen and (min-width: 768px) and (max-width: 1200px) {
+      .banner h1.line1, .banner .line1 {
+        font-size: 2.5rem; } }
+    @media only screen and (max-width: 767px) {
+      .banner h1.line1, .banner .line1 {
+        font-size: 2rem; } }
+  .banner .line2 {
+    font-size: 1.2rem;
+    margin-top: 1.5em;
+    font-weight: 300;
+    margin-bottom: 0; }
+  .banner .contact-box {
+    text-align: center;
+    padding: 2em;
+    margin: 40px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px; }
+    .banner .contact-box h2 {
+      font-size: 1rem;
+      font-weight: 400;
+      margin-bottom: 0;
+      color: gold; }
+    .banner .contact-box ul {
+      list-style-type: none;
+      padding: 15px 0 0 0;
+      margin: 0; }
+      .banner .contact-box ul li {
+        display: inline-block;
+        margin-right: 15px; }
+        .banner .contact-box ul li:last-child {
+          margin-right: 0; }
+        .banner .contact-box ul li a {
+          text-decoration: none;
+          color: #fff; }
+
+main .block-hi {
+  background-color: #F2F5F8; }
+  main .block-hi .block-cont {
+    padding: 5rem 0; }
+    main .block-hi .block-cont .hi-left h2 {
+      color: #023B4C;
+      font-size: 3em;
+      margin-bottom: 2rem; }
+    main .block-hi .block-cont .hi-left p {
+      color: #000;
+      font-size: 1.3em;
+      line-height: 1.5em; }
+    main .block-hi .block-cont .hi-right .hi-pic {
+      width: 300px;
+      height: 300px;
+      margin: 5vh auto;
+      background: url("/img/JeromeHeuze.png") 0 0 no-repeat;
+      background-size: cover; }
+
+main .block-tools {
+  background-color: #C3C9D1; }
+  main .block-tools .block-cont {
+    padding: 2rem 0; }
+    main .block-tools .block-cont .text-side p {
+      line-height: 50px;
+      margin-bottom: 0; }
+    main .block-tools .block-cont .icon-side ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      text-align: right; }
+      main .block-tools .block-cont .icon-side ul li {
+        display: inline-block;
+        margin-right: 15px; }
+        main .block-tools .block-cont .icon-side ul li:last-child {
+          margin-right: 0; }
+        main .block-tools .block-cont .icon-side ul li img {
+          height: 80%; }
+        main .block-tools .block-cont .icon-side ul li a {
+          text-decoration: none;
+          color: #fff; }
+
+main .block-services {
+  background-color: #F2F5F8; }
+
+main .block-contact .block-cont {
+  padding: 4rem 0; }
+  main .block-contact .block-cont h2 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.8em;
+    text-transform: uppercase; }
+  main .block-contact .block-cont .block-form {
+    width: 80%;
+    margin: 10px auto; }
+    main .block-contact .block-cont .block-form .msgSent {
+      display: none; }
+
+main .block-testimonials {
+  background-color: #fff; }
+
+main footer {
+  background-color: #687A91;
+  color: #FFF3C4;
+  padding: 1em 0; }
+  main footer a {
+    color: #FFF3C4;
+    text-decoration: none; }
+  main footer .copy {
+    text-align: center; }
+  main footer ul {
+    list-style-type: none;
+    padding: 15px 0 0 0;
+    margin: 0; }
+    main footer ul li {
+      display: inline-block;
+      margin-right: 15px; }
+      main footer ul li:last-child {
+        margin-right: 0; }
+      main footer ul li a {
+        text-decoration: none;
+        color: #fff; }
