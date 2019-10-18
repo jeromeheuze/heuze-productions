@@ -2,32 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Discord-Logo-Color.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/JeromeHeuze.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/go-daddy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons8-discord-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons8-discord-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons8-email-128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons8-email-open-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons8-google-96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons8-trello-96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sandeep-swarnkar-dm7M67VaEBc-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/twitch-purple-icon-logo-vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/upworklogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/global.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/head.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/scripts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/functionality.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/all-hallows-eve.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/kimbie-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/monokai.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/obsidian.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/paraiso-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/solarized-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/tomorrow-night.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Rectangle5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconfinder_288_Sass_4518841.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconfinder_HTML_Badge_65686.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconfinder_css3_294692.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconfinder_gulp_4691255.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-behance-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-billboard-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-bulleted-list-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-combo-chart-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-email-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-email-document-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-external-link-26-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-external-link-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-instagram-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-lighthouse-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-mind-map-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-post-ads-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-prototype-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-responsive-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-responsive-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-twitch-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-twitter-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-web-accessibility-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-web-design-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-wordpress-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons8-youtube-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/joanna-kosinska-1_CMoFsPfso-unsplash-sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/joanna-kosinska-1_CMoFsPfso-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/neelakshi-singh-6H_u-jvP1Bs-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/hprod-wolf-app-desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/hprod-wolf-app-desktop_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/hprod-wolf-app-ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/hprod-wolf-app-ipad_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/hprod-wolf-app-iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/hprod-wolf-app-iphone_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/hprod-wolf-app-ligthhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/hprod-wolf-app-under-hood.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/web-design.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/webdev_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/rainbow-custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/website-wolf-app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +80,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,7 +93,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions\js" />
       <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions\img" />
+      <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions\img\portfolio" />
       <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions" />
     </key>
   </component>
@@ -94,7 +125,16 @@
       <workItem from="1566491951525" duration="4554000" />
       <workItem from="1566834594890" duration="12317000" />
       <workItem from="1566862215161" duration="4259000" />
-      <workItem from="1567014369272" duration="725000" />
+      <workItem from="1567014369272" duration="1192000" />
+      <workItem from="1568059004394" duration="23165000" />
+      <workItem from="1568345119535" duration="609000" />
+      <workItem from="1568411654869" duration="614000" />
+      <workItem from="1568869291625" duration="1214000" />
+      <workItem from="1569643915681" duration="27000" />
+      <workItem from="1569644097017" duration="359000" />
+      <workItem from="1570379674159" duration="686000" />
+      <workItem from="1570931369284" duration="13217000" />
+      <workItem from="1571279689053" duration="14891000" />
     </task>
     <servers />
   </component>
