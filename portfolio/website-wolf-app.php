@@ -1,5 +1,10 @@
 <?php
 include "./../includes/global.php";
+$fileType = "nowebp";
+if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
+    // webp is supported!
+    $fileType = "webp";
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -19,7 +24,7 @@ include "./../includes/global.php";
                 <div class="col-8 col-md-6 menu">
                     <ul>
                         <li><a href="/">Home</a></li>
-                        <li><a href="https://discord.gg/Vf2Brvq" target="_blank">Discuss on Discord</a></li>
+                        <li><a href="https://discord.gg/Vf2Brvq" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
                     </ul>
                 </div>
             </div>
@@ -27,11 +32,11 @@ include "./../includes/global.php";
     </nav>
 </header>
 
-<div class="banner full pic">
+<div class="banner full pic format-<?=$fileType;?>">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8">
-                <h1 class="line1">Wolf Pack App <a href="https://www.jeromeheuze.com/wolf-site/" title="Live Wolf Pack App website" target="_blank"><img src="../img/icons8-external-link-26-white.png" width="26" height="26" alt="External Link"/></a></h1>
+                <h1 class="line1">Wolf Pack App <a href="/portfolio/wolf-site/" title="Live Wolf Pack App website" target="_blank"><img src="../img/icons8-external-link-26-white.png" width="26" height="26" alt="External Link"/></a></h1>
                 <p class="line2"><span>Wolf App</span> is a made up project to demonstrate a responsive website using a grid with flex. I also use webp images, SASS with gulp, Google Lighthouse optimized.</p>
             </div>
             <div class="col-12 col-md-4">
@@ -88,13 +93,13 @@ include "./../includes/global.php";
                     <div class="col-12 col-md-6 text-side"><p>Some Tools I use while working on Wolf Pack App website:</p></div>
                     <div class="col-12 col-md-6 icon-side">
                         <ul>
-                            <li><a href="https://www.w3.org/html/">
+                            <li><a href="https://www.w3.org/html/" rel="noopener" target="_blank">
                                     <img src="/img/iconfinder_HTML_Badge_65686.png" width="32" height="32" alt="HTML5" title="HTML5">
                                 </a></li>
-                            <li><a href="https://www.w3.org/Style/CSS/current-work.en.html" target="_blank"><img src="/img/iconfinder_css3_294692.png" width="32" height="32" alt="CSS3" title="CSS3" /></a></li>
-                            <li><a href="https://sass-lang.com/" target="_blank"><img src="/img/iconfinder_288_Sass_4518841.png" width="32" height="32" alt="SASS" title="SASS" /></a></li>
-                            <li><a href="https://gulpjs.com/" target="_blank"><img src="/img/iconfinder_gulp_4691255.png" width="32" height="32" alt="GULP" title="GULP" /></a></li>
-                            <li><a href="https://web.dev" target="_blank"><img src="/img/webdev_icon.png" width="32" height="32" alt="web.dev icon" title="Google web.dev" /></a></li>
+                            <li><a href="https://www.w3.org/Style/CSS/current-work.en.html" rel="noopener" target="_blank"><img src="/img/iconfinder_css3_294692.png" width="32" height="32" alt="CSS3" title="CSS3" /></a></li>
+                            <li><a href="https://sass-lang.com/" rel="noopener" target="_blank"><img src="/img/iconfinder_288_Sass_4518841.png" width="32" height="32" alt="SASS" title="SASS" /></a></li>
+                            <li><a href="https://gulpjs.com/" rel="noopener" target="_blank"><img src="/img/iconfinder_gulp_4691255.png" width="32" height="32" alt="GULP" title="GULP" /></a></li>
+                            <li><a href="https://web.dev" rel="noopener" target="_blank"><img src="/img/webdev_icon.png" width="32" height="32" alt="web.dev icon" title="Google web.dev" /></a></li>
                         </ul>
                     </div>
                 </div>

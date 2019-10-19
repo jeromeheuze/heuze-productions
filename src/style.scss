@@ -77,8 +77,14 @@ header {
     padding-bottom: 20px;
   }
   &.pic {
-    background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg") center center no-repeat;
-    background-size: cover;
+    &.format-nowebp {
+      background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg") center center no-repeat;
+      background-size: cover;
+    }
+    &.format-webp {
+      background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.webp") center center no-repeat;
+      background-size: cover;
+    }
   }
   h1.line1, .line1 {
     font-size: 3.5rem;
@@ -153,8 +159,14 @@ main {
           width: 300px;
           height: 300px;
           margin: 5vh auto;
-          background: url("/img/JeromeHeuze.png") 0 0 no-repeat;
-          background-size: cover;
+          &.format-nowebp {
+            background: url("/img/JeromeHeuze.png") 0 0 no-repeat;
+            background-size: cover;
+          }
+          &.format-webp {
+            background: url("/img/JeromeHeuze.webp") 0 0 no-repeat;
+            background-size: cover;
+          }
         }
       }
     }
@@ -311,8 +323,8 @@ main {
   .block-contact {
     background-color: #DBCD97;
     &.pic {
-      background: url("/img/joanna-kosinska-1_CMoFsPfso-unsplash-sm.jpg") center center no-repeat;
-      background-size: cover;
+      //background: url("/img/joanna-kosinska-1_CMoFsPfso-unsplash-sm.jpg") center center no-repeat;
+      //background-size: cover;
     }
     .block-cont {
       padding: 4rem 0;

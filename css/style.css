@@ -64,8 +64,11 @@ header {
     padding-bottom: 40px; }
   .banner.short {
     padding-bottom: 20px; }
-  .banner.pic {
+  .banner.pic.format-nowebp {
     background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg") center center no-repeat;
+    background-size: cover; }
+  .banner.pic.format-webp {
+    background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.webp") center center no-repeat;
     background-size: cover; }
   .banner h1.line1, .banner .line1 {
     font-size: 3.5rem;
@@ -123,9 +126,13 @@ main .block-hi {
     main .block-hi .block-cont .hi-right .hi-pic {
       width: 300px;
       height: 300px;
-      margin: 5vh auto;
-      background: url("/img/JeromeHeuze.png") 0 0 no-repeat;
-      background-size: cover; }
+      margin: 5vh auto; }
+      main .block-hi .block-cont .hi-right .hi-pic.format-nowebp {
+        background: url("/img/JeromeHeuze.png") 0 0 no-repeat;
+        background-size: cover; }
+      main .block-hi .block-cont .hi-right .hi-pic.format-webp {
+        background: url("/img/JeromeHeuze.webp") 0 0 no-repeat;
+        background-size: cover; }
 
 main .block-tools {
   background-color: #C3C9D1; }
@@ -236,9 +243,6 @@ main .block-services {
 
 main .block-contact {
   background-color: #DBCD97; }
-  main .block-contact.pic {
-    background: url("/img/joanna-kosinska-1_CMoFsPfso-unsplash-sm.jpg") center center no-repeat;
-    background-size: cover; }
   main .block-contact .block-cont {
     padding: 4rem 0; }
     main .block-contact .block-cont h2 {
