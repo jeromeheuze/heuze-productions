@@ -2,40 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/css/flexboxgrid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/css/main.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/alina-lobanova-TjMt-AdMMIM-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/alina-lobanova-TjMt-AdMMIM-unsplash.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/aron-visuals-4zxSWESyZio-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/aron-visuals-4zxSWESyZio-unsplash.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/eva-blue-e9hbo4NtKJ0-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/eva-blue-e9hbo4NtKJ0-unsplash.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/hybrid-HtHrjExpddA-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/hybrid-HtHrjExpddA-unsplash.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/icons8-wolf-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/icons8-wolf-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/iphone.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/iphone_iphonexspacegrey_portrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/iphone_iphonexspacegrey_portrait.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/jo-jo-Eg5eootTvqM-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/jo-jo-Eg5eootTvqM-unsplash.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/marek-szturc-8Ou3EZmTMWA-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/marek-szturc-8Ou3EZmTMWA-unsplash.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/michael-mazzone-xvLRLLfP22o-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/shield-wolf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/simon-rae-jY_2XG-6HU0-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/img/simon-rae-jY_2XG-6HU0-unsplash.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/wolf-site/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-196x196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mstile-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mstile-310x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mstile-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mstile-70x70.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/JeromeHeuze.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/JeromeHeuze.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/JeromeHeuze.webp" beforeDir="false" afterPath="$PROJECT_DIR$/img/JeromeHeuze.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/head.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/scripts.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/scripts.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/website-wolf-app.php" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/website-wolf-app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +51,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/wolf-site" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,11 +64,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions\portfolio\wolf-site" />
       <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions\img" />
+      <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions" />
+      <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions\portfolio\wolf-site" />
       <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions\js" />
       <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions\img\portfolio" />
-      <recent name="C:\Users\jerom\Documents\GitHub\heuze-productions" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -118,7 +109,8 @@
       <workItem from="1571279689053" duration="14891000" />
       <workItem from="1571460566617" duration="537000" />
       <workItem from="1571463327806" duration="12000" />
-      <workItem from="1571464859993" duration="7380000" />
+      <workItem from="1571464859993" duration="11689000" />
+      <workItem from="1571711835035" duration="942000" />
     </task>
     <servers />
   </component>

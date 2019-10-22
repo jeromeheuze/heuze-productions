@@ -284,35 +284,26 @@ main {
           }
         }
         .each-service-box {
-          .title-related {
-            margin: 20px 0;
-            .lt {
-              color: #3A6775;
-              margin:0;
+          .wolf-app {
+            display: block;
+            margin: 0.5em 0;
+            position: relative;
+            width: 100%;
+            height: 4em;
+            &.format-nowebp {
+              background: url("/img/wolf-pack-banner.jpg") 0 0 no-repeat;
+              background-size: cover;
             }
-            .rt {
-              margin:0;
-              text-align: right;
+            &.format-webp {
+              background: url("/img/wolf-pack-banner.webp") 0 0 no-repeat;
+              background-size: cover;
             }
-          }
-          .project-short {
-            .thumb {
-              text-align: center;
-              img {
-                margin: 0 auto;
-              }
-            }
-            .ptitle {
-              color: #3A6775;
-              line-height: 3em;
-              font-weight: 600;
-              margin-bottom: 0;
-            }
-            .plink {
-              margin-bottom: 0;
-              a {
-                color: purple;
-              }
+            h4 {
+              position: absolute;
+              bottom: 0.2em;
+              left: 0.8em;
+              font-size: 0.8em;
+              color: #fff;
             }
           }
         }
@@ -320,7 +311,7 @@ main {
     }
   }
 
-  .block-contact {
+  /*.block-contact {
     background-color: #DBCD97;
     &.pic {
       //background: url("/img/joanna-kosinska-1_CMoFsPfso-unsplash-sm.jpg") center center no-repeat;
@@ -349,7 +340,7 @@ main {
     .block-cont {
 
     }
-  }
+  }*/
 
   .block-mocks {
     background-color: #F2F5F8;

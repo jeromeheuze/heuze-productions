@@ -127,30 +127,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <h3>Full Responsive Website</h3>
                                 <div class="icon responsive"></div>
                             </div>
-                            <?php /** ?>
-                            <div class="row each-service-box">
-                                <div class="col-12">
-                                    <div class="row no-gutters title-related">
-                                        <div class="col-12 col-md-6"><p class="lt">Related Projects</p></div>
-                                        <div class="col-12 col-md-6"><p class="rt"><a href="#">View All</a></p></div>
+                            <div class="each-service-box">
+                                <a href="/portfolio/website-wolf-app.php" title="Responsive Wolf Pack App">
+                                    <div class="wolf-app format-<?=$fileTypeCss;?>">
+                                        <h4>Responsive Wolf Pack App</h4>
                                     </div>
-                                </div>
-                                <div class="col-12 col-md-6">
-                                    <div class="project-short">
-                                        <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                                        <p class="ptitle">Project Title</p>
-                                        <p class="plink"><a href="#">View All</a></p>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-6">
-                                    <div class="project-short">
-                                        <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                                        <p class="ptitle">Project Title</p>
-                                        <p class="plink"><a href="#">View All</a></p>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
-                            <?php **/ ?>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -159,30 +142,6 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <h3>Email Design &amp; Coding</h3>
                                 <div class="icon email"></div>
                             </div>
-                            <?php /** ?>
-                            <div class="row each-service-box">
-                            <div class="col-12">
-                            <div class="row no-gutters title-related">
-                            <div class="col-12 col-md-6"><p class="lt">Related Projects</p></div>
-                            <div class="col-12 col-md-6"><p class="rt"><a href="#">View All</a></p></div>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            </div>
-                            <?php **/ ?>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -191,30 +150,6 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <h3>WordPress Development</h3>
                                 <div class="icon wp"></div>
                             </div>
-                            <?php /** ?>
-                            <div class="row each-service-box">
-                            <div class="col-12">
-                            <div class="row no-gutters title-related">
-                            <div class="col-12 col-md-6"><p class="lt">Related Projects</p></div>
-                            <div class="col-12 col-md-6"><p class="rt"><a href="#">View All</a></p></div>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            </div>
-                            <?php **/ ?>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -223,30 +158,6 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <h3>Animated Banners or Ads</h3>
                                 <div class="icon ads"></div>
                             </div>
-                            <?php /** ?>
-                            <div class="row each-service-box">
-                            <div class="col-12">
-                            <div class="row no-gutters title-related">
-                            <div class="col-12 col-md-6"><p class="lt">Related Projects</p></div>
-                            <div class="col-12 col-md-6"><p class="rt"><a href="#">View All</a></p></div>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            </div>
-                            <?php **/ ?>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -255,30 +166,6 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <h3>Mini-Site &amp; Landing Pages</h3>
                                 <div class="icon landing"></div>
                             </div>
-                            <?php /** ?>
-                            <div class="row each-service-box">
-                            <div class="col-12">
-                            <div class="row no-gutters title-related">
-                            <div class="col-12 col-md-6"><p class="lt">Related Projects</p></div>
-                            <div class="col-12 col-md-6"><p class="rt"><a href="#">View All</a></p></div>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            </div>
-                            <?php **/ ?>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -287,30 +174,6 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <h3>Web and Mobile Accessibility</h3>
                                 <div class="icon ada"></div>
                             </div>
-                            <?php /** ?>
-                            <div class="row each-service-box">
-                            <div class="col-12">
-                            <div class="row no-gutters title-related">
-                            <div class="col-12 col-md-6"><p class="lt">Related Projects</p></div>
-                            <div class="col-12 col-md-6"><p class="rt"><a href="#">View All</a></p></div>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            </div>
-                            <?php **/ ?>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -319,30 +182,6 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <h3>Google Lighthouse Optimization</h3>
                                 <div class="icon opti"></div>
                             </div>
-                            <?php /** ?>
-                            <div class="row each-service-box">
-                            <div class="col-12">
-                            <div class="row no-gutters title-related">
-                            <div class="col-12 col-md-6"><p class="lt">Related Projects</p></div>
-                            <div class="col-12 col-md-6"><p class="rt"><a href="#">View All</a></p></div>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            </div>
-                            <?php **/ ?>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -351,33 +190,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <h3>Web App Prototyping</h3>
                                 <div class="icon proto"></div>
                             </div>
-                            <?php /** ?>
-                            <div class="row each-service-box">
-                            <div class="col-12">
-                            <div class="row no-gutters title-related">
-                            <div class="col-12 col-md-6"><p class="lt">Related Projects</p></div>
-                            <div class="col-12 col-md-6"><p class="rt"><a href="#">View All</a></p></div>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                            <div class="project-short">
-                            <div class="thumb"><img src="/img/Rectangle5.png" alt="Project Title" class="img-fluid"></div>
-                            <p class="ptitle">Project Title</p>
-                            <p class="plink"><a href="#">View All</a></p>
-                            </div>
-                            </div>
-                            </div>
-                            <?php **/ ?>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>

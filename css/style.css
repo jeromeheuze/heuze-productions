@@ -111,244 +111,249 @@ header {
           text-decoration: none;
           color: #fff; }
 
-main .block-hi {
-  background-color: #F2F5F8; }
-  main .block-hi .block-cont {
-    padding: 5rem 0; }
-    main .block-hi .block-cont .hi-left h2 {
-      color: #023B4C;
-      font-size: 3em;
-      margin-bottom: 2rem; }
-    main .block-hi .block-cont .hi-left p {
-      color: #000;
-      font-size: 1.3em;
-      line-height: 1.5em; }
-    main .block-hi .block-cont .hi-right .hi-pic {
-      width: 300px;
-      height: 300px;
-      margin: 5vh auto; }
-      main .block-hi .block-cont .hi-right .hi-pic.format-nowebp {
-        background: url("/img/JeromeHeuze.png") 0 0 no-repeat;
-        background-size: cover; }
-      main .block-hi .block-cont .hi-right .hi-pic.format-webp {
-        background: url("/img/JeromeHeuze.webp") 0 0 no-repeat;
-        background-size: cover; }
+main {
+  /*.block-contact {
+    background-color: #DBCD97;
+    &.pic {
+      //background: url("/img/joanna-kosinska-1_CMoFsPfso-unsplash-sm.jpg") center center no-repeat;
+      //background-size: cover;
+    }
+    .block-cont {
+      padding: 4rem 0;
+      h2 {
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.8em;
+        text-transform: uppercase;
+      }
+      .block-form {
+        width: 80%;
+        margin: 10px auto;
+        .msgSent {
+          display: none;
+        }
+      }
+    }
+  }
 
-main .block-tools {
-  background-color: #C3C9D1; }
-  main .block-tools .block-cont {
-    padding: 2rem 0; }
-    main .block-tools .block-cont .text-side p {
-      line-height: 50px;
-      margin-bottom: 0; }
-    main .block-tools .block-cont .icon-side ul {
+  .block-testimonials {
+    background-color: #fff;
+    .block-cont {
+
+    }
+  }*/ }
+  main .block-hi {
+    background-color: #F2F5F8; }
+    main .block-hi .block-cont {
+      padding: 5rem 0; }
+      main .block-hi .block-cont .hi-left h2 {
+        color: #023B4C;
+        font-size: 3em;
+        margin-bottom: 2rem; }
+      main .block-hi .block-cont .hi-left p {
+        color: #000;
+        font-size: 1.3em;
+        line-height: 1.5em; }
+      main .block-hi .block-cont .hi-right .hi-pic {
+        width: 300px;
+        height: 300px;
+        margin: 5vh auto; }
+        main .block-hi .block-cont .hi-right .hi-pic.format-nowebp {
+          background: url("/img/JeromeHeuze.png") 0 0 no-repeat;
+          background-size: cover; }
+        main .block-hi .block-cont .hi-right .hi-pic.format-webp {
+          background: url("/img/JeromeHeuze.webp") 0 0 no-repeat;
+          background-size: cover; }
+  main .block-tools {
+    background-color: #C3C9D1; }
+    main .block-tools .block-cont {
+      padding: 2rem 0; }
+      main .block-tools .block-cont .text-side p {
+        line-height: 50px;
+        margin-bottom: 0; }
+      main .block-tools .block-cont .icon-side ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        text-align: right; }
+        main .block-tools .block-cont .icon-side ul li {
+          display: inline-block;
+          margin-right: 15px; }
+          main .block-tools .block-cont .icon-side ul li:last-child {
+            margin-right: 0; }
+          main .block-tools .block-cont .icon-side ul li img {
+            height: 80%; }
+          main .block-tools .block-cont .icon-side ul li a {
+            text-decoration: none;
+            color: #fff; }
+  main .block-services {
+    background-color: #F2F5F8; }
+    main .block-services .block-cont {
+      padding: 4rem 0; }
+      main .block-services .block-cont h2 {
+        color: #023B4C;
+        font-size: 2.5em;
+        margin-bottom: 2rem; }
+      main .block-services .block-cont p {
+        color: #000;
+        font-size: 0.9em;
+        line-height: 1.5em; }
+      main .block-services .block-cont .service-box {
+        background-color: #fff;
+        border-radius: 4px;
+        padding: 20px;
+        margin: 0 0 30px 0;
+        -webkit-box-shadow: 0 8px 20px 0 #dddede;
+        -moz-box-shadow: 0 8px 20px 0 #dddede;
+        box-shadow: 0 8px 20px 0 #dddede; }
+        main .block-services .block-cont .service-box .title-box {
+          clear: both;
+          border-bottom: 1px solid #eaeaea;
+          padding-bottom: 10px; }
+          main .block-services .block-cont .service-box .title-box h3 {
+            color: #3A6775;
+            font-size: 1.2em;
+            line-height: 40px;
+            display: inline-block;
+            margin: 0; }
+          main .block-services .block-cont .service-box .title-box .icon {
+            width: 40px;
+            height: 40px;
+            display: inline-block;
+            float: right; }
+            main .block-services .block-cont .service-box .title-box .icon.responsive {
+              background: url("/img/icons8-responsive-50.png") 0 0 no-repeat;
+              background-size: contain; }
+            main .block-services .block-cont .service-box .title-box .icon.email {
+              background: url("/img/icons8-email-document-50.png") 0 0 no-repeat;
+              background-size: contain; }
+            main .block-services .block-cont .service-box .title-box .icon.wp {
+              background: url("/img/icons8-bulleted-list-50.png") 0 0 no-repeat;
+              background-size: contain; }
+            main .block-services .block-cont .service-box .title-box .icon.ads {
+              background: url("/img/icons8-billboard-50.png") 0 0 no-repeat;
+              background-size: contain; }
+            main .block-services .block-cont .service-box .title-box .icon.landing {
+              background: url("/img/icons8-web-design-50.png") 0 0 no-repeat;
+              background-size: contain; }
+            main .block-services .block-cont .service-box .title-box .icon.ada {
+              background: url("/img/icons8-web-accessibility-50.png") 0 0 no-repeat;
+              background-size: contain; }
+            main .block-services .block-cont .service-box .title-box .icon.data {
+              background: url("/img/icons8-mind-map-50.png") 0 0 no-repeat;
+              background-size: contain; }
+            main .block-services .block-cont .service-box .title-box .icon.opti {
+              background: url("/img/icons8-lighthouse-40.png") 0 0 no-repeat;
+              background-size: contain; }
+            main .block-services .block-cont .service-box .title-box .icon.proto {
+              background: url("/img/icons8-prototype-50.png") 0 0 no-repeat;
+              background-size: contain; }
+        main .block-services .block-cont .service-box .each-service-box .wolf-app {
+          display: block;
+          margin: 0.5em 0;
+          position: relative;
+          width: 100%;
+          height: 4em; }
+          main .block-services .block-cont .service-box .each-service-box .wolf-app.format-nowebp {
+            background: url("/img/wolf-pack-banner.jpg") 0 0 no-repeat;
+            background-size: cover; }
+          main .block-services .block-cont .service-box .each-service-box .wolf-app.format-webp {
+            background: url("/img/wolf-pack-banner.webp") 0 0 no-repeat;
+            background-size: cover; }
+          main .block-services .block-cont .service-box .each-service-box .wolf-app h4 {
+            position: absolute;
+            bottom: 0.2em;
+            left: 0.8em;
+            font-size: 0.8em;
+            color: #fff; }
+  main .block-mocks {
+    background-color: #F2F5F8; }
+    main .block-mocks .block-cont {
+      padding: 5rem 0; }
+      main .block-mocks .block-cont h2 {
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.8em;
+        text-transform: uppercase;
+        margin-bottom: 1.5em; }
+      main .block-mocks .block-cont .img_holder {
+        width: 100%;
+        height: 25em;
+        display: block; }
+        main .block-mocks .block-cont .img_holder.desktop .inner_viewer {
+          background: url("/img/portfolio/hprod-wolf-app-desktop_sm.jpg") top center no-repeat;
+          background-size: contain;
+          height: 100%;
+          display: block;
+          position: relative; }
+        main .block-mocks .block-cont .img_holder.tablet .inner_viewer {
+          background: url("/img/portfolio/hprod-wolf-app-ipad_sm.jpg") top center no-repeat;
+          background-size: contain;
+          height: 100%;
+          display: block;
+          position: relative; }
+        main .block-mocks .block-cont .img_holder.phone .inner_viewer {
+          background: url("/img/portfolio/hprod-wolf-app-iphone_sm.jpg") top center no-repeat;
+          background-size: contain;
+          height: 100%;
+          display: block;
+          position: relative; }
+  main .block-under-hood {
+    background-color: #F2F5F8; }
+    main .block-under-hood .block-cont {
+      padding: 5rem 0 2rem 0; }
+      main .block-under-hood .block-cont h2 {
+        text-align: center;
+        font-weight: 500;
+        font-size: 1.8em;
+        text-transform: uppercase;
+        margin-bottom: 1.5em; }
+      main .block-under-hood .block-cont .img_responsive {
+        max-width: 100%;
+        border-radius: 6px; }
+      main .block-under-hood .block-cont.tutorials {
+        padding-top: 0; }
+        main .block-under-hood .block-cont.tutorials h3 {
+          font-weight: 100;
+          font-size: 1.5em;
+          text-transform: capitalize;
+          margin-top: 2em;
+          margin-bottom: 1em;
+          border-bottom: 1px solid #C3C9D1; }
+        main .block-under-hood .block-cont.tutorials .img_responsive {
+          margin-bottom: 1em; }
+  main footer {
+    background-color: #687A91;
+    padding: 2em 0 1em 0; }
+    main footer .block-cont a {
+      color: #FFF3C4;
+      text-decoration: none; }
+    main footer .block-cont .copy {
+      text-align: center; }
+    main footer .block-cont ul {
       list-style-type: none;
-      padding: 0;
-      margin: 0;
-      text-align: right; }
-      main .block-tools .block-cont .icon-side ul li {
+      padding: 15px 0 0 0;
+      margin: 0; }
+      main footer .block-cont ul li {
         display: inline-block;
         margin-right: 15px; }
-        main .block-tools .block-cont .icon-side ul li:last-child {
+        main footer .block-cont ul li:last-child {
           margin-right: 0; }
-        main .block-tools .block-cont .icon-side ul li img {
-          height: 80%; }
-        main .block-tools .block-cont .icon-side ul li a {
+        main footer .block-cont ul li a {
           text-decoration: none;
           color: #fff; }
-
-main .block-services {
-  background-color: #F2F5F8; }
-  main .block-services .block-cont {
-    padding: 4rem 0; }
-    main .block-services .block-cont h2 {
-      color: #023B4C;
-      font-size: 2.5em;
-      margin-bottom: 2rem; }
-    main .block-services .block-cont p {
-      color: #000;
-      font-size: 0.9em;
-      line-height: 1.5em; }
-    main .block-services .block-cont .service-box {
-      background-color: #fff;
-      border-radius: 4px;
-      padding: 20px;
-      margin: 0 0 30px 0;
-      -webkit-box-shadow: 0 8px 20px 0 #dddede;
-      -moz-box-shadow: 0 8px 20px 0 #dddede;
-      box-shadow: 0 8px 20px 0 #dddede; }
-      main .block-services .block-cont .service-box .title-box {
-        clear: both;
-        border-bottom: 1px solid #eaeaea;
-        padding-bottom: 10px; }
-        main .block-services .block-cont .service-box .title-box h3 {
-          color: #3A6775;
-          font-size: 1.2em;
-          line-height: 40px;
-          display: inline-block;
-          margin: 0; }
-        main .block-services .block-cont .service-box .title-box .icon {
-          width: 40px;
-          height: 40px;
-          display: inline-block;
-          float: right; }
-          main .block-services .block-cont .service-box .title-box .icon.responsive {
-            background: url("/img/icons8-responsive-50.png") 0 0 no-repeat;
-            background-size: contain; }
-          main .block-services .block-cont .service-box .title-box .icon.email {
-            background: url("/img/icons8-email-document-50.png") 0 0 no-repeat;
-            background-size: contain; }
-          main .block-services .block-cont .service-box .title-box .icon.wp {
-            background: url("/img/icons8-bulleted-list-50.png") 0 0 no-repeat;
-            background-size: contain; }
-          main .block-services .block-cont .service-box .title-box .icon.ads {
-            background: url("/img/icons8-billboard-50.png") 0 0 no-repeat;
-            background-size: contain; }
-          main .block-services .block-cont .service-box .title-box .icon.landing {
-            background: url("/img/icons8-web-design-50.png") 0 0 no-repeat;
-            background-size: contain; }
-          main .block-services .block-cont .service-box .title-box .icon.ada {
-            background: url("/img/icons8-web-accessibility-50.png") 0 0 no-repeat;
-            background-size: contain; }
-          main .block-services .block-cont .service-box .title-box .icon.data {
-            background: url("/img/icons8-mind-map-50.png") 0 0 no-repeat;
-            background-size: contain; }
-          main .block-services .block-cont .service-box .title-box .icon.opti {
-            background: url("/img/icons8-lighthouse-40.png") 0 0 no-repeat;
-            background-size: contain; }
-          main .block-services .block-cont .service-box .title-box .icon.proto {
-            background: url("/img/icons8-prototype-50.png") 0 0 no-repeat;
-            background-size: contain; }
-      main .block-services .block-cont .service-box .each-service-box .title-related {
-        margin: 20px 0; }
-        main .block-services .block-cont .service-box .each-service-box .title-related .lt {
-          color: #3A6775;
-          margin: 0; }
-        main .block-services .block-cont .service-box .each-service-box .title-related .rt {
-          margin: 0;
-          text-align: right; }
-      main .block-services .block-cont .service-box .each-service-box .project-short .thumb {
-        text-align: center; }
-        main .block-services .block-cont .service-box .each-service-box .project-short .thumb img {
-          margin: 0 auto; }
-      main .block-services .block-cont .service-box .each-service-box .project-short .ptitle {
-        color: #3A6775;
-        line-height: 3em;
-        font-weight: 600;
-        margin-bottom: 0; }
-      main .block-services .block-cont .service-box .each-service-box .project-short .plink {
-        margin-bottom: 0; }
-        main .block-services .block-cont .service-box .each-service-box .project-short .plink a {
-          color: purple; }
-
-main .block-contact {
-  background-color: #DBCD97; }
-  main .block-contact .block-cont {
-    padding: 4rem 0; }
-    main .block-contact .block-cont h2 {
-      text-align: center;
-      font-weight: 500;
-      font-size: 1.8em;
-      text-transform: uppercase; }
-    main .block-contact .block-cont .block-form {
-      width: 80%;
-      margin: 10px auto; }
-      main .block-contact .block-cont .block-form .msgSent {
-        display: none; }
-
-main .block-testimonials {
-  background-color: #fff; }
-
-main .block-mocks {
-  background-color: #F2F5F8; }
-  main .block-mocks .block-cont {
-    padding: 5rem 0; }
-    main .block-mocks .block-cont h2 {
-      text-align: center;
-      font-weight: 500;
-      font-size: 1.8em;
-      text-transform: uppercase;
-      margin-bottom: 1.5em; }
-    main .block-mocks .block-cont .img_holder {
-      width: 100%;
-      height: 25em;
-      display: block; }
-      main .block-mocks .block-cont .img_holder.desktop .inner_viewer {
-        background: url("/img/portfolio/hprod-wolf-app-desktop_sm.jpg") top center no-repeat;
-        background-size: contain;
-        height: 100%;
-        display: block;
-        position: relative; }
-      main .block-mocks .block-cont .img_holder.tablet .inner_viewer {
-        background: url("/img/portfolio/hprod-wolf-app-ipad_sm.jpg") top center no-repeat;
-        background-size: contain;
-        height: 100%;
-        display: block;
-        position: relative; }
-      main .block-mocks .block-cont .img_holder.phone .inner_viewer {
-        background: url("/img/portfolio/hprod-wolf-app-iphone_sm.jpg") top center no-repeat;
-        background-size: contain;
-        height: 100%;
-        display: block;
-        position: relative; }
-
-main .block-under-hood {
-  background-color: #F2F5F8; }
-  main .block-under-hood .block-cont {
-    padding: 5rem 0 2rem 0; }
-    main .block-under-hood .block-cont h2 {
-      text-align: center;
-      font-weight: 500;
-      font-size: 1.8em;
-      text-transform: uppercase;
-      margin-bottom: 1.5em; }
-    main .block-under-hood .block-cont .img_responsive {
-      max-width: 100%;
-      border-radius: 6px; }
-    main .block-under-hood .block-cont.tutorials {
-      padding-top: 0; }
-      main .block-under-hood .block-cont.tutorials h3 {
-        font-weight: 100;
-        font-size: 1.5em;
-        text-transform: capitalize;
-        margin-top: 2em;
-        margin-bottom: 1em;
-        border-bottom: 1px solid #C3C9D1; }
-      main .block-under-hood .block-cont.tutorials .img_responsive {
-        margin-bottom: 1em; }
-
-main footer {
-  background-color: #687A91;
-  padding: 2em 0 1em 0; }
-  main footer .block-cont a {
-    color: #FFF3C4;
-    text-decoration: none; }
-  main footer .block-cont .copy {
-    text-align: center; }
-  main footer .block-cont ul {
-    list-style-type: none;
-    padding: 15px 0 0 0;
-    margin: 0; }
-    main footer .block-cont ul li {
-      display: inline-block;
-      margin-right: 15px; }
-      main footer .block-cont ul li:last-child {
-        margin-right: 0; }
-      main footer .block-cont ul li a {
-        text-decoration: none;
-        color: #fff; }
-  main footer .block-cont h3 {
-    color: #FFF3C4;
-    font-size: 0.7em;
-    font-weight: 600;
-    margin-bottom: 0; }
-  main footer .block-cont p {
-    color: #FFF3C4; }
-  main footer .block-cont .block-actions {
-    text-align: right; }
-  main footer .block-cont .block-totals {
-    text-align: center; }
-    main footer .block-cont .block-totals p {
-      font-size: 4em;
-      color: #BFB996;
-      font-weight: 700; }
+    main footer .block-cont h3 {
+      color: #FFF3C4;
+      font-size: 0.7em;
+      font-weight: 600;
+      margin-bottom: 0; }
+    main footer .block-cont p {
+      color: #FFF3C4; }
+    main footer .block-cont .block-actions {
+      text-align: right; }
+    main footer .block-cont .block-totals {
+      text-align: center; }
+      main footer .block-cont .block-totals p {
+        font-size: 4em;
+        color: #BFB996;
+        font-weight: 700; }
