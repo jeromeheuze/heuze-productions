@@ -1,8 +1,8 @@
 {
   "name": "eta-v2",
   "version": "1.0.0",
-  "description": "EMERGING TECHNOLOGIES ASSOCIATES, INC.",
-  "main": "gulpfile.js",
+  "description": "Heuze Productions",
+  "main": "index.php",
   "dependencies": {
     "bootstrap-grid-only-css": "^4.1.3"
   },
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/jeromeheuze/eta-v2.git"
   },
-  "author": "",
+  "author": "Jerome Heuze",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jeromeheuze/eta-v2/issues"
