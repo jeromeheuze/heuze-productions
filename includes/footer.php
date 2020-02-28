@@ -12,8 +12,8 @@
             </div>
             <div class="col-12 col-sm-4">
                 <div class="block-totals">
-                    <h3>Total Projects</h3>
-                    <p>10</p>
+                    <h3>Total ElectronJS Tutorials</h3>
+                    <p>00</p>
                 </div>
             </div>
             <div class="col-12 col-sm-4">

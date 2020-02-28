@@ -160,11 +160,11 @@ main {
           height: 300px;
           margin: 5vh auto;
           &.format-nowebp {
-            background: url("/img/JeromeHeuze.png") 0 0 no-repeat;
+            background: url("/img/500px-Electron_Software_Framework_Logo.svg.png") 0 0 no-repeat;
             background-size: cover;
           }
           &.format-webp {
-            background: url("/img/JeromeHeuze.webp") 0 0 no-repeat;
+            background: url("/img/500px-Electron_Software_Framework_Logo.svg.png") 0 0 no-repeat;
             background-size: cover;
           }
         }
@@ -310,37 +310,6 @@ main {
       }
     }
   }
-
-  /*.block-contact {
-    background-color: #DBCD97;
-    &.pic {
-      //background: url("/img/joanna-kosinska-1_CMoFsPfso-unsplash-sm.jpg") center center no-repeat;
-      //background-size: cover;
-    }
-    .block-cont {
-      padding: 4rem 0;
-      h2 {
-        text-align: center;
-        font-weight: 500;
-        font-size: 1.8em;
-        text-transform: uppercase;
-      }
-      .block-form {
-        width: 80%;
-        margin: 10px auto;
-        .msgSent {
-          display: none;
-        }
-      }
-    }
-  }
-
-  .block-testimonials {
-    background-color: #fff;
-    .block-cont {
-
-    }
-  }*/
 
   .block-mocks {
     background-color: #F2F5F8;
