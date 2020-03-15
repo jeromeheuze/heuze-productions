@@ -13,13 +13,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 <head>
     <meta charset="utf-8">
     <title>Heuze Productions - ElectronJS Web Development tutorials</title>
-    <meta name="Description" content="Heuze Productions is providing full web development tutorials. I focus on website UI, Web App, website optimization, ADA compliant, loading time and SEO engineering using ElectronJS.">
+    <meta name="Description" content="Heuze Productions is providing full web development tutorials. I will focus on website UI, Desktop Web App, loading time using ElectronJS. I believe in a renaissance of Desktop applications - Let's code the future.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://heuzeproductions.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Heuze Productions" />
-    <meta property="og:description" content="Heuze Productions is providing full web development tutorials. I focus on website UI, Web App, website optimization, ADA compliant, loading time and SEO engineering using ElectronJS." />
+    <meta property="og:description" content="Heuze Productions is providing full web development tutorials. I will focus on website UI, Desktop Web App, loading time using ElectronJS. I believe in a renaissance of Desktop applications - Let's code the future." />
     <meta property="og:url" content="https://heuzeproductions.com/" />
     <meta property="og:site_name" content="Heuze Productions" />
     <meta property="og:image" content="https://heuzeproductions.com/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg" />
@@ -52,7 +52,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
         <div class="row">
             <div class="col-12 col-md-8">
                 <h1 class="line1">ElectronJS Web Development tutorials</h1>
-                <p class="line2"><strong>Heuze Productions</strong> is providing <span>full web development</span> tutorials. I focus on website UI, Web App, website optimization, ADA compliant, loading time and SEO engineering using ElectronJS.</p>
+                <p class="line2"><strong>Heuze Productions</strong> is providing <span>full web development</span> tutorials. I will focus on website UI, Desktop Web App, loading time using ElectronJS. I believe in a renaissance of Desktop applications - Let's code the future.</p>
             </div>
             <div class="col-12 col-md-4">
                 <div class="contact-box">
@@ -117,7 +117,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                 <div class="row">
                     <div class="col-12 col-md-4"><h2>Let's learn and code!</h2></div>
                     <div class="col-12 col-md-8">
-                        <p>Build cross-platform desktop apps with JavaScript, HTML, and CSS</p>
+                        <p>Build cross-platform desktop apps with JavaScript, HTML, and CSS.</p>
                     </div>
                 </div>
                 <div class="row">
