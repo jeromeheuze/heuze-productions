@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: heuzeproductions.com
+Token: ae80163491817c23aab20dc9ca98d09863e8bf5c6a7827c2386f9ee0180d430b

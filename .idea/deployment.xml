@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" autoUploadExternalChanges="true">
     <serverData>
+      <paths name="bluehost-hprod">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="bluehost-master">
         <serverdata>
           <mappings>

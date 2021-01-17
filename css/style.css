@@ -178,7 +178,7 @@ main .block-services {
       -moz-box-shadow: 0 8px 20px 0 #dddede;
       box-shadow: 0 8px 20px 0 #dddede; }
       main .block-services .block-cont .service-box .title-box {
-        clear: both;
+        position: relative;
         border-bottom: 1px solid #eaeaea;
         padding-bottom: 10px; }
         main .block-services .block-cont .service-box .title-box h3 {
@@ -189,35 +189,36 @@ main .block-services {
           margin: 0; }
         main .block-services .block-cont .service-box .title-box .icon {
           width: 40px;
-          height: 40px;
-          display: inline-block;
-          float: right; }
+          height: 100%;
+          position: absolute;
+          top: 0;
+          right: 0; }
           main .block-services .block-cont .service-box .title-box .icon.responsive {
-            background: url("/img/icons8-responsive-50.png") 0 0 no-repeat;
+            background: url("/img/icons8-responsive-50.png") 0 50% no-repeat;
             background-size: contain; }
           main .block-services .block-cont .service-box .title-box .icon.email {
-            background: url("/img/icons8-email-document-50.png") 0 0 no-repeat;
+            background: url("/img/icons8-email-document-50.png") 0 50% no-repeat;
             background-size: contain; }
           main .block-services .block-cont .service-box .title-box .icon.wp {
-            background: url("/img/icons8-bulleted-list-50.png") 0 0 no-repeat;
+            background: url("/img/icons8-bulleted-list-50.png") 0 50% no-repeat;
             background-size: contain; }
           main .block-services .block-cont .service-box .title-box .icon.ads {
-            background: url("/img/icons8-billboard-50.png") 0 0 no-repeat;
+            background: url("/img/icons8-billboard-50.png") 0 50% no-repeat;
             background-size: contain; }
           main .block-services .block-cont .service-box .title-box .icon.landing {
-            background: url("/img/icons8-web-design-50.png") 0 0 no-repeat;
+            background: url("/img/icons8-web-design-50.png") 0 50% no-repeat;
             background-size: contain; }
           main .block-services .block-cont .service-box .title-box .icon.ada {
-            background: url("/img/icons8-web-accessibility-50.png") 0 0 no-repeat;
+            background: url("/img/icons8-web-accessibility-50.png") 0 50% no-repeat;
             background-size: contain; }
           main .block-services .block-cont .service-box .title-box .icon.data {
-            background: url("/img/icons8-mind-map-50.png") 0 0 no-repeat;
+            background: url("/img/icons8-mind-map-50.png") 0 50% no-repeat;
             background-size: contain; }
           main .block-services .block-cont .service-box .title-box .icon.opti {
-            background: url("/img/icons8-lighthouse-40.png") 0 0 no-repeat;
+            background: url("/img/icons8-lighthouse-40.png") 0 50% no-repeat;
             background-size: contain; }
           main .block-services .block-cont .service-box .title-box .icon.proto {
-            background: url("/img/icons8-prototype-50.png") 0 0 no-repeat;
+            background: url("/img/icons8-prototype-50.png") 0 50% no-repeat;
             background-size: contain; }
       main .block-services .block-cont .service-box .each-service-box .wolf-app {
         display: block;

@@ -38,7 +38,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                 <div class="col-8 col-md-6 menu">
                     <ul>
                         <li><a href="#About">About</a></li>
-                        <li><a href="#Services">Services</a></li>
+                        <li><a href="#Projects">Projects</a></li>
                         <li><a href="https://discord.gg/Vf2Brvq" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
                     </ul>
                 </div>
@@ -76,7 +76,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             <h2>Hi, I'm Jerome Heuze</h2>
                             <p>I am a Web Developer with 14 years of experience in Freelancing, start-up and big corporation from Silicon Valley. I have experience in small and large projects completed on time. I have maintained web properties with thousands of visitors daily.</p>
                             <p><strong>Core Skills:</strong> PHP, HTML5, CSS3, SASS, GULP, MustachePHP, HandleBars, Git, Bitbucket, Javascript, Responsive, jQuery.</p>
-                            <p><strong>Soft Skills:</strong> Etsy, WIX, Webflow, Wordpress 5.x, Optimizely X, Section 508, WAI, ADA Compliant.</p>
+                            <p><strong>Soft Skills:</strong> Hubspot, Etsy, WIX, Webflow, Wordpress 5.x, Optimizely X, Section 508, WAI, ADA Compliant.</p>
                             <p><strong>Other Skills:</strong> I am also an indie game developer in Unity3D/Construct 3 and an 3D Animator/Modeler in Blender3D.</p>
                             <p>Looking forward to teach you what I know.</p>
                         </div>
@@ -111,7 +111,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
         </div>
     </div>
 
-    <div class="block-services" id="Services">
+    <div class="block-services" id="Projects">
         <div class="container">
             <div class="block-cont">
                 <div class="row">
@@ -124,7 +124,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     <div class="col-12 col-md-12">
                         <div class="service-box">
                             <div class="title-box">
-                                <h3>Coming Soon!</h3>
+                                <a href="https://github.com/jeromeheuze/electronjs-starter-project" target="_blank"><h3>Github Start up ElectronJS project</h3></a>
+                                <p>Start your project with this ready to use blank ElectronJS repo.</p>
                                 <div class="icon responsive"></div>
                             </div>
                         </div>

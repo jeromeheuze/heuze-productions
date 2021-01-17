@@ -230,7 +230,7 @@ main {
         -moz-box-shadow: 0 8px 20px 0 rgba(221,222,222,1);
         box-shadow: 0 8px 20px 0 rgba(221,222,222,1);
         .title-box {
-          clear: both;
+          position: relative;
           border-bottom: 1px solid #eaeaea;
           padding-bottom: 10px;
           h3 {
@@ -242,43 +242,45 @@ main {
           }
           .icon {
             width: 40px;
-            height: 40px;
-            display: inline-block;
-            float: right;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            right: 0;
+
             &.responsive {
-              background: url("/img/icons8-responsive-50.png") 0 0 no-repeat;
+              background: url("/img/icons8-responsive-50.png") 0 50% no-repeat;
               background-size: contain;
             }
             &.email {
-              background: url("/img/icons8-email-document-50.png") 0 0 no-repeat;
+              background: url("/img/icons8-email-document-50.png") 0 50% no-repeat;
               background-size: contain;
             }
             &.wp {
-              background: url("/img/icons8-bulleted-list-50.png") 0 0 no-repeat;
+              background: url("/img/icons8-bulleted-list-50.png") 0 50% no-repeat;
               background-size: contain;
             }
             &.ads {
-              background: url("/img/icons8-billboard-50.png") 0 0 no-repeat;
+              background: url("/img/icons8-billboard-50.png") 0 50% no-repeat;
               background-size: contain;
             }
             &.landing {
-              background: url("/img/icons8-web-design-50.png") 0 0 no-repeat;
+              background: url("/img/icons8-web-design-50.png") 0 50% no-repeat;
               background-size: contain;
             }
             &.ada {
-              background: url("/img/icons8-web-accessibility-50.png") 0 0 no-repeat;
+              background: url("/img/icons8-web-accessibility-50.png") 0 50% no-repeat;
               background-size: contain;
             }
             &.data {
-              background: url("/img/icons8-mind-map-50.png") 0 0 no-repeat;
+              background: url("/img/icons8-mind-map-50.png") 0 50% no-repeat;
               background-size: contain;
             }
             &.opti {
-              background: url("/img/icons8-lighthouse-40.png") 0 0 no-repeat;
+              background: url("/img/icons8-lighthouse-40.png") 0 50% no-repeat;
               background-size: contain;
             }
             &.proto {
-              background: url("/img/icons8-prototype-50.png") 0 0 no-repeat;
+              background: url("/img/icons8-prototype-50.png") 0 50% no-repeat;
               background-size: contain;
             }
           }

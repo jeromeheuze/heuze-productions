@@ -19,7 +19,7 @@
 <meta name="msapplication-wide310x150logo" content="/mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="/mstile-310x310.png" />
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
-<link href="/css/style.css" rel="stylesheet">
+<link href="/css/style.css?v=<?=$version?>" rel="stylesheet">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3533973-65"></script>
 <script>

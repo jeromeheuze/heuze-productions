@@ -12,7 +12,7 @@
             </div>
             <div class="col-12 col-sm-4">
                 <div class="block-totals">
-                    <h3>Total ElectronJS Tutorials</h3>
+                    <h3>Total ElectronJS Projects</h3>
                     <p>00</p>
                 </div>
             </div>
@@ -21,7 +21,6 @@
                     <h3>Connect With Us</h3>
                     <ul>
                         <li><a href="https://www.behance.net/jerome-heuze" rel="noopener" target="_blank"><img src="/img/icons8-behance-100.png" width="30" height="30" alt="Behance" /></a></li>
-                        <li><a href="https://www.instagram.com/jeromeheuzeca/" rel="noopener" target="_blank"><img src="/img/icons8-instagram-60.png" width="30" height="30" alt="Instagram" /></a></li>
                         <li><a href="https://twitter.com/HeuzeJerome" rel="noopener" target="_blank"><img src="/img/icons8-twitter-60.png" width="30" height="30" alt="Twitter" /></a></li>
                     </ul>
                 </div>
