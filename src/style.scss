@@ -78,11 +78,11 @@ header {
   }
   &.pic {
     &.format-nowebp {
-      background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg") center center no-repeat;
+      background: url("/img/hero-2.e1681533.jpg") top center no-repeat;
       background-size: cover;
     }
     &.format-webp {
-      background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.webp") center center no-repeat;
+      background: url("/img/hero-2.e1681533.webp") top center no-repeat;
       background-size: cover;
     }
   }
@@ -90,6 +90,7 @@ header {
     font-size: 3.5rem;
     font-weight: 300;
     margin-bottom: 0;
+    text-shadow: 2px 2px 2px #000000;
     @media only screen and (min-width: 768px) and (max-width: 1200px){
       font-size: 2.5rem;
     }
@@ -102,6 +103,7 @@ header {
     margin-top: 1.5em;
     font-weight: 300;
     margin-bottom: 0;
+    text-shadow: 2px 2px 2px #000000;
     span {
       color: greenyellow;
     }
@@ -160,11 +162,11 @@ main {
           height: 300px;
           margin: 5vh auto;
           &.format-nowebp {
-            background: url("/img/500px-Electron_Software_Framework_Logo.svg.png") 0 0 no-repeat;
+            background: url("/img/e2-placeholder.8d54cea3.svg") 0 0 no-repeat;
             background-size: cover;
           }
           &.format-webp {
-            background: url("/img/500px-Electron_Software_Framework_Logo.svg.png") 0 0 no-repeat;
+            background: url("/img/e2-placeholder.8d54cea3.svg") 0 0 no-repeat;
             background-size: cover;
           }
         }
@@ -193,9 +195,6 @@ main {
             margin-right: 15px;
             &:last-child {
               margin-right: 0;
-            }
-            img {
-              height: 80%;
             }
             a {
               text-decoration: none;

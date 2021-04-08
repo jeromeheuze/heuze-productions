@@ -65,15 +65,16 @@ header {
   .banner.short {
     padding-bottom: 20px; }
   .banner.pic.format-nowebp {
-    background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg") center center no-repeat;
+    background: url("/img/hero-2.e1681533.jpg") top center no-repeat;
     background-size: cover; }
   .banner.pic.format-webp {
-    background: url("/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.webp") center center no-repeat;
+    background: url("/img/hero-2.e1681533.webp") top center no-repeat;
     background-size: cover; }
   .banner h1.line1, .banner .line1 {
     font-size: 3.5rem;
     font-weight: 300;
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    text-shadow: 2px 2px 2px #000000; }
     @media only screen and (min-width: 768px) and (max-width: 1200px) {
       .banner h1.line1, .banner .line1 {
         font-size: 2.5rem; } }
@@ -84,7 +85,8 @@ header {
     font-size: 1.2rem;
     margin-top: 1.5em;
     font-weight: 300;
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    text-shadow: 2px 2px 2px #000000; }
     .banner .line2 span {
       color: greenyellow; }
   .banner .contact-box {
@@ -128,10 +130,10 @@ main .block-hi {
       height: 300px;
       margin: 5vh auto; }
       main .block-hi .block-cont .hi-right .hi-pic.format-nowebp {
-        background: url("/img/500px-Electron_Software_Framework_Logo.svg.png") 0 0 no-repeat;
+        background: url("/img/e2-placeholder.8d54cea3.svg") 0 0 no-repeat;
         background-size: cover; }
       main .block-hi .block-cont .hi-right .hi-pic.format-webp {
-        background: url("/img/500px-Electron_Software_Framework_Logo.svg.png") 0 0 no-repeat;
+        background: url("/img/e2-placeholder.8d54cea3.svg") 0 0 no-repeat;
         background-size: cover; }
 
 main .block-tools {
@@ -151,8 +153,6 @@ main .block-tools {
         margin-right: 15px; }
         main .block-tools .block-cont .icon-side ul li:last-child {
           margin-right: 0; }
-        main .block-tools .block-cont .icon-side ul li img {
-          height: 80%; }
         main .block-tools .block-cont .icon-side ul li a {
           text-decoration: none;
           color: #fff; }
