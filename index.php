@@ -135,6 +135,32 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/eumarket-small.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🕹️ EntropiaMarket HQ</h5>
+                                <p class="card-text">Land Class: 2 - 16 tiles - Samoa</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://entropiamarket.com/" target="_blank" class="btn btn-block btn-primary">View Website</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/euhub-small.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🕹️ EntropiaHub HQ</h5>
+                                <p class="card-text">Land Class: 2 - 16 tiles - Samoa</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://entropiahub.com/" target="_blank" class="btn btn-block btn-primary">View Website</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">E2Biz Properties</h2></div>
                     <div class="col-xs-6 col-md-4">
@@ -185,6 +211,136 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
                                     <a href="https://app.earth2.io/#propertyInfo/06130c41-1751-4b6e-9bbd-05fcd20ef39f" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/c2158cfc-7b38-4b72-a245-d1c8e24a0b02.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🍚 Rice Fields</h5>
+                                <p class="card-text">Land Class: 2 - 22 tiles - Vietnam</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/c2158cfc-7b38-4b72-a245-d1c8e24a0b02" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/3f1d20e5-8c22-4eda-9f3c-c86efd0b829b.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">⚒ Fort Labrador</h5>
+                                <p class="card-text">Land Class: 3 - 4 tiles - Canada</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/3f1d20e5-8c22-4eda-9f3c-c86efd0b829b" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/c698e9a1-e561-4ea7-be22-fa3a426042da.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🚢 Porturia - Living / Shops / Import-Export</h5>
+                                <p class="card-text">Land Class: 2 - 100 tiles - Algeria</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/c698e9a1-e561-4ea7-be22-fa3a426042da" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/b60a3fde-a0d4-485f-b47b-728368755153.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🗝️ Mystery House</h5>
+                                <p class="card-text">Land Class: 2 - 15 tiles - Romania</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/b60a3fde-a0d4-485f-b47b-728368755153" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/0712fd37-ce84-4bd0-91ae-df15f3074557.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">⚒ Fort Tirana</h5>
+                                <p class="card-text">Land Class: 2 - 10 tiles - Albania</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/0712fd37-ce84-4bd0-91ae-df15f3074557" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/92bd7f15-263e-4a5f-8812-fb81fad7def9.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🦊 Animal Center - Supplies and Clinic - Pet Cafe</h5>
+                                <p class="card-text">Land Class: 2 - 37 tiles - Bulgaria</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/92bd7f15-263e-4a5f-8812-fb81fad7def9" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/4940c797-675e-4665-9dbf-89e8a55974d0.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">⚒ Fort Kabul</h5>
+                                <p class="card-text">Land Class: 2 - 6 tiles - Afghanistan</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/4940c797-675e-4665-9dbf-89e8a55974d0" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-woodlog-e2.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🪓 WoodLog, inc - E2biz</h5>
+                                <p class="card-text">Land Class: 2 - 54 tiles - Equatorial Guinea</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/ffc403ac-99c3-475d-bc41-32a3d1453a1a" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-woodlog-e2.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🪓 WoodLog, inc - E2biz</h5>
+                                <p class="card-text">Land Class: 2 - 24 tiles - Bangladesh</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/e9ffc951-cbc5-4098-8c87-92f41b12beae" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-woodlog-e2.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🪓 WoodLog, inc - E2biz</h5>
+                                <p class="card-text">Land Class: 2 - 24 tiles - Niue</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/33b60e0d-b9e4-4fdf-9d74-61cd944531dd" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -295,6 +451,19 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/150b82a9-37c3-437e-82ae-cb4dd4e39206.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🎡 Promenade Entertainment Docks</h5>
+                                <p class="card-text">Land Class: 2 - 73 tiles - Samoa</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/150b82a9-37c3-437e-82ae-cb4dd4e39206" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">Rental Properties</h2></div>
                     <div class="col-xs-6 col-md-4">
@@ -306,32 +475,6 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
                                     <a href="https://app.earth2.io/#propertyInfo/8c48673d-9bca-4bcb-a167-a8e3fca2041c" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/2d6a63d2-fae4-4262-a211-9d1da3e13dbe.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">🏛️ Corporate HQ - TBD</h5>
-                                <p class="card-text">Land Class: 2 - 16 tiles - Samoa</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/2d6a63d2-fae4-4262-a211-9d1da3e13dbe" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/c8331afb-2a6f-449c-836f-7f74bf275dd3.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">🏛️ Corporate HQ - TBD</h5>
-                                <p class="card-text">Land Class: 2 - 16 tiles - Samoa</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/c8331afb-2a6f-449c-836f-7f74bf275dd3" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
