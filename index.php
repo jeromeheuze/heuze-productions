@@ -137,6 +137,32 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
+                            <img src="/img/e2/0203e8ed-dc8d-48bc-9de2-c43ec2c0408e.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Office</h5>
+                                <p class="card-text">Land Class: 2 - 20 tiles - Japan</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/0203e8ed-dc8d-48bc-9de2-c43ec2c0408e" target="_blank" class="btn btn-block btn-primary">View HQ</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/752626ce-bd69-4961-bc67-6d85ed272f02.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🔬 Heuze Productions Research Lab</h5>
+                                <p class="card-text">Land Class: 2 - 55 tiles - Brainers Town - Paradise</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/752626ce-bd69-4961-bc67-6d85ed272f02" target="_blank" class="btn btn-block btn-primary">View Lab</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
                             <img src="/img/e2/eumarket-small.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
                             <div class="card-body">
                                 <h5 class="card-title">🕹️ EntropiaMarket HQ</h5>

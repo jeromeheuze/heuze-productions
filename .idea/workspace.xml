@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/e2/150b82a9-37c3-437e-82ae-cb4dd4e39206.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/33b60e0d-b9e4-4fdf-9d74-61cd944531dd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/4940c797-675e-4665-9dbf-89e8a55974d0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/92bd7f15-263e-4a5f-8812-fb81fad7def9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/e9ffc951-cbc5-4098-8c87-92f41b12beae.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/euhub-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/eumarket-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/ffc403ac-99c3-475d-bc41-32a3d1453a1a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/poster-woodlog-e2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +126,7 @@
       <workItem from="1617469658266" duration="2486000" />
       <workItem from="1617845734062" duration="4464000" />
       <workItem from="1618096698435" duration="3045000" />
+      <workItem from="1618183892016" duration="2071000" />
     </task>
     <servers />
   </component>
@@ -152,23 +144,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="605" y="189" key="#Deployment" timestamp="1595189466678">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="605" y="189" key="#Deployment/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595189466678" />
-    <state x="690" y="212" key="#Options" timestamp="1595190159293">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="212" key="#Options/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595190159293" />
-    <state x="802" y="261" key="ftp.server.browser" timestamp="1595187355212">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="802" y="261" key="ftp.server.browser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595187355212" />
-    <state x="943" y="440" key="publish.login" timestamp="1600635527225">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="943" y="440" key="publish.login/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600635527225" />
   </component>
 </project>
