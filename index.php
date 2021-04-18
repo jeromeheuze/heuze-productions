@@ -371,6 +371,19 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-woodlog-e2.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">🪓 WoodLog, inc - E2biz</h5>
+                                <p class="card-text">Land Class: 2 - 29 tiles - Romania</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/be46e42b-cec7-4a3e-98d3-465a5b793392" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">Entertainment Properties</h2></div>
                     <div class="col-xs-6 col-md-4">
