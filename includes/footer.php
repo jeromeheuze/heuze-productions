@@ -3,17 +3,16 @@
         <div class="row block-cont">
             <div class="col-12 col-sm-4">
                 <div class="block-actions">
-                    <h3>See Us In Action</h3>
+                    <h3>Hire us</h3>
                     <ul>
-                        <li><a href="https://www.twitch.tv/spectrum3900" rel="noopener" target="_blank"><img src="/img/icons8-twitch-60.png" width="30" height="30" alt="Twitch" /></a></li>
-                        <li><a href="https://www.youtube.com/channel/UCm6vVHB1gjf9YV8P2Iy5R7A?view_as=subscriber" rel="noopener" target="_blank"><img src="/img/icons8-youtube-100.png" width="30" height="30" alt="youTube" /></a></li>
+                        <li><a href="https://e2reviews.com/" rel="noopener" target="_blank"><img src="/img/e2-reviews-logo.png" width="79" height="51" alt="Twitch" /></a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-12 col-sm-4">
                 <div class="block-totals">
                     <h3>E2 Properties</h3>
-                    <p>142</p>
+                    <p>168</p>
                 </div>
             </div>
             <div class="col-12 col-sm-4">
