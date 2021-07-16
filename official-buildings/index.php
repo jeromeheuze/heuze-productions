@@ -22,10 +22,10 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
     <meta property="og:description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best." />
     <meta property="og:url" content="https://heuzeproductions.com/official-buildings/" />
     <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io" />
-    <meta property="og:image" content="https://heuzeproductions.com/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg" />
-    <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg" />
-    <meta property="og:image:width" content="798" />
-    <meta property="og:image:height" content="532" />
+    <meta property="og:image" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
+    <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="628" />
     <?php include "./../includes/head.php"; ?>
     <style>
         .card {
@@ -99,7 +99,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">Official Buildings</h2></div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/448d672b-eba2-4bc5-b1ef-d85a9a986815.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">💡 Heuze Productions HQ</h5>
                                 <p class="card-text">Land Class: 2 - 42 tiles - ExpoCity</p>
@@ -112,7 +112,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/0203e8ed-dc8d-48bc-9de2-c43ec2c0408e.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">💡 Heuze Productions Office</h5>
                                 <p class="card-text">Land Class: 2 - 20 tiles - Japan</p>
@@ -125,7 +125,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/752626ce-bd69-4961-bc67-6d85ed272f02.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🔬 Heuze Productions Research Lab</h5>
                                 <p class="card-text">Land Class: 2 - 55 tiles - Brainers Town - Paradise</p>
@@ -138,39 +138,104 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/eumarket-small.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">🕹️ EntropiaMarket HQ</h5>
-                                <p class="card-text">Land Class: 2 - 16 tiles - Samoa</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://entropiamarket.com/" target="_blank" class="btn btn-block btn-primary">View Website</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/euhub-small.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">🕹️ EntropiaHub HQ</h5>
-                                <p class="card-text">Land Class: 2 - 16 tiles - Samoa</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://entropiahub.com/" target="_blank" class="btn btn-block btn-primary">View Website</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/40212e60-2657-440a-8178-8048777795fd.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">💡 Heuze Productions Embassy - State1.io</h5>
                                 <p class="card-text">Land Class: 2 - 9 tiles - Djibouti</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
                                     <a href="https://www.state1.io/" target="_blank" class="btn btn-block btn-primary">View Website</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 HeuzeProductions Embassy - StarCity</h5>
+                                <p class="card-text">Land Class: 2 - 25 tiles - Morocco</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/ac934688-6eef-48f5-a57d-d755e2cbbdf6" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 HeuzeProductions Embassy - Nyanga</h5>
+                                <p class="card-text">Land Class: 2 - 29 tiles - Gabon</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/23bbbdcd-5424-4708-b272-47adb963ebbd" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 HeuzeProductions Embassy - Milne Bay</h5>
+                                <p class="card-text">Land Class: 2 - 9 tiles - Papua New Guinea</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/39347287-fa70-4be6-8082-77bda8ddfd46" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">📚 Virtual Campus - State1 - HeuzeProductions</h5>
+                                <p class="card-text">Land Class: 2 - 31 tiles - Djibouti</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/42c908fe-dc45-40f8-a44f-12eb81752449" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-xs-12"><h2 style="margin-top:3rem;">Official Resources</h2></div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-woodlog-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">🪓 WoodLog, inc HQ</h5>
+                                <p class="card-text">579 tiles</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-agronomy-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">🌾 Agronomy, inc HQ</h5>
+                                <p class="card-text">203 tiles</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-cuprum-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">⛏ Cuprum, inc HQ</h5>
+                                <p class="card-text">962 tiles</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
                                 </div>
                             </div>
                         </div>

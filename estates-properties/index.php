@@ -22,10 +22,10 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
     <meta property="og:description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best." />
     <meta property="og:url" content="https://heuzeproductions.com/estates-properties/" />
     <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io" />
-    <meta property="og:image" content="https://heuzeproductions.com/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg" />
-    <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/sandeep-swarnkar-dm7M67VaEBc-unsplash-darker.jpg" />
-    <meta property="og:image:width" content="798" />
-    <meta property="og:image:height" content="532" />
+    <meta property="og:image" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
+    <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="628" />
     <?php include "./../includes/head.php"; ?>
     <style>
         .card {
@@ -97,71 +97,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                 <div class="row">
 
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">Estates Properties</h2></div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/9e5ee4ec-3b98-4d12-8a56-e0c41b32894b.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">⛰ Crystalmere - Crater Estate</h5>
-                                <p class="card-text">Land Class: 2 - 88 tiles - Samoa</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/9e5ee4ec-3b98-4d12-8a56-e0c41b32894b" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/7e0cc9d4-429d-4e95-b864-b7084b600784.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">🏠 Solambra Estate with docks</h5>
-                                <p class="card-text">Land Class: 2 - 16 tiles - Panama</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/7e0cc9d4-429d-4e95-b864-b7084b600784" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/36c4fd83-e2f8-4b8e-8f1a-1ae22b51a8b8.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">🏠 Cliff Estate</h5>
-                                <p class="card-text">Land Class: 2 - 36 tiles - Isle of Man</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/36c4fd83-e2f8-4b8e-8f1a-1ae22b51a8b8" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/e28602cc-acac-4549-bc77-f262fe7553f1.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">🏕️ River Camp Estates</h5>
-                                <p class="card-text">Land Class: 2 - 54 tiles - Bulgaria</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/e28602cc-acac-4549-bc77-f262fe7553f1" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/ac5430a0-8bac-4114-a175-94f1c84ef338.jpg" class="card-img-top" alt="E2 Property" style="height: 10rem;">
-                            <div class="card-body">
-                                <h5 class="card-title">🏕️ Lake view Retreat</h5>
-                                <p class="card-text">Land Class: 2 - 13 tiles - Kyrgyzstan</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/ac5430a0-8bac-4114-a175-94f1c84ef338" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
 
                 </div>
             </div>

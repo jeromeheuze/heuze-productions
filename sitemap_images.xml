@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+
+  <url>
+       <loc>https://heuzeproductions.com/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/icons8-discord-50.png</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/cover-1.png</image:loc>
+         <image:caption>book cover</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/1200px-Unity_Technologies_logo.svg.png</image:loc>
+         <image:caption>Unity3D</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/1252px-Blender_logo_no_text.svg.png</image:loc>
+         <image:caption>Blender3D</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/Discord-Logo-Color.png</image:loc>
+         <image:caption>Discord App</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/twitch-purple-icon-logo-vector.png</image:loc>
+         <image:caption>Twitch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2-reviews-logo.png</image:loc>
+         <image:caption>Twitch</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/icons8-behance-100.png</image:loc>
+         <image:caption>Behance</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/icons8-twitter-60.png</image:loc>
+         <image:caption>Twitter</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/what-is-earth2/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-logo.jpg</image:loc>
+         <image:caption>E2 Logo</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-06-06-2021.jpg</image:loc>
+         <image:caption>June 03, 2021 - E2 new video screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-06-06b-2021.jpg</image:loc>
+         <image:caption>June 03, 2021 - E2 new video screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-06-06c-2021.jpg</image:loc>
+         <image:caption>June 03, 2021 - E2 new video screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-06-06d-2021.jpg</image:loc>
+         <image:caption>June 03, 2021 - E2 new video screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-06-06e-2021.jpg</image:loc>
+         <image:caption>June 03, 2021 - E2 new video screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-06-03-2021.jpg</image:loc>
+         <image:caption>June 03, 2021 - E2 EV buggy screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-05-29-2021.jpg</image:loc>
+         <image:caption>May 29, 2021 - E2 roads painted screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-05-06-2021.jpg</image:loc>
+         <image:caption>May 06, 2021 - E2 Custom flags screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-05-05-2021.jpg</image:loc>
+         <image:caption>May 05, 2021 - E2 withdraw MC screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-04-03-2021.jpg</image:loc>
+         <image:caption>Apr 03, 2021 - E2 Easter Hunt launch screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-03-20-2021.jpg</image:loc>
+         <image:caption>Mar 20, 2021 - E2 Activity Map screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-03-12-2021.jpg</image:loc>
+         <image:caption>Mar 12, 2021 - E2 Jeep in Dubai screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-03-05-2021.jpg</image:loc>
+         <image:caption>Mar 05, 2021 - E2 Eggs Hunt screenshot</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/we2/e2-sc-03-02-2021.jpg</image:loc>
+         <image:caption>Mar 02, 2021 - E2 In-Game screenshot</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/official-buildings/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/poster-hprod-e2.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/poster-woodlog-e2.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/poster-agronomy-e2.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/poster-cuprum-e2.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/casino-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/poster-casino-e2.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/poster-casino-ae-e2.jpg</image:loc>
+         <image:caption>AE Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/e2biz-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/1bf40f99-19f1-44e9-8391-4d1d04d699e4.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/47547c09-bbf1-46b4-bb46-fb35bf8bafce.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/6cc7630c-a77e-4618-a399-0fc12baf3ae4.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/06130c41-1751-4b6e-9bbd-05fcd20ef39f.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/c2158cfc-7b38-4b72-a245-d1c8e24a0b02.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/3f1d20e5-8c22-4eda-9f3c-c86efd0b829b.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/c698e9a1-e561-4ea7-be22-fa3a426042da.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/b60a3fde-a0d4-485f-b47b-728368755153.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/0712fd37-ce84-4bd0-91ae-df15f3074557.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/92bd7f15-263e-4a5f-8812-fb81fad7def9.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/4940c797-675e-4665-9dbf-89e8a55974d0.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/ebd310e8-9c32-4e41-a502-7b3505740b05.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/47cf5b98-8866-4d90-b4d9-39f2fb88afd0.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/72ecac93-6ad1-4efa-967a-b5f441374a0c.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/entertainment-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/e55844e0-73bd-4db2-9a06-3f08e9a2195f.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/64f6a6f0-14fa-4416-933e-0b04287b9807.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/248fbf39-54f9-4be1-bbc2-1e6b0c565ce0.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/ffc47247-6a33-4dfb-bff1-dfff8d436cd8.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/478b13b8-e6a5-43f8-80be-2c008641c3d2.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/bf6dd1fc-ffdd-44df-a301-f2626ff04545.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/e5081f9e-a745-4eaf-96f6-4ad6dc6a15a8.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/150b82a9-37c3-437e-82ae-cb4dd4e39206.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/rental-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/d2c2a0af-653a-49d9-baf3-bd6083719628.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/56156b9b-2569-4039-9c0a-c3fef3190ee8.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/2a32f0a9-4e30-4dc1-94af-641d0d238c93.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/2303b5ab-e038-408c-8a27-412c19f81eed.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/fafffda0-b819-443e-962e-52312c12cb55.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/0ca4bc2a-da0c-4199-af22-d9c1493b390c.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/906f2961-07c2-4537-9c7b-525ee08eeccd.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/1a4936d9-22a7-47f4-acbe-ad9e590a2b21.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/1b035188-d17c-4eb8-b745-1f75456d885b.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/168ba4a1-ca5f-474f-a224-ab03307192f0.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/e81dd63f-856f-4f2e-ae43-c9835e7daadf.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/715e3d89-6d8d-448c-a311-bdbfe768f770.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/34d4c6cd-9850-4fba-a186-6f335a3fb1d3.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/e6fe114e-69cc-4f16-b06e-2ac9bcbac805.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/b91cd2fe-d597-491f-99f0-67b8c4866af0.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/f36ea4af-5aeb-4713-bb92-0cf3f1ad4075.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/77e20a71-64a1-42d8-96e8-c5575950e595.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/6733204a-77ed-412d-8d5b-a7c5f8d7ce69.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/4688b486-9716-455d-947d-911ab36d56b1.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/421fe3d8-3a5c-4e85-a70b-0cda88ebbbc5.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/resort-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/dji-099-sm.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/b556bd9f-3bff-450d-892a-4830c4717ce5.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/aa945b29-d333-4e87-b214-5748433da426.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/d999b109-b894-4b4a-b549-4d172bbd8e22.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/a45e67c2-9ea9-41ef-be15-10bc3aa11fc5.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/abd7e6be-05f1-4020-9c7b-d3cee32a435a.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/18c18edd-0239-4d9c-a335-000a9197a392.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/35ca4424-627d-4a5a-8d2b-e9e6feefca79.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/d948afa3-fa04-4db3-81f2-a73eee87e2b3.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/ae9bcd6d-dd62-4ff3-b5f1-4053897bade2.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/bb6e935b-7e57-45f8-9338-1b7d95205889.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/poster-resort-ae.jpg</image:loc>
+         <image:caption>AE Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/estates-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/9e5ee4ec-3b98-4d12-8a56-e0c41b32894b.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/7e0cc9d4-429d-4e95-b864-b7084b600784.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/36c4fd83-e2f8-4b8e-8f1a-1ae22b51a8b8.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/e28602cc-acac-4549-bc77-f262fe7553f1.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/ac5430a0-8bac-4114-a175-94f1c84ef338.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/mega-city-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/4c3d22f9-c234-4f48-80fe-32b096219022.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/c448fcb2-5147-415f-b714-e6535fab34c9.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/7d7fc0a6-695a-4ca4-817d-c07778f08f24.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/8e998e7a-0636-4a57-855f-b5349b56b624.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/787c0a8e-eff1-497f-a5e2-3b35ba4e8fc7.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/fd350e3c-4755-463b-a31c-64ed696f3595.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/expo-city-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/5084159e-7aac-4ce0-8f4a-0aadcd9bff38.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/f432aff9-c3b6-4950-9715-33b9834e42e5.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/1df34d46-612a-4122-805d-b7f75bbf029b.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/8520f4c5-a780-45c3-aa56-3c0b7c19bd22.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/725acade-2122-4a81-a7bc-16ad3207c28f.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/ea72ff2f-3514-453c-a6da-33df6d7ba35e.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://heuzeproductions.com/resource-districts-properties/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://heuzeproductions.com/img/e2/poster-wharehouse-rd-e2.jpg</image:loc>
+         <image:caption>E2 Property</image:caption>
+       </image:image>
+  </url>
+</urlset>

@@ -12,7 +12,7 @@
             <div class="col-12 col-sm-4">
                 <div class="block-totals">
                     <h3>E2 Properties</h3>
-                    <p>168</p>
+                    <p>325</p>
                 </div>
             </div>
             <div class="col-12 col-sm-4">

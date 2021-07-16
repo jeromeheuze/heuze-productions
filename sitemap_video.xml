@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+
+  <url>
+       <loc>https://heuzeproductions.com/what-is-earth2/</loc>
+       <lastmod>2021-06-16T16:35:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/x7jajjAznSw/mqdefault.jpg</video:thumbnail_loc> 
+         <video:title>Earth 2 - Initial Physics inside the E2 Terrain Engine (watch in 2K) #01</video:title>
+         <video:description>Earth 2 launched in Nov 2020 and over a few months became the biggest seller of virtual land ever with hundreds of thousands of users participating from all over the world and millions of tiles already sold.  The sudden growth forced us to play catch up while working on a Phase 2 release in parallel, however, during this time our team has also continued working on Phase 3 during pre-production (as evident in this 2K video). 
+
+We have published two videos displaying real time rendering footage of our earth size Earth 2 Terrain Engine and the quality we are striving toward and now inside this massive terrain system we have implemented the first laws of physics.  Becoming a sudden standout in our industry has unfortunately attracted some unfounded accusations at our team and it is frustrating to receive unsubstantiated slanderous remarks simply for thinking big and outside the box and striving to create something like Earth 2 which lead our team to release this quick sneak peak of physics functioning inside our engine.  Our platform has already successfully paid out millions of dollars to our users over a short number of months and we have not even initiated Phase 2!  
+
+Above you will see some short footage thrown together showing the terrain and object physics. Objects like cars make tracks on the terrain by pushing the objects into the terrain while driving over it. The road is in fact painted rendering it as part of the terrain meaning unlimited roads are possible without ANY performance overhead, and decals, such as stripes on a road, will be able to be placed and rotated on things like the road, for example.
+
+What you see within this video is only the very beginning which showcases a fraction of the interaction that will be possible on Earth 2.  We would point out that the car&apos;s physics is just a place holder and will be replaced with accurate wheel physics and so forth.
+
+In the next video we will showcase more such as terrain editing with interactive physics both in real time and include voice over explaining what is taking place - this video we only thrown together quickly.  
+
+Remember, we are only months into this after launching our concept here with many more exciting updates ahead.
+
+We highly suggest watching this video is high quality and for the best experience please download the video and watch from the URL below :
+
+https://drive.google.com/file/d/16AqC3PRZ0aTm_bbpGOPfBdc6iTlXip_2/view?usp=sharing
+
+[SOCIAL]
+Discord: https://discord.gg/earth2
+Twitter: https://twitter.com/earth2io
+Reddit: https://www.reddit.com/r/earth2io
+Instagram: https://www.instagram.com/earth2io/
+Facebook: https://www.facebook.com/earth2game
+Twitch: https://www.twitch.tv/earth2io</video:description>
+         <video:publication_date>2021-06-07T17:49:57Z</video:publication_date>
+         <video:player_loc allow_embed="yes" autoplay="ap=1">http://www.youtube.com/embed/x7jajjAznSw</video:player_loc>
+         <video:duration>87</video:duration>
+       </video:video>
+       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/6q85xedEeps/mqdefault.jpg</video:thumbnail_loc> 
+         <video:title>Easter Egg Hunt 2021 - Earth 2</video:title>
+         <video:description>RULES AND USEFUL INFORMATION
+
+The first ever Earth 2 Egg Hunt!
+
+ 1 - The E2 Engine footage on this video (https://www.youtube.com/watch?v=6q85xedEeps ) is hiding 5 Easter Eggs!
+
+ 2 - This time no riddle to finding these eggs, just time, patience and persistence as they are hidden well
+
+3 - If you find an Egg you must SCREENSHOT, CROP and WRITE YOUR NAME on the image. DO NOT show a screenshot of the full screen or it will be DISQUALIFIED. 
+
+ 4 - Post the image to your Twitter, Instagram or Facebook timeline with the hash tag #Earth2EggHunt  . The post privacy MUST BE PUBLIC or we won&apos;t be able to VALIDATE IT!
+
+5 - You may then COMMENT or REPLY under your original post with this YouTube video URL AND your Earth 2 Profile URL - these are optional but we recommend them so we can contact you easier.
+
+6 - Winners will be announced over the following week and will receive E$ credit to their Earth 2 accounts. NFT eggs and Earth 2 Profile Eggs will be provided in the near future once our team has time to update accordingly.
+
+Any user caught hinting others on where to find an egg before all eggs have been claimed will be disqualified - so if you work out how to find one, follow the directions in the rules and keep your lips sealed to ensure your own chance of receiving a prize!
+
+The first person to find an Egg will receive the grand prize for that Egg (we are not telling you which eggs we have hidden!). There are then a limited number of follow up prizes on each Egg for the ensuing people who submit after that first Egg is reported! For example, if someone finds Egg 1 first they get the grand prize, the next 50 people to find Egg 1 will receive a follow up prize of E$100! And even more important, the ensuing 50 for each Egg will also receive an NFT Egg and Profile Egg!
+
+Good luck to everyone! Not every Egg Hunt will work like this and future hunts may work with different rules in different areas. We also look forward to releasing some more news after the Egg Hunt is done!
+
+-----
+
+This footage was thrown together using some &quot;works in progress&quot; from inside our E2 Engine! The purpose of the video is for a little bit of fun when launching the first ever Easter Egg Hunt for Earth 2 Easter Eggs!
+All footage you see here is from our E2 Engine, rendered in real time and we stress that this is only the beginning, a teaser if you will!  We are breaking open much bigger advancements than what you see here! In this video we celebrate Earth 2 inception with a teaser of what tile display might look like in Phase 3, moving at great speed (4000km/h +) through massive environments which are highly detailed and toward the end we really demonstrate a massive environment with countless objects all while rendering in real time!
+You will need FB, IG or Twitter to participate so make sure you are logged in before this video goes live! This might not be so easy ..
+Final instructions for the Easter Egg Hunt will be displayed at the end of this video .. enjoy!</video:description>
+         <video:publication_date>2021-04-03T22:00:15Z</video:publication_date>
+         <video:player_loc allow_embed="yes" autoplay="ap=1">http://www.youtube.com/embed/6q85xedEeps</video:player_loc>
+         <video:duration>188</video:duration>
+       </video:video>
+       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/pmx161RADWw/mqdefault.jpg</video:thumbnail_loc> 
+         <video:title>Earth 2 - DEV Stream 1.1 (Terrain Video LIVE)</video:title>
+         <video:description>Watch the full video in 4K: https://youtu.be/n6Q07TXpjo8
+
+Website - https://www.earth2.io (more links below)
+
+[SOCIAL]
+Discord: https://discord.gg/earth2
+Twitter: https://twitter.com/earth2io
+Reddit: https://www.reddit.com/r/earth2io
+Instagram: https://www.instagram.com/earth2io/
+Facebook: https://www.facebook.com/earth2game
+Twitch: https://www.twitch.tv/earth2io</video:description>
+         <video:publication_date>2021-02-17T16:12:20Z</video:publication_date>
+         <video:player_loc allow_embed="yes" autoplay="ap=1">http://www.youtube.com/embed/pmx161RADWw</video:player_loc>
+         <video:duration>1233</video:duration>
+       </video:video>
+       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/n6Q07TXpjo8/mqdefault.jpg</video:thumbnail_loc> 
+         <video:title>Earth 2 Engine Terrain System in 4K (Official)</video:title>
+         <video:description>So here it is: uninterrupted in-game footage showcasing the E2 Engine for the first time and a taste of the quality that users can expect in the future with Phase 3.  We have released this video for all of our amazing supporters who have been waiting so patiently to view it, but also for validation to prove the E2 Engine does exist and already runs a highly performant terrain system capable of streaming the world, an engine that has been built over many years.  This is the first glimpse of the future and what Phase 3 and beyond will look like, and it is only the beginning.
+ 
+Let us explain to you what can be seen on it - and what makes it so special. 
+
+Commencement of Phase 2 is almost upon us but during Phase 2, a dedicated team will continue working on Phase 3.  Our goal for Phase 3 is to render earth size planet terrains with extreme vegetation and details reaching maximum performance, where movement can be very fast without loading and any popping artifacts, while the terrain needs to look great from any camera angle and altitude without texture tiling artifacts.  The terrain system is part of the E2 Engine which is built on top of the Unity game engine. We chose Unity because it’s known for being very versatile, easily expandable, the King of iteration and being suitable for big teams. Fast iteration helps a lot in reducing the development time, as we need to do a lot of technical research/implementations and work on many systems in parallel for our ambitious project. 
+ 
+What we show in the video is only the beginning, but it clearly demonstrates just how advanced the Earth 2 Phase 3 development is at.  Nathaniel, the Earth 2 Lead Game Developer who lives in the location shown, has been responsible for its development and has done an outstanding job!  The in-game footage has also been recorded by Ferran, the Earth 2 Lead Technical Artist. This video displays an example of what one biome - one of many - in Earth 2 will look like and is the same build that Shane, the Earth 2 CEO uses to find peace escaping Earth 1. 
+ 
+Earth 2 will have the approximated look of Earth 1 with its many biomes like grassland, forest, tropical, desert, tundra, marine, etc.  Having achieved this to date, imagine what we can do once our team expands and we continue to board developers with similar skills and build out Earth 2, the massive immersive alternative reality where you can truly be limitless and free, at any place of your choosing without some of those limitations and issues of Earth 1.
+ 
+Although what we have created to date is certainly spectacular, improvements are constantly being made - terrain shadows, smooth Level of Detail transitions on the objects, volumetric lighting, more advanced placement, better 3D models, improved shading, etc.  This video is created to show what our team can do and what our concept and the future of the Earth 2 project may look like.  We will continue to prove that we have the capabilities to achieve all that we have set out to achieve!  We are in this for the long haul and are glad to have you all as part of the journey!
+ 
+Performance is very important for us, as we want to support the widest range of hardware and platforms possible while we aim for massive immersion.  The terrain system and object rendering system of the E2 Engine are extremely optimized, using all kinds of innovations to render outside of the box, giving many magnitudes more performance then traditional rendering. We feel that Earth 2 is around us and we want the players to experience the immersion of Earth 2’s virtual reality metaverse.  Phase 3 will start with PC but we will support many more platforms.  The VR platform is definitely one of the main ones we want to support for maximum immersion.
+ 
+You might think the E2 Engine will fry your GPU, but that’s not the case as it’s extremely optimized.  For example, the entire terrain mesh is rendered with only 8 draw calls and 1 material without using any tessellation. The terrain system is very downscale-able for lower hardware and lower settings still gives a great look:
+ 
+To read up a little more please check out :
+https://drive.google.com/file/d/1KWRp9ESIu5q9tvd1dxYrR2Ml3idCnGoC/view?usp=sharing
+ 
+We hope that our goals and dreams will translate into your goals and dreams and that your imagination can start to run wild with the possibilities we envisage Earth 2 bringing to the world.
+
+Thank you for your support and belief, it is a driving force for the whole Earth 2 team and we genuinely get excited each time we work on something new for our extended family, you!
+
+One final note, our recreation has also proven something else .. &quot;no&quot;, it’s not flat!
+
+
+Website - https://www.earth2.io (more links below)
+
+[SOCIAL]
+Discord: https://discord.gg/earth2
+Twitter: https://twitter.com/earth2io
+Reddit: https://www.reddit.com/r/earth2io
+Instagram: https://www.instagram.com/earth2io/
+Facebook: https://www.facebook.com/earth2game
+Twitch: https://www.twitch.tv/earth2io</video:description>
+         <video:publication_date>2021-02-16T19:00:21Z</video:publication_date>
+         <video:player_loc allow_embed="yes" autoplay="ap=1">http://www.youtube.com/embed/n6Q07TXpjo8</video:player_loc>
+         <video:duration>334</video:duration>
+       </video:video>
+       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/-951LpdmAqw/mqdefault.jpg</video:thumbnail_loc> 
+         <video:title>Earth2 DEV Stream</video:title>
+         <video:description>Live on: Twitch, YouTube, Twitter, Facebook</video:description>
+         <video:publication_date>2020-12-31T05:11:50Z</video:publication_date>
+         <video:player_loc allow_embed="yes" autoplay="ap=1">http://www.youtube.com/embed/-951LpdmAqw</video:player_loc>
+         <video:duration>4082</video:duration>
+       </video:video>
+       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/fa4hHBP-kOw/mqdefault.jpg</video:thumbnail_loc> 
+         <video:title>Earth 2 Inception - 2020</video:title>
+         <video:description>Introduction of Earth 2 to Earth.
+Claim your piece of Earth 2 today - https://www.earth2.io (more links below)
+
+https://earth2.io/about
+https://earth2.io/ideology
+https://earth2.io/faq
+
+https://discord.gg/Wj4sbCWHed (Official Discord Channel)
+https://www.facebook.com/groups/earth2io/ (Official Facebook Group)</video:description>
+         <video:publication_date>2020-10-26T12:56:29Z</video:publication_date>
+         <video:player_loc allow_embed="yes" autoplay="ap=1">http://www.youtube.com/embed/fa4hHBP-kOw</video:player_loc>
+         <video:duration>89</video:duration>
+       </video:video>
+  </url>
+</urlset>

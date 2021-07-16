@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Math</title>
+</head>
+<body>
+<main>
+    <div class="output"></div>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    $(document).ready(function() {
+
+        for (var a=[],i=0;i<=20;++i) a[i]=i;
+        for (var b=[],i=0;i<=30;++i) b[i]=i;
+
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * max);
+        }
+
+        function shuffle(array) {
+            var tmp, current, top = array.length;
+            if(top) while(--top) {
+                current = Math.floor(Math.random() * (top + 1));
+                tmp = array[current];
+                array[current] = array[top];
+                array[top] = tmp;
+            }
+            return array;
+        }
+
+        const arr = shuffle(a);
+        const arr2 = shuffle(b);
+
+        $.each(arr, function(index, value) {
+            let rnd1 = getRandomInt(21);
+            let rnd2 = getRandomInt(21);
+            $(".output").append("<p>"+arr[rnd1]+" - "+arr2[rnd2]+" - "+arr[rnd1]+" - "+arr[rnd2]+" = </p>");
+        });
+
+    });
+</script>
+</body>
+</html>

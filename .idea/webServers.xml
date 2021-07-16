@@ -5,7 +5,7 @@
       <webServer id="384f637d-d134-4b1b-9f03-eb72965f6937" name="bluehost-hprod" url="https://heuzeproductions.com/">
         <fileTransfer rootFolder="/heuzeproductions" host="ftp.jeromeheuze.com" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

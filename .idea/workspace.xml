@@ -2,30 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/e2biz-properties/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entertainment-properties/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estates-properties/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expo-city-properties/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/40212e60-2657-440a-8178-8048777795fd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/421fe3d8-3a5c-4e85-a70b-0cda88ebbbc5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/4688b486-9716-455d-947d-911ab36d56b1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/47cf5b98-8866-4d90-b4d9-39f2fb88afd0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/6733204a-77ed-412d-8d5b-a7c5f8d7ce69.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/72ecac93-6ad1-4efa-967a-b5f441374a0c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/b556bd9f-3bff-450d-892a-4830c4717ce5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/d62015be-c62c-48fa-b212-ed4d7a4f8c43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/ebd310e8-9c32-4e41-a502-7b3505740b05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e2/ee64ae8a-4654-408c-8424-62cae0ab7ffc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mega-city-properties/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/official-buildings/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rental-properties/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resort-properties/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitemap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino-properties/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/Build/Web.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/Build/Web.framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/Build/Web.loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/Build/Web.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/Build/web3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/Build/web3Connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/fullscreen-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/progress-bar-empty-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/progress-bar-empty-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/progress-bar-full-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/progress-bar-full-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/unity-logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/unity-logo-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/TemplateData/webgl-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casino/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed_rss.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cover-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-sc-03-02-2021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-sc-03-05-2021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-sc-03-12-2021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-sc-03-20-2021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-sc-04-03-2021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-sc-05-05-2021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-sc-05-06-2021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/we2/e2-sc-05-29-2021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf/earth2-tile-planner-freepreview-v1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource-districts-properties/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap_images.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap_video.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urllist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/what-is-earth2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/heuze-productions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/heuze-productions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2biz-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/e2biz-properties/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entertainment-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/entertainment-properties/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estates-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/estates-properties/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expo-city-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/expo-city-properties/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mega-city-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/mega-city-properties/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/official-buildings/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/official-buildings/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/rental-properties/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resort-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/resort-properties/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +72,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +101,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -66,7 +112,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/casino" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,11 +127,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Github\heuze-productions\casino" />
+      <recent name="C:\Github\heuze-productions\casino\TemplateData" />
+      <recent name="C:\Github\heuze-productions\casino\Build" />
       <recent name="C:\Github\heuze-productions" />
-      <recent name="C:\Github\heuze-productions\expo-city-properties" />
-      <recent name="C:\Github\heuze-productions\mega-city-properties" />
-      <recent name="C:\Github\heuze-productions\estates-properties" />
-      <recent name="C:\Github\heuze-productions\resort-properties" />
+      <recent name="C:\Github\heuze-productions\pdf" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -169,6 +215,27 @@
       <workItem from="1619572813712" duration="2200000" />
       <workItem from="1619721854130" duration="2558000" />
       <workItem from="1620018466688" duration="890000" />
+      <workItem from="1620141683309" duration="595000" />
+      <workItem from="1620443089473" duration="1847000" />
+      <workItem from="1620510681954" duration="11000" />
+      <workItem from="1621094186926" duration="1045000" />
+      <workItem from="1621468574500" duration="7778000" />
+      <workItem from="1621800352718" duration="1020000" />
+      <workItem from="1622310032825" duration="8842000" />
+      <workItem from="1623002262304" duration="38000" />
+      <workItem from="1623002340261" duration="2290000" />
+      <workItem from="1623378449445" duration="1486000" />
+      <workItem from="1623641783964" duration="2738000" />
+      <workItem from="1623728550041" duration="3688000" />
+      <workItem from="1623861420121" duration="49000" />
+      <workItem from="1623901026341" duration="3162000" />
+      <workItem from="1623954792444" duration="1987000" />
+      <workItem from="1624382010640" duration="2895000" />
+      <workItem from="1625369750906" duration="2048000" />
+      <workItem from="1625446810142" duration="23870000" />
+      <workItem from="1625944378054" duration="5006000" />
+      <workItem from="1626389067419" duration="595000" />
+      <workItem from="1626476414039" duration="780000" />
     </task>
     <servers />
   </component>
