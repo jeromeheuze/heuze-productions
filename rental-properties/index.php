@@ -281,19 +281,6 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/b91cd2fe-d597-491f-99f0-67b8c4866af0.jpg" class="card-img-top" alt="E2 Property">
-                            <div class="card-body">
-                                <h5 class="card-title">⛰ Lake Complex</h5>
-                                <p class="card-text">Land Class: 2 - 36 tiles - Uzbekistan</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/b91cd2fe-d597-491f-99f0-67b8c4866af0" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
                             <img src="/img/e2/f36ea4af-5aeb-4713-bb92-0cf3f1ad4075.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🏕️ Lake House</h5>
