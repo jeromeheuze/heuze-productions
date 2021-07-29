@@ -192,6 +192,19 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="card">
                             <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
+                                <h5 class="card-title">💡 HeuzeProductions Embassy - Zigurat City</h5>
+                                <p class="card-text">Land Class: 2 - 49 tiles - Western Sahara</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/76c66135-746a-42df-83cb-c1294a53049a" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
                                 <h5 class="card-title">📚 Virtual Campus - State1 - HeuzeProductions</h5>
                                 <p class="card-text">Land Class: 2 - 31 tiles - Djibouti</p>
                                 <div class="d-grid gap-2">
