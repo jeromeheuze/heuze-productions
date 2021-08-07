@@ -205,6 +205,58 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="card">
                             <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
+                                <h5 class="card-title">💡 HeuzeProductions Embassy - Skye City</h5>
+                                <p class="card-text">Land Class: 2 - 16 tiles - Papua New Guinea</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#thegrid/0e82cacc-5ad6-48f3-a100-774e778c25c6" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 HeuzeProductions Embassy - Hippoland</h5>
+                                <p class="card-text">Land Class: 2 - 16 tiles - Myanmar</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#thegrid/fe13300b-b2a9-4bba-8283-dbe6aaca11c5" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 HeuzeProductions Embassy - Techopia - AK</h5>
+                                <p class="card-text">Land Class: 2 - 34 tiles - North Macedonia</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#thegrid/4b6f2bb7-aa52-4298-bc73-b4e98764e0ca" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 HeuzeProductions Embassy - Asgard - Tree of Life</h5>
+                                <p class="card-text">Land Class: 2 - 28 tiles - Greenland</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#thegrid/89f39755-a7b0-4ef8-a817-a896353bf5dd" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
                                 <h5 class="card-title">📚 Virtual Campus - State1 - HeuzeProductions</h5>
                                 <p class="card-text">Land Class: 2 - 31 tiles - Djibouti</p>
                                 <div class="d-grid gap-2">
