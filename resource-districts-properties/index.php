@@ -78,7 +78,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="hi-left">
                             <h2>MegaCity: Resource Districts</h2>
                             <p>Heuze Productions has bought many plots of land to connect with Resource Districts in 6 Mega Cities in Earth2.</p>
-                            <p>Visit my <a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">E2 Profile</a> and use my code to get 5% off - <strong>DNGFDKD2UX</strong></p>
+                            
                         </div>
                     </div>
                     <div class="col-12 col-md-5">

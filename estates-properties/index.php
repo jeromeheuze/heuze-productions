@@ -78,7 +78,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="hi-left">
                             <h2>Rent properties in Earth2.io</h2>
                             <p>Heuze Productions has a great selection of rentals for your needs. Island getaway or full buildings for your business. Even start-ups can rent and meet to build their next huge success in private. Take your first step into Earth2 virtual world and enjoy without buying and maintaining the land.</p>
-                            <p>Visit my <a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">E2 Profile</a> and use my code to get 5% off - <strong>DNGFDKD2UX</strong></p>
+                            
                         </div>
                     </div>
                     <div class="col-12 col-md-5">

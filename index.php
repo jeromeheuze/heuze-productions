@@ -185,6 +185,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     <div class="col-xs-4"><a href="/rental-properties/"><h2 style="margin-top:3rem;">Rental Properties</h2></a></div>
                     <div class="col-xs-4"><a href="/resort-properties/"><h2 style="margin-top:3rem;">Resort Properties</h2></a></div>
                     <div class="col-xs-4"><a href="/mega-city-properties/"><h2 style="margin-top:3rem;">Mega City Properties</h2></a></div>
+                    <div class="col-xs-4"><a href="/mega-city-pili-pala/"><h2 style="margin-top:3rem;">Pili-Pala Properties</h2></a></div>
                     <div class="col-xs-4"><a href="/expo-city-properties/"><h2 style="margin-top:3rem;">Expo City Properties</h2></a></div>
                     <div class="col-xs-4"><a href="/resource-districts-properties/"><h2 style="margin-top:3rem;">Resource Districts Properties</h2></a></div>
 

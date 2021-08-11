@@ -78,7 +78,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="hi-left">
                             <h2>MegaCity: ExpoCity</h2>
                             <p>Heuze Productions has bought many plots of land in the megacity called ExpoCity on Earth2.</p>
-                            <p>Visit my <a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">E2 Profile</a> and use my code to get 5% off - <strong>DNGFDKD2UX</strong></p>
+                            
                         </div>
                     </div>
                     <div class="col-12 col-md-5">
@@ -97,9 +97,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                 <div class="row">
 
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">Expo City Properties</h2></div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/5084159e-7aac-4ce0-8f4a-0aadcd9bff38.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🕹️ Video Games Booths</h5>
                                 <p class="card-text">Land Class: 2 - 270 tiles - ExpoCity</p>
@@ -110,9 +109,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/f432aff9-c3b6-4950-9715-33b9834e42e5.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🛶 Vacation Rentals</h5>
                                 <p class="card-text">Land Class: 2 - 30 tiles - ExpoCity</p>
@@ -123,9 +121,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/1df34d46-612a-4122-805d-b7f75bbf029b.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">⛵ Booth - HouseBoat, E2biz</h5>
                                 <p class="card-text">Land Class: 2 - 35 tiles - ExpoCity</p>
@@ -136,9 +133,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/8520f4c5-a780-45c3-aa56-3c0b7c19bd22.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🚙 4x4 Vehicles</h5>
                                 <p class="card-text">Land Class: 2 - 35 tiles - ExpoCity</p>
@@ -149,9 +145,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/725acade-2122-4a81-a7bc-16ad3207c28f.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">⛱ Booth Earth2Rentals.com</h5>
                                 <p class="card-text">Land Class: 2 - 30 tiles - ExpoCity</p>
@@ -162,9 +157,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/ea72ff2f-3514-453c-a6da-33df6d7ba35e.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">✨ Entertainment Furniture - E2Biz</h5>
                                 <p class="card-text">Land Class: 2 - 30 tiles - ExpoCity</p>

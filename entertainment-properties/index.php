@@ -78,7 +78,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="hi-left">
                             <h2>Entertainment properties</h2>
                             <p>Discover our selection of Entertainment properties ran and managed by Heuze Productions' team. We have your avatar in mind first. Stay, buy, play or explore in our many virtual properties in Earth2.io!</p>
-                            <p>Visit my <a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">E2 Profile</a> and use my code to get 5% off - <strong>DNGFDKD2UX</strong></p>
+                            
                         </div>
                     </div>
                     <div class="col-12 col-md-5">
@@ -97,9 +97,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                 <div class="row">
 
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">Entertainment Properties</h2></div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/e55844e0-73bd-4db2-9a06-3f08e9a2195f.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🎡 Promenade Entertainment</h5>
                                 <p class="card-text">Land Class: 2 - 40 tiles - Samoa</p>
@@ -110,9 +109,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/64f6a6f0-14fa-4416-933e-0b04287b9807.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🍜 Dock Restaurants and Living</h5>
                                 <p class="card-text">Land Class: 2 - 40 tiles - Samoa</p>
@@ -123,9 +121,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/248fbf39-54f9-4be1-bbc2-1e6b0c565ce0.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🎯 Olympic Archery Center</h5>
                                 <p class="card-text">Land Class: 2 - 91 tiles - Belarus</p>
@@ -136,9 +133,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/ffc47247-6a33-4dfb-bff1-dfff8d436cd8.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🏹 Field Archery World</h5>
                                 <p class="card-text">Land Class: 2 - 104 tiles - Shops, Expo, Living in Belarus</p>
@@ -149,9 +145,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/478b13b8-e6a5-43f8-80be-2c008641c3d2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🎏 FishingWorld Expo</h5>
                                 <p class="card-text">Land Class: 2 - 117 tiles - Belarus</p>
@@ -162,9 +157,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/bf6dd1fc-ffdd-44df-a301-f2626ff04545.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🏯 Mega Mall and Premium Apt</h5>
                                 <p class="card-text">Land Class: 2 - 36 tiles - Samoa</p>
@@ -175,9 +169,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/e5081f9e-a745-4eaf-96f6-4ad6dc6a15a8.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🛕 Shop Center and Apt</h5>
                                 <p class="card-text">Land Class: 2 - 84 tiles - Shangrilla</p>
@@ -188,9 +181,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/150b82a9-37c3-437e-82ae-cb4dd4e39206.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🎡 Promenade Entertainment Docks</h5>
                                 <p class="card-text">Land Class: 2 - 73 tiles - Samoa</p>
@@ -201,9 +193,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/150b82a9-37c3-437e-82ae-cb4dd4e39206.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🌐 Biospheres Vacation Park - The Legacy of Bermuda</h5>
                                 <p class="card-text">Land Class: 2 - 298 tiles - Bermuda</p>

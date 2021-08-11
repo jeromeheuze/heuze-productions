@@ -21,14 +21,14 @@ header {
   header.header-cont .branding {
     text-align: left; }
     header.header-cont .branding a {
-      text-decoration: none; }
-    header.header-cont .branding h1 {
+      text-decoration: none;
       text-transform: capitalize;
       color: #fff;
       font-weight: 500;
       font-size: 1em;
       padding-top: 20px;
-      margin: 0; }
+      line-height: 39px;
+      margin: 0;}
   header.header-cont .menu {
     text-align: right; }
     header.header-cont .menu ul {

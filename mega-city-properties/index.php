@@ -78,7 +78,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="hi-left">
                             <h2>Embassies and presence</h2>
                             <p>Heuze Productions has bought many plots of land in the most popular megacities on Earth2.</p>
-                            <p>Visit my <a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">E2 Profile</a> and use my code to get 5% off - <strong>DNGFDKD2UX</strong></p>
+                            
                         </div>
                     </div>
                     <div class="col-12 col-md-5">
@@ -97,9 +97,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                 <div class="row">
 
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">Mega City Properties</h2></div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/4c3d22f9-c234-4f48-80fe-32b096219022.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🈳 Floating Hotel & Mall</h5>
                                 <p class="card-text">Land Class: 2 - 33 tiles - MANDO STAR Ship</p>
@@ -110,9 +109,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/c448fcb2-5147-415f-b714-e6535fab34c9.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🦚 Wild Birds Reserve</h5>
                                 <p class="card-text">Land Class: 2 - 75 tiles - Kiribati City</p>
@@ -123,9 +121,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/d2c2a0af-653a-49d9-baf3-bd6083719628.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">⛴ Premium Apts & Shops</h5>
                                 <p class="card-text">Land Class: 2 - 150 tiles - Kiribati City</p>
@@ -136,9 +133,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/7d7fc0a6-695a-4ca4-817d-c07778f08f24.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🔊 Music Store</h5>
                                 <p class="card-text">Land Class: 2 - 48 tiles - Club2</p>
@@ -149,9 +145,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/8e998e7a-0636-4a57-855f-b5349b56b624.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">👑 Premium Shop Deluxe</h5>
                                 <p class="card-text">Land Class: 2 - 11 tiles - Atlantis</p>
@@ -162,9 +157,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/787c0a8e-eff1-497f-a5e2-3b35ba4e8fc7.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🛕 4 Squares Block</h5>
                                 <p class="card-text">Land Class: 2 - 221 tiles - Shangrilla</p>
@@ -175,9 +169,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/fd350e3c-4755-463b-a31c-64ed696f3595.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🗺️ TBD</h5>
                                 <p class="card-text">Land Class: 2 - 15 tiles - Antarctica</p>
@@ -188,9 +181,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/poster-bermuda-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🔱 Le Trident - Restaurant & Living - Legacy of Bermuda MegaCity</h5>
                                 <p class="card-text">Land Class: 2 - 58 tiles - Bermuda</p>
@@ -201,9 +193,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/poster-bermuda-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🔱 Le Trident - Conference Hall #1 - Legacy of Bermuda MegaCity</h5>
                                 <p class="card-text">Land Class: 2 - 29 tiles - Bermuda</p>
@@ -214,9 +205,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/poster-bermuda-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🔱 Le Trident - Conference Hall #2 - Legacy of Bermuda MegaCity</h5>
                                 <p class="card-text">Land Class: 2 - 29 tiles - Bermuda</p>
@@ -227,9 +217,8 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-12">
                         <div class="card">
-                            <img src="/img/e2/poster-bermuda-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🐚 Spiral - Luxurious Residences / Shops - The Legacy of Bermuda</h5>
                                 <p class="card-text">Land Class: 2 - 250 tiles - Bermuda</p>

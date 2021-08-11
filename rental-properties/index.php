@@ -78,7 +78,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="hi-left">
                             <h2>Would you like to rent a property in Earth2.io?</h2>
                             <p>Heuze Productions has a wonderful selection of pre-build, pre-furnished locations at an affordable price. We have apartments complex, shopping malls, megacity offices, great views of the natural wonders of Earth2. Prepared to be amaze and claim your virtual space for pleasure or business!</p>
-                            <p>Visit my <a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">E2 Profile</a> and use my code to get 5% off - <strong>DNGFDKD2UX</strong></p>
+                            
                         </div>
                     </div>
                     <div class="col-12 col-md-5">
@@ -470,6 +470,19 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
                                     <a href="https://app.earth2.io/#propertyInfo/54a6e48a-c77b-4d6c-84c9-1eb81f5764da" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-shops-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">👑 Rent - AltantisE2 Shops (8 Properties)</h5>
+                                <p class="card-text">Land Class: 2 - 4-6 tiles - Myanmar</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#thegrid/50b542a2-4d1a-4388-9fe7-5e856292bb1a" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
