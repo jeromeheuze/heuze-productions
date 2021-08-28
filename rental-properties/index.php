@@ -487,6 +487,33 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-shops-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">🟢 Rental Shop/Office - AK - South City (6 Properties)</h5>
+                                <p class="card-text">Land Class: 2 - 2-3 tiles - Lesotho</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#thegrid/d755a51f-c555-4a1e-846a-0a16da212fe5" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-shops-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">🟢 Rental Fashion Shop/Office - State1 (5 Properties)</h5>
+                                <p class="card-text">Land Class: 2 - 2-3-4 tiles - Djibouti</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#thegrid/d755a51f-c555-4a1e-846a-0a16da212fe5" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
 
                 </div>
             </div>

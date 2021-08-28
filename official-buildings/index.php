@@ -270,6 +270,19 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="card">
                             <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - OSC</h5>
+                                <p class="card-text">Land Class: 2 - 35 tiles - Slovakia</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/d29eaa80-a477-4031-8b3f-bf88b4c1a156" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
                                 <h5 class="card-title">📚 Virtual Campus - State1 - HeuzeProductions</h5>
                                 <p class="card-text">Land Class: 2 - 31 tiles - Djibouti</p>
                                 <div class="d-grid gap-2">
@@ -281,12 +294,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
 
 
+
                     <div class="col-xs-12"><h2 style="margin-top:3rem;">Official Resources</h2></div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/poster-woodlog-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <img src="/img/e2/poster-woodlog-e2.jpg?v=001" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
-                                <h5 class="card-title">🪓 WoodLog, inc HQ</h5>
+                                <h5 class="card-title">🪓 WoodLog, inc</h5>
                                 <p class="card-text">579 tiles</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
@@ -296,9 +310,9 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/poster-agronomy-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <img src="/img/e2/poster-agronomy-e2.jpg?v=001" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
-                                <h5 class="card-title">🌾 Agronomy, inc HQ</h5>
+                                <h5 class="card-title">🌾 Agronomy, inc</h5>
                                 <p class="card-text">203 tiles</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
@@ -308,10 +322,22 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/poster-cuprum-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <img src="/img/e2/poster-cuprum-e2.jpg?v=002" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
-                                <h5 class="card-title">⛏ Cuprum, inc HQ</h5>
+                                <h5 class="card-title">⛏ Cuprum, inc</h5>
                                 <p class="card-text">962 tiles</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-sandexport-e2.jpg?v=001" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">⏳ Sand Export, inc</h5>
+                                <p class="card-text">30 tiles</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
                                 </div>

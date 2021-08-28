@@ -229,6 +229,30 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             </div>
                         </div>
                     </div>
+                    <div class="col-xs-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">🏬 Galleria Mall Complex - Eclipse Village</h5>
+                                <p class="card-text">Land Class: 2 - 65 tiles - Guatemala</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/5f23e271-4a69-4572-908b-fc02a924d058" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">🏢 Incubator Office Startup - Eclipse Village</h5>
+                                <p class="card-text">Land Class: 2 - 41 tiles - Guatemala</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/28caee74-86a2-459f-aec1-3af3dd63d1ac" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
             </div>
