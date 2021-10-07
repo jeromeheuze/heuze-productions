@@ -12,16 +12,16 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Resort Properties | Heuze Productions - virtual business in Earth2.io</title>
+    <title>Resort Properties | Heuze Productions - virtual business in Earth2.io and other Metaverse</title>
     <meta name="Description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://heuzeproductions.com/resort-properties/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best." />
     <meta property="og:url" content="https://heuzeproductions.com/resort-properties/" />
-    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:image" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:width" content="1200" />
@@ -35,27 +35,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 </head>
 <body>
 
-<header class="header-cont bootstrap-wrapper" id="top">
-    <nav>
-        <div class="container">
-            <div class="row">
-                <div class="col-4 col-md-6 branding"><a href="/"><h1>Heuze Productions</h1></a></div>
-                <div class="col-8 col-md-6 menu">
-                    <ul>
-                        <li><a href="/">All Properties</a></li>
-                        <li><a href="https://discord.gg/d3hewUZBHW" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
-</header>
+<?php include "./../includes/header.php"; ?>
 
 <div class="banner full pic format-<?=$fileTypeCss;?>">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8">
-                <h1 class="line1">Resort Properties</h1>
+                <h2 class="line1">Resort Properties</h2>
             </div>
             <div class="col-12 col-md-4">
                 <div class="contact-box">
@@ -229,26 +215,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                     </div>
                     <div class="col-xs-6 col-md-4">
                         <div class="card">
-                            <img src="/img/e2/bb6e935b-7e57-45f8-9338-1b7d95205889.jpg" class="card-img-top" alt="E2 Property">
-                            <div class="card-body">
-                                <h5 class="card-title">🏖️ Balboa Rose Beach</h5>
-                                <p class="card-text">Land Class: 2 - 144 tiles - Panama</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/bb6e935b-7e57-45f8-9338-1b7d95205889" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
                             <img src="/img/e2/poster-resort-ae.jpg" class="card-img-top" alt="AE Property">
                             <div class="card-body">
                                 <h5 class="card-title">Mission Point Resort</h5>
                                 <p class="card-text">Mackinac Island, MI</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/4375db9d-ddf8-4e68-9f68-db2d2b553060" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.sugars.hesitation.dancing" class="btn btn-block btn-primary" target="_blank">View AE Property</a>
                                 </div>
                             </div>
                         </div>
@@ -261,7 +234,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">South Lake Tahoe, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/f94cb28b-6087-4b6f-af2b-dee00b6d541a" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.olive.this.scare" class="btn btn-block btn-primary" target="_blank">View AE Property</a>
                                 </div>
                             </div>
                         </div>

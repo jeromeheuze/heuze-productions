@@ -12,16 +12,16 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Casino Properties | Heuze Productions - virtual business in Earth2.io</title>
+    <title>Casino Properties | Heuze Productions - virtual business in Earth2.io and other Metaverse</title>
     <meta name="Description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://heuzeproductions.com/casino-properties/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best." />
     <meta property="og:url" content="https://heuzeproductions.com/casino-properties/" />
-    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:image" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:width" content="1200" />
@@ -35,27 +35,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 </head>
 <body>
 
-<header class="header-cont bootstrap-wrapper" id="top">
-    <nav>
-        <div class="container">
-            <div class="row">
-                <div class="col-4 col-md-6 branding"><a href="/"><h1>Heuze Productions</h1></a></div>
-                <div class="col-8 col-md-6 menu">
-                    <ul>
-                        <li><a href="/">All Properties</a></li>
-                        <li><a href="https://discord.gg/d3hewUZBHW" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
-</header>
+<?php include "./../includes/header.php"; ?>
 
 <div class="banner full pic format-<?=$fileTypeCss;?>">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8">
-                <h1 class="line1">Earth2 & AfterEarth virtual Casinos</h1>
+                <h2 class="line1">Earth2 & AfterEarth virtual Casinos</h2>
             </div>
             <div class="col-12 col-md-4">
                 <div class="contact-box">
@@ -102,76 +88,11 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="card">
                             <img src="/img/e2/poster-casino-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
-                                <h5 class="card-title">🌺 Hibiscus - Mega Casino Resort / Shopping / Living</h5>
-                                <p class="card-text">Land Class: 2 - 355 tiles - Belize</p>
+                                <h5 class="card-title">CMC Casinos</h5>
+                                <p class="card-text">Belize</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/ee64ae8a-4654-408c-8424-62cae0ab7ffc" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/poster-casino-e2.jpg" class="card-img-top" alt="E2 Property">
-                            <div class="card-body">
-                                <h5 class="card-title">🏵️ Rosette - Mega Casino Resort / Shopping / Living</h5>
-                                <p class="card-text">Land Class: 2 - 415 tiles - Belize</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/d62015be-c62c-48fa-b212-ed4d7a4f8c43" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/poster-casino-e2.jpg" class="card-img-top" alt="E2 Property">
-                            <div class="card-body">
-                                <h5 class="card-title">🌸 Sakura Casino - Downtown Casino Resort - Play / Dine / Dance</h5>
-                                <p class="card-text">Land Class: 2 - 28 tiles - Belize</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/7942df21-be9b-44c2-bf62-68db319d8f6a" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/poster-casino-e2.jpg" class="card-img-top" alt="E2 Property">
-                            <div class="card-body">
-                                <h5 class="card-title">🐙 Octopus Restaurant & Casino - Under-The-Sea Suite</h5>
-                                <p class="card-text">Land Class: 2 - 60 tiles - Belize</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/7942df21-be9b-44c2-bf62-68db319d8f6a" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/poster-casino-e2.jpg" class="card-img-top" alt="E2 Property">
-                            <div class="card-body">
-                                <h5 class="card-title">✨ The Obsidian Nebula Casino - Mega Casino Resort / Shopping / Living</h5>
-                                <p class="card-text">Land Class: 2 - 750 tiles - Belize</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/a3caca51-d0e7-4ee5-87e1-697217e38315" class="btn btn-block btn-primary" target="_blank">View Property</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div class="card">
-                            <img src="/img/e2/poster-casino-e2.jpg" class="card-img-top" alt="E2 Property">
-                            <div class="card-body">
-                                <h5 class="card-title">💎💎💎 Triple Diamond Casino Resort - CMC</h5>
-                                <p class="card-text">Land Class: 2 - 304 tiles - Belize</p>
-                                <div class="d-grid gap-2">
-                                    <p>Coming Soon!</p>
-                                    <a href="https://app.earth2.io/#propertyInfo/5df31f5b-f875-4d8e-b2c4-d86520c2cb18" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="/mega-city-cmc/" class="btn btn-block btn-primary">View Properties</a>
                                 </div>
                             </div>
                         </div>

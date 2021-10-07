@@ -12,7 +12,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Mega City: Pili-Pala, Samoa | Heuze Productions - virtual business in Earth2.io</title>
+    <title>Mega City: Pili-Pala, Samoa | Heuze Productions - virtual business in Earth2.io and other Metaverse</title>
     <meta name="Description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want to present you our properties in Pili-Pala City.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://heuzeproductions.com/mega-city-pili-pala/" />
@@ -35,27 +35,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 </head>
 <body>
 
-<header class="header-cont bootstrap-wrapper" id="top">
-    <nav>
-        <div class="container">
-            <div class="row">
-                <div class="col-4 col-md-6 branding"><a href="/">Heuze Productions</a></div>
-                <div class="col-8 col-md-6 menu">
-                    <ul>
-                        <li><a href="/">All Properties</a></li>
-                        <li><a href="https://discord.gg/d3hewUZBHW" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
-</header>
+<?php include "./../includes/header.php"; ?>
 
 <div class="banner full pic format-<?=$fileTypeCss;?>">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8">
-                <h1 class="line1">Pili-Pala</h1>
+                <h2 class="line1">Pili-Pala</h2>
             </div>
             <div class="col-12 col-md-4">
                 <div class="contact-box">

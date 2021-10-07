@@ -50,9 +50,6 @@ header {
             color: #fff;
             font-weight: 500;
             font-size: 0.8em;
-            @media only screen and (min-width: 768px){
-              font-size: 0.7em;
-            }
             &:link, &:visited { color: #D6DBD9; }
             &:hover { color: #B5C0B0; }
             &:active { color: #B5C0B0; }
@@ -385,6 +382,20 @@ main {
           margin-bottom: 1em;
         }
       }
+    }
+  }
+
+  .block-metaverse {
+    border-top: 5px solid wheat;
+    border-bottom: 5px solid wheat;
+    h2 {
+      text-align: center;
+      font-size: 1.2em;
+      line-height: 2rem;
+    }
+    img {
+      margin: 0 auto;
+      display: block;
     }
   }
 

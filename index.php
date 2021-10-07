@@ -12,16 +12,16 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Heuze Productions - virtual business in Earth2.io</title>
-    <meta name="Description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best.">
+    <title>Heuze Productions - virtual businesses in Metaverses</title>
+    <meta name="Description" content="Heuze Productions is building several in-game services for avatars living inside many Metaverse. We want your stay in all our properties to be the best. Convert your website into a 3D world and fully interactive.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://heuzeproductions.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io" />
-    <meta property="og:description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best." />
+    <meta property="og:title" content="Heuze Productions - virtual businesses in Metaverses" />
+    <meta property="og:description" content="Heuze Productions is building several in-game services for avatars living inside many Metaverse. We want your stay in all our properties to be the best. Convert your website into a 3D world and fully interactive." />
     <meta property="og:url" content="https://heuzeproductions.com/" />
-    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:site_name" content="Heuze Productions - virtual businesses in Metaverses" />
     <meta property="og:image" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:width" content="1200" />
@@ -78,31 +78,16 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 </head>
 <body>
 
-<header class="header-cont bootstrap-wrapper" id="top">
-    <nav>
-        <div class="container">
-            <div class="row">
-                <div class="col-4 col-md-6 branding"><a href="#top"><h1>Heuze Productions</h1></a></div>
-                <div class="col-8 col-md-6 menu">
-                    <ul>
-                        <li><a href="#About">About</a></li>
-                        <li><a href="#Properties">Properties</a></li>
-                        <li><a href="https://discord.gg/d3hewUZBHW" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
-</header>
+<?php include "./includes/header.php"; ?>
 
 <div class="banner full pic format-<?=$fileTypeCss;?>">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-8">
-                <h1 class="line1">Earth2 business in-game</h1>
-                <p class="line2"><strong>Heuze Productions</strong> is building several <span>in-game services</span> for avatars living inside E2. We want your stay in all our properties to be the best.</p>
+            <div class="col-xs-12 col-md-8">
+                <h2 class="line1">Virtual businesses in the Metaverse</h2>
+                <p class="line2"><strong>Heuze Productions</strong> is building several <span>in-game services</span> for avatars living inside many Metaverse. We want your stay in all our properties to be the best. Convert your website into a 3D world and fully interactive.</p>
             </div>
-            <div class="col-12 col-md-4">
+            <div class="col-xs-12 col-md-4">
                 <div class="contact-box">
                     <h2>Let's Discuss on Discord</h2>
                     <ul>
@@ -114,39 +99,63 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
     </div>
 </div>
 <main>
-
-    <div class="block-hi" id="About">
+    <div class="block-metaverse">
         <div class="container">
             <div class="block-cont">
                 <div class="row">
-                    <div class="col-12 col-md-7">
-                        <div class="hi-left">
-                            <h2>Hi, I'm Jerome Heuze aka Spectrum3900</h2>
-                            <p>We are committed to provide great <a href="https://earth2.io/" rel="noreferrer" target="_blank">Earth2.io</a> entertainment and housing for the players. We have properties in megacities, we have vacation resorts, housing for sale and rent, several malls and shops and plenty of private beaches to enjoy and relax. We have a wonderful selection of properties around the world of Earth2. We are in a very early stage and Earth2 has a very promising future.</p>
-                            <p>We bought some virtual properties in <a href="https://afterearth.io/" rel="noreferrer" target="_blank">AfterEarth.io</a> to acquire some more properties like Northwestern Michigan College Campus; Bear River Casino Resort; ThunderValley Casino Resort; Graton Resort & Casino; Twin Pine Casino; Valley View Casino & Hotel; Red Hawk Casino; Konocti Vista Casino and Resort. We will see what we can do in the platform as it gets released.</p>
-                            <p>We invested into virtual properties in <a href="https://metaearth.io/" rel="noreferrer" target="_blank">MetaEarth.io</a> to acquire the following properties: Montage Deer Valley (Park City, Utah); Amangiri (Canyon Point, Southern Utah); Montage Palmetto Bluff (Bluffton, SC); Eau Palm Beach Resort & Spa (Palm Beach Island); Four Seasons Resort and Residences Vail (Vail, CO). Stay tuned to learn what we will build.</p>
-                            <p><strong>Mega Cities:</strong> ExpoCity, Shangralla, Omega City, Antarctica, Saint David, Iron Clan, Atlantis, Pili-Pala, Casino City, State1, <a href="https://discord.gg/sar5cxvQ" target="_blank">Brainers Town - Paradise</a>, Resource District Network.</p>
-                            <p><strong>Vacation Resorts:</strong> Kiribati Islands, Balboa Islands, Palau Reefs, Nicaragua, Panama Islands, Liechtenstein Lakes</p>
-                            <p><strong>Housing for Sale / Rent:</strong> Beach houses, Private islands, River Estates</p>
-                            <p><strong>Mall and Shops:</strong> Belarus, Bulgaria, Panama Hospital, Panama Port Warehouse</p>
-                            <p><strong>Resources / Mining:</strong> Namibia, Bulgaria, Talas, Oudalan, Nansha Qundao</p>
-                            <p>Visit my <a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">Earth2 Profile</a></p>
-                            <p>Visit my <a href="https://afterearth.io/profile/spectrum3900" target="_blank">AfterEarth Profile</a></p>
-                            <p>Checkout <a href="/what-is-earth2/" target="_blank">What is Earth2?</a> - for a quick review of the game platform.</p>
+                    <div class="col-xs-12 col-md-12">
+                        <h2>Current Metaverse we love!</h2>
+                    </div>
+                    <div class="col-xs-12 col-md-12">
+                        <div class="row">
+                            <div class="col"><img src="/img/metaverse/metaverse_logo_roblox.png" alt="Roblox" width="120" height="120" /></div>
+                            <div class="col"><img src="/img/metaverse/metaverse_logo_decentraland.png" alt="Decentraland" width="120" height="120" /></div>
+                            <div class="col"><img src="/img/metaverse/metaverse_logos_earth2.png" alt="Earth2.io" width="120" height="120" /></div>
+                            <div class="col"><img src="/img/metaverse/metaverse_logo_entropia.png" alt="Entropia Universe" width="120" height="120" /></div>
+                            <div class="col"><img src="/img/metaverse/metaverse_logo_secondlife.png" alt="Second Life" width="120" height="120" /></div>
+                            <div class="col"><img src="/img/metaverse/metaverse_logo_thesandbox.png" alt="Core Games" width="120" height="120" /></div>
+                            <div class="col"><img src="/img/metaverse/metaverse_logo_wolf3d.png" alt="Ready Player me" width="120" height="120" /></div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-5">
-                        <div class="hi-right">
-                            <div class="book" style="margin: 5vh auto;width: 300px;">
-                                <div class="thebook" style="position: relative;width:294px;height:440px;">
-                                    <img src="/img/cover-1.png" alt="book cover" style="width:294px;height: 440px;margin: 0 auto;border: 1px solid #ccc;">
-                                    <div class="ribbon"><span>Just released</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="block-hi">
+        <div class="container">
+            <div class="block-cont">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="card-group">
+                            <div class="card">
+                                <img src="/img/e2/poster-e2.jpg" class="card-img-top" alt="Earth2">
+                                <div class="card-body">
+                                    <h5 class="card-title">Earth2.io</h5>
+                                    <p class="card-text">We are committed to provide great <a href="https://earth2.io/" rel="noreferrer" target="_blank">Earth2.io</a> entertainment and housing for the players. We have properties in megacities, we have vacation resorts, housing for sale and rent, several malls and shops and plenty of private beaches to enjoy and relax. We have a wonderful selection of properties around the world of Earth2. We are in a very early stage and Earth2 has a very promising future.</p>
                                 </div>
-                                <h3>Earth2 Tile Planner: Design and Plan your E2 Tiles</h3>
-                                <p><strong>$6.99</strong></p>
-                                <p>Paperback – June 9, 2021</p>
-                                <p>Have you bought some tiles in Earth2 and have some ideas to write down? Use our well-designed planner where you can see top and isometric view of your building as you draw them.</p>
-                                <p><a href="https://www.amazon.com/dp/B096TTQHQZ" target="_blank">BUY NOW</a> - <a href="/pdf/earth2-tile-planner-freepreview-v1.pdf" target="_blank">FREE PREVIEW</a></p>
+                                <div class="card-footer">
+                                    <small class="text-muted"><a href="https://app.earth2.io/#profile/85c750d8-93f6-4e71-bc53-1b7a509d7a75" target="_blank">Earth2 Profile</a> - Since Jan 2021</small>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <img src="/img/e2/poster-afterearth.jpg" class="card-img-top" alt="AfterEarth">
+                                <div class="card-body">
+                                    <h5 class="card-title">AfterEarth.io</h5>
+                                    <p class="card-text">We bought some virtual properties in <a href="https://afterearth.io/" rel="noreferrer" target="_blank">AfterEarth.io</a> to acquire some more properties like Northwestern Michigan College Campus; Bear River Casino Resort; ThunderValley Casino Resort; Graton Resort & Casino; Twin Pine Casino; Valley View Casino & Hotel; Red Hawk Casino; Konocti Vista Casino and Resort. We will see what we can do in the platform as it gets released.</p>
+                                </div>
+                                <div class="card-footer">
+                                    <small class="text-muted"><a href="https://afterearth.io/profile/spectrum3900" target="_blank">AfterEarth Profile</a></small>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <img src="/img/e2/poster-mearth.jpg" class="card-img-top" alt="MetaEarth">
+                                <div class="card-body">
+                                    <h5 class="card-title">MetaEarth.io</h5>
+                                    <p class="card-text">We invested into virtual properties in <a href="https://metaearth.io/" rel="noreferrer" target="_blank">MetaEarth.io</a> to acquire the following properties: Montage Deer Valley (Park City, Utah); Amangiri (Canyon Point, Southern Utah); Montage Palmetto Bluff (Bluffton, SC); Eau Palm Beach Resort & Spa (Palm Beach Island); Four Seasons Resort and Residences Vail (Vail, CO). Stay tuned to learn what we will build.</p>
+                                </div>
+                                <div class="card-footer">
+                                    <small class="text-muted">2,702 Blocks</small>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -159,13 +168,11 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
         <div class="container">
             <div class="block-cont">
                 <div class="row">
-                    <div class="col-12 col-md-6 text-side"><p>Some Tools I use while working on Earth2 Architecture:</p></div>
-                    <div class="col-12 col-md-6 icon-side">
+                    <div class="col-xs-12 col-md-6 text-side"><p>Some Tools I use while working on Earth2 Architecture:</p></div>
+                    <div class="col-xs-12 col-md-6 icon-side">
                         <ul>
                             <li><a href="https://unity.com/" rel="noopener" target="_blank"><img src="/img/1200px-Unity_Technologies_logo.svg.png" height="50" alt="Unity3D" /></a></li>
-                            <li><a href="https://www.blender.org/" rel="noopener" target="_blank"><img src="/img/1252px-Blender_logo_no_text.svg.png" width="50" height="50" alt="Blender3D" /></a></li>
-                            <li><a href="https://discordapp.com/" rel="noopener" target="_blank"><img src="/img/Discord-Logo-Color.<?=$fileTypePng;?>" width="50" height="50" alt="Discord App" /></a></li>
-                            <li><a href="https://www.twitch.tv/spectrum3900" rel="noopener" target="_blank"><img src="/img/twitch-purple-icon-logo-vector.<?=$fileTypePng;?>" width="50" height="50" alt="Twitch" /></a></li>
+                            <li><a href="https://www.blender.org/" rel="noopener" target="_blank"><img src="/img/1252px-Blender_logo_no_text.svg.png" height="50" alt="Blender3D" /></a></li>
                         </ul>
                     </div>
                 </div>
@@ -177,17 +184,19 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
         <div class="container">
             <div class="block-cont">
                 <div class="row">
-
-                    <div class="col-xs-4"><a href="/official-buildings/"><h2 style="margin-top:3rem;">Official Buildings</h2></a></div>
-                    <div class="col-xs-4"><a href="/casino-properties/"><h2 style="margin-top:3rem;">Casino Properties</h2></a></div>
-                    <div class="col-xs-4"><a href="/e2biz-properties/"><h2 style="margin-top:3rem;">E2Biz Properties</h2></a></div>
-                    <div class="col-xs-4"><a href="/entertainment-properties/"><h2 style="margin-top:3rem;">Entertainment Properties</h2></a></div>
-                    <div class="col-xs-4"><a href="/rental-properties/"><h2 style="margin-top:3rem;">Rental Properties</h2></a></div>
-                    <div class="col-xs-4"><a href="/resort-properties/"><h2 style="margin-top:3rem;">Resort Properties</h2></a></div>
-                    <div class="col-xs-4"><a href="/mega-city-properties/"><h2 style="margin-top:3rem;">Mega City Properties</h2></a></div>
-                    <div class="col-xs-4"><a href="/mega-city-pili-pala/"><h2 style="margin-top:3rem;">Pili-Pala Properties</h2></a></div>
-                    <div class="col-xs-4"><a href="/expo-city-properties/"><h2 style="margin-top:3rem;">Expo City Properties</h2></a></div>
-                    <div class="col-xs-4"><a href="/resource-districts-properties/"><h2 style="margin-top:3rem;">Resource Districts Properties</h2></a></div>
+                    <div class="col-xs-12 col-md-12">
+                        <h2>Current properties we own.</h2>
+                    </div>
+                    <div class="col-xs-4"><a href="/official-buildings/"><h3 style="margin-top:3rem;">Official Buildings</h3></a></div>
+                    <div class="col-xs-4"><a href="/casino-properties/"><h3 style="margin-top:3rem;">Casino Properties</h3></a></div>
+                    <div class="col-xs-4"><a href="/e2biz-properties/"><h3 style="margin-top:3rem;">E2Biz Properties</h3></a></div>
+                    <div class="col-xs-4"><a href="/entertainment-properties/"><h3 style="margin-top:3rem;">Entertainment Properties</h3></a></div>
+                    <div class="col-xs-4"><a href="/rental-properties/"><h3 style="margin-top:3rem;">Rental Properties</h3></a></div>
+                    <div class="col-xs-4"><a href="/resort-properties/"><h3 style="margin-top:3rem;">Resort Properties</h3></a></div>
+                    <div class="col-xs-4"><a href="/mega-city-pili-pala/"><h3 style="margin-top:3rem;">Pili-Pala Properties</h3></a></div>
+                    <div class="col-xs-4"><a href="/mega-city-cmc/"><h3 style="margin-top:3rem;">CMC Properties</h3></a></div>
+                    <div class="col-xs-4"><a href="/expo-city-properties/"><h3 style="margin-top:3rem;">Expo City Properties</h3></a></div>
+                    <div class="col-xs-4"><a href="/resource-districts-properties/"><h3 style="margin-top:3rem;">Resource Districts Properties</h3></a></div>
 
                 </div>
             </div>

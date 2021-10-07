@@ -12,16 +12,16 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>What is Earth2 | Heuze Productions - virtual business in Earth2.io</title>
+    <title>What is Earth2 | Heuze Productions - virtual business in Earth2.io and other Metaverse</title>
     <meta name="Description" content="What do we know about Earth2 so far - here are all the resources we have been provided by the official game developers.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://heuzeproductions.com/what-is-earth2/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="What is Earth2 | Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:title" content="What is Earth2 | Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:description" content="What do we know about Earth2 so far - here are all the resources we have been provided by the official game developers." />
     <meta property="og:url" content="https://heuzeproductions.com/what-is-earth2/" />
-    <meta property="og:site_name" content="What is Earth2 | Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:site_name" content="What is Earth2 | Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:image" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:width" content="1200" />
@@ -39,21 +39,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 </head>
 <body>
 
-<header class="header-cont bootstrap-wrapper" id="top">
-    <nav>
-        <div class="container">
-            <div class="row">
-                <div class="col-4 col-md-6 branding"><a href="/"><h1>Heuze Productions</h1></a></div>
-                <div class="col-8 col-md-6 menu">
-                    <ul>
-                        <li><a href="/">All Properties</a></li>
-                        <li><a href="https://discord.gg/d3hewUZBHW" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
-</header>
+<?php include "./../includes/header.php"; ?>
 
 <div class="banner full pic format-<?=$fileTypeCss;?>">
     <div class="container">

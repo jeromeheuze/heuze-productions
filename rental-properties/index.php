@@ -12,16 +12,16 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Rental Properties | Heuze Productions - virtual business in Earth2.io</title>
+    <title>Rental Properties | Heuze Productions - virtual business in Earth2.io and other Metaverse</title>
     <meta name="Description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://heuzeproductions.com/rental-properties/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best." />
     <meta property="og:url" content="https://heuzeproductions.com/rental-properties/" />
-    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:image" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:width" content="1200" />
@@ -35,27 +35,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 </head>
 <body>
 
-<header class="header-cont bootstrap-wrapper" id="top">
-    <nav>
-        <div class="container">
-            <div class="row">
-                <div class="col-4 col-md-6 branding"><a href="/"><h1>Heuze Productions</h1></a></div>
-                <div class="col-8 col-md-6 menu">
-                    <ul>
-                        <li><a href="/">All Properties</a></li>
-                        <li><a href="https://discord.gg/d3hewUZBHW" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
-</header>
+<?php include "./../includes/header.php"; ?>
 
 <div class="banner full pic format-<?=$fileTypeCss;?>">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8">
-                <h1 class="line1">Rent a property in Earth2.io</h1>
+                <h2 class="line1">Rent a property in Earth2.io</h2>
             </div>
             <div class="col-12 col-md-4">
                 <div class="contact-box">

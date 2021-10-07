@@ -12,16 +12,16 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Official Buildings | Heuze Productions - virtual business in Earth2.io</title>
+    <title>Official Buildings | Heuze Productions - virtual business in Earth2.io and other Metaverse</title>
     <meta name="Description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="https://heuzeproductions.com/official-buildings/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:title" content="Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:description" content="Heuze Productions is building several in-game services for avatars living inside E2. We want your stay in all our properties to be the best." />
     <meta property="og:url" content="https://heuzeproductions.com/official-buildings/" />
-    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io" />
+    <meta property="og:site_name" content="Heuze Productions - virtual business in Earth2.io and other Metaverse" />
     <meta property="og:image" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:secure_url" content="https://heuzeproductions.com/img/hpe2-fb.jpg" />
     <meta property="og:image:width" content="1200" />
@@ -35,27 +35,13 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
 </head>
 <body>
 
-<header class="header-cont bootstrap-wrapper" id="top">
-    <nav>
-        <div class="container">
-            <div class="row">
-                <div class="col-4 col-md-6 branding"><a href="/"><h1>Heuze Productions</h1></a></div>
-                <div class="col-8 col-md-6 menu">
-                    <ul>
-                        <li><a href="/">All Properties</a></li>
-                        <li><a href="https://discord.gg/d3hewUZBHW" rel="noopener" target="_blank" title="Connect with me on Discord">Discuss on Discord</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
-</header>
+<?php include "./../includes/header.php"; ?>
 
 <div class="banner full pic format-<?=$fileTypeCss;?>">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8">
-                <h1 class="line1">Our Official Buildings on Earth2.io</h1>
+                <h2 class="line1">Our Official Buildings</h2>
             </div>
             <div class="col-12 col-md-4">
                 <div class="contact-box">
@@ -283,6 +269,71 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="card">
                             <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - Portugal</h5>
+                                <p class="card-text">Land Class: 2 - 30 tiles - Portugal</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/693e6f58-3c5d-47fc-94e8-9153328b8aab" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - Madara City</h5>
+                                <p class="card-text">Land Class: 2 - 30 tiles - Cameroon</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/b7594398-28e6-4cc5-b46d-95a5a367f2b2" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - El Dorado</h5>
+                                <p class="card-text">Land Class: 2 - 35 tiles - Trinidad and Tobago</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/103e91d8-5c7e-4514-8557-d730eb721cab" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - VR Retro World</h5>
+                                <p class="card-text">Land Class: 2 - 15 tiles - Burundi</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/7298f30b-b928-4121-b61c-5f75f9466401" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - 80s Megacity</h5>
+                                <p class="card-text">Land Class: 2 - 64 tiles - Bosnia Herzegovina</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/d967bb38-8881-4c45-954c-beebbcdf21fb" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
                                 <h5 class="card-title">📚 Virtual Campus - State1 - HeuzeProductions</h5>
                                 <p class="card-text">Land Class: 2 - 31 tiles - Djibouti</p>
                                 <div class="d-grid gap-2">
@@ -313,7 +364,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             <img src="/img/e2/poster-agronomy-e2.jpg?v=001" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">🌾 Agronomy, inc</h5>
-                                <p class="card-text">203 tiles</p>
+                                <p class="card-text">225 tiles</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
                                 </div>
@@ -337,7 +388,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                             <img src="/img/e2/poster-sandexport-e2.jpg?v=001" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
                                 <h5 class="card-title">⏳ Sand Export, inc</h5>
-                                <p class="card-text">30 tiles</p>
+                                <p class="card-text">59 tiles</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
                                 </div>
