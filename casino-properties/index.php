@@ -107,7 +107,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Citrus Heights, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/adb77e01-b2ed-4ec7-8372-9f6b6796ec90" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.spots.edges.covers" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -120,7 +120,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Loleta, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/67456f75-76d5-4b22-8d18-64634f38be9f" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.heavy.juggernaut.bloomers" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -133,7 +133,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Lincoln, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/9267e50e-ff0f-4393-b204-4c198cf4add4" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.sparrows.sugary.microscopic" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -146,7 +146,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Santa Rosa, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/e65b8204-c699-4576-b3de-8012c956659b" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.person.blunt.year" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +172,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Valley Center, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/45b237de-e431-49a7-82ea-6d89a12e66ff" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.disagrees.bakers.twig" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -185,7 +185,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Placerville, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/22ee27b5-7c2b-4900-bf6d-3a5ce1d70b6b" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.jars.inactivity.converter" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -198,7 +198,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Lakeport, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/003d80c3-0e69-437b-b1d0-409ee06249b5" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.needlessly.crown.batted" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -211,7 +211,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Arcata, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/805d941d-10be-454c-86bc-5536f2c94e2f" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.undertone.bookshop.bulldozers" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -224,7 +224,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Upper Lake, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/504f9d95-12b7-4860-b6cd-7feb82490750" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.panicking.members.little" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -237,7 +237,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Oroville, CA</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/3f20922a-b64a-4935-804b-f525e607f2c9" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.pizza.pyramid.finding" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -250,7 +250,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Stateline, NV</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/fbe78ab9-076f-4311-8b3c-9847c89df04d" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.wash.encourage.independent" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -263,7 +263,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Stateline, NV</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/1a0bd6f8-a633-46aa-a649-1cdf92897b82" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.huddle.eloquently.despite" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -276,7 +276,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Stateline, NV</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/23e9bdc6-4a32-4313-ab5e-5409f437bd44" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.fertile.tissue.selection" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -289,7 +289,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Stateline, NV</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/01f326f4-22b6-45dd-ba9b-5b5c039e7d02" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.defect.amicably.skylights" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>
@@ -302,7 +302,7 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                                 <p class="card-text">Carson City, NV</p>
                                 <div class="d-grid gap-2">
                                     <p>Coming Soon!</p>
-                                    <a href="https://afterearth.io/explore/4375db9d-ddf8-4e68-9f68-db2d2b553060" class="btn btn-block btn-primary" target="_blank">View Property</a>
+                                    <a href="https://afterearth.io/ae.carbon.bleak.files" class="btn btn-block btn-primary" target="_blank">View Property</a>
                                 </div>
                             </div>
                         </div>

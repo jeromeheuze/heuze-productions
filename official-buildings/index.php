@@ -334,6 +334,45 @@ if( strpos( $_SERVER['HTTP_ACCEPT'], 'image/webp' ) !== false ) {
                         <div class="card">
                             <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
                             <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - TERRACITY</h5>
+                                <p class="card-text">Land Class: 2 - 36 tiles - Papua New Guinea</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/2ef5456c-4c51-48bb-8c49-0d02ac24c196" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - Gibraltar</h5>
+                                <p class="card-text">Land Class: 2 - 42 tiles - Gibraltar</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/006b0d02-e85d-47fb-b9d8-94b038f56ba6" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
+                                <h5 class="card-title">💡 Heuze Productions Embassy - MotorCity</h5>
+                                <p class="card-text">Land Class: 2 - 25 tiles - Samoa</p>
+                                <div class="d-grid gap-2">
+                                    <p>Coming Soon!</p>
+                                    <a href="https://app.earth2.io/#propertyInfo/e929b154-3375-46b3-bd8b-b668cd5c4852" target="_blank" class="btn btn-block btn-primary">View Property</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <div class="card">
+                            <img src="/img/e2/poster-hprod-e2.jpg" class="card-img-top" alt="E2 Property">
+                            <div class="card-body">
                                 <h5 class="card-title">📚 Virtual Campus - State1 - HeuzeProductions</h5>
                                 <p class="card-text">Land Class: 2 - 31 tiles - Djibouti</p>
                                 <div class="d-grid gap-2">
