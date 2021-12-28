@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/earth2-jewels-simulator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/jamaica.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/ochre.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/orange.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/poster-jewelsim-e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/purple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/sandy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/sunrise.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/sunset.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jewels/yellow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/casino-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/casino-properties/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/official-buildings/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/official-buildings/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e2/e2-timeline.psd" beforeDir="false" afterPath="$PROJECT_DIR$/img/e2/e2-timeline.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e2/poster-woodlog-e2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/img/e2/poster-woodlog-e2.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mega-city-cmc/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/mega-city-cmc/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaverse.php" beforeDir="false" afterPath="$PROJECT_DIR$/metaverse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resort-properties/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/resort-properties/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +76,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../earth2arch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/jewels" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,11 +91,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Github\heuze-productions\img\jewels" />
       <recent name="C:\Github\heuze-productions\img\gallery" />
       <recent name="C:\Github\heuze-productions\img" />
       <recent name="C:\Github\heuze-productions\img\metaverse" />
       <recent name="C:\Github\heuze-productions\mega-city-pili-pala" />
-      <recent name="C:\Github\heuze-productions\casino" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Github\heuze-productions\css" />
@@ -211,6 +233,16 @@
       <workItem from="1633745748649" duration="3735000" />
       <workItem from="1634050635042" duration="4969000" />
       <workItem from="1634339967125" duration="30000" />
+      <workItem from="1636351163870" duration="3657000" />
+      <workItem from="1636608138541" duration="39000" />
+      <workItem from="1636784797943" duration="1852000" />
+      <workItem from="1636850481695" duration="13483000" />
+      <workItem from="1637089136368" duration="145000" />
+      <workItem from="1637292640735" duration="3532000" />
+      <workItem from="1637299522568" duration="7778000" />
+      <workItem from="1637471485082" duration="626000" />
+      <workItem from="1637610739871" duration="656000" />
+      <workItem from="1639155258280" duration="1240000" />
     </task>
     <servers />
   </component>
