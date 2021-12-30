@@ -179,7 +179,7 @@ export default {
         fallback: true
     },
     redirect: [
-        { from: '^metaverse.php', to: 'https://e2production.com/', statusCode: 301 },
+        { from: 'https://heuzeproductions.com/metaverse.php', to: 'https://e2production.com/', statusCode: 301 },
         { from: '^what-is-earth2', to: 'https://e2production.com/', statusCode: 301 },
         { from: '^gallery', to: 'https://e2production.com/research-gallery', statusCode: 301 },
         { from: '^products.php', to: 'https://e2production.com/products', statusCode: 301 },

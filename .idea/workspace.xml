@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/google-play-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hprod-app/layouts/error.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hprod-app/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/pages/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +226,7 @@
       <workItem from="1637610739871" duration="656000" />
       <workItem from="1639155258280" duration="1240000" />
       <workItem from="1640721891063" duration="3600000" />
-      <workItem from="1640815604144" duration="1397000" />
+      <workItem from="1640815604144" duration="2605000" />
     </task>
     <servers />
   </component>
