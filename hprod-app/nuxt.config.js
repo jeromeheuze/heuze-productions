@@ -121,11 +121,12 @@ export default {
         '@nuxtjs/sitemap',
         '@nuxtjs/robots',
         '@nuxtjs/axios',
+        '@nuxtjs/redirect-module',
         [
             'nuxt-social-meta',
             {
                 site_name: "HeuzeProductions",
-                author: "OBT",
+                author: "Jerome Heuze",
                 img: "",
                 img_size: { width: "1200", height: "630" },
                 locale: "en_US",
@@ -176,5 +177,16 @@ export default {
     },
     generate: {
         fallback: true
-    }
+    },
+    redirect: [
+        { from: '^metaverse.php', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^what-is-earth2', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^gallery', to: 'https://e2production.com/research-gallery', statusCode: 301 },
+        { from: '^products.php', to: 'https://e2production.com/products', statusCode: 301 },
+        { from: '^casino-properties', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^resource-districts-properties', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^mega-city-properties', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^mega-city-pili-pala', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^earth2-jewels-simulator.php', to: 'https://e2production.com/earth2-jewels-simulator', statusCode: 301 }
+    ]
 }
