@@ -40,7 +40,7 @@ export default {
             {
                 hid: 'twitter:image',
                 name: 'twitter:image',
-                content: 'https://heuzeproductions.com/e2production-social-banner.jpg'
+                content: 'https://heuzeproductions.com/heuzeproductioons-social-banner.png'
             },
             // Open Graph
             { hid: 'og:site_name', property: 'og:site_name', content: 'HeuzeProductions' },
@@ -63,12 +63,12 @@ export default {
             {
                 hid: 'og:image',
                 property: 'og:image',
-                content: 'https://heuzeproductions.com/e2production-social-banner.jpg'
+                content: 'https://heuzeproductions.com/heuzeproductioons-social-banner.png'
             },
             {
                 hid: 'og:image:secure_url',
                 property: 'og:image:secure_url',
-                content: 'https://heuzeproductions.com/e2production-social-banner.jpg'
+                content: 'https://heuzeproductions.com/heuzeproductioons-social-banner.png'
             },
             {
                 hid: 'og:image:alt',
@@ -127,7 +127,7 @@ export default {
             {
                 site_name: "HeuzeProductions",
                 author: "Jerome Heuze",
-                img: "",
+                img: "https://heuzeproductions.com/heuzeproductioons-social-banner.png",
                 img_size: { width: "1200", height: "630" },
                 locale: "en_US",
                 twitter: "@E2Prod",
@@ -179,14 +179,14 @@ export default {
         fallback: true
     },
     redirect: [
-        { from: 'https://heuzeproductions.com/metaverse.php', to: 'https://e2production.com/', statusCode: 301 },
-        { from: 'https://heuzeproductions.com/what-is-earth2', to: 'https://e2production.com/', statusCode: 301 },
-        { from: 'https://heuzeproductions.com/gallery', to: 'https://e2production.com/research-gallery', statusCode: 301 },
-        { from: 'https://heuzeproductions.com/products.php', to: 'https://e2production.com/products', statusCode: 301 },
-        { from: 'https://heuzeproductions.com/casino-properties', to: 'https://e2production.com/', statusCode: 301 },
-        { from: 'https://heuzeproductions.com/resource-districts-properties', to: 'https://e2production.com/', statusCode: 301 },
-        { from: 'https://heuzeproductions.com/mega-city-properties', to: 'https://e2production.com/', statusCode: 301 },
-        { from: 'https://heuzeproductions.com/mega-city-pili-pala', to: 'https://e2production.com/', statusCode: 301 },
-        { from: 'https://heuzeproductions.com/earth2-jewels-simulator.php', to: 'https://e2production.com/earth2-jewels-simulator', statusCode: 301 }
+        { from: '^metaverse', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^what-is-earth2', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^gallery', to: 'https://e2production.com/research-gallery', statusCode: 301 },
+        { from: '^products', to: 'https://e2production.com/products', statusCode: 301 },
+        { from: '^casino-properties', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^resource-districts-properties', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^mega-city-properties', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^mega-city-pili-pala', to: 'https://e2production.com/', statusCode: 301 },
+        { from: '^earth2-jewels-simulator', to: 'https://e2production.com/earth2-jewels-simulator', statusCode: 301 }
     ]
 }
