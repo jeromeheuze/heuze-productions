@@ -15,7 +15,7 @@ export default {
             { charset: 'utf-8' },
             { 'http-equiv': 'X-UA-Compatible', content:'IE=edge' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games on webgl, mobile, TV, desktop and metaverse for your entertainment.' },
+            { hid: 'description', name: 'description', content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games for mobile and the metaverse.' },
             // Twitter
             {
                 hid: 'twitter:card',
@@ -35,7 +35,7 @@ export default {
             {
                 hid: 'twitter:description',
                 name: 'twitter:description',
-                content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games on webgl, mobile, TV, desktop and metaverse for your entertainment.'
+                content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games for mobile and the metaverse.'
             },
             {
                 hid: 'twitter:image',
@@ -58,7 +58,7 @@ export default {
             {
                 hid: 'og:description',
                 property: 'og:description',
-                content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games on webgl, mobile, TV, desktop and metaverse for your entertainment.'
+                content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games for mobile and the metaverse.'
             },
             {
                 hid: 'og:image',

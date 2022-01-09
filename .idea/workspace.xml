@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/static/heuzeproductioons-social-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/static/heuzeproductions-social-banner.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +228,7 @@
       <workItem from="1640899897319" duration="616000" />
       <workItem from="1640920405769" duration="4038000" />
       <workItem from="1641262906133" duration="38605000" />
-      <workItem from="1641533055861" duration="23114000" />
+      <workItem from="1641533055861" duration="23465000" />
     </task>
     <servers />
   </component>
