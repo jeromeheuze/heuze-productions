@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hprod-app/components/hero-home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/components/hero-sub.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/components/quality.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/pages/contact.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/comingsoon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/comingsoon_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/footer-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/header-background-v2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/header-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/header-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/hungry_mage_icon_v0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/hungry_mage_v0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/irbis-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/quality-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/smart_phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/star-15.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/assets/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/assets/styles/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/components/footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/footer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/components/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/header.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hprod-app/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/pages/privacy.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/pages/privacy.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +229,7 @@
       <workItem from="1640899897319" duration="616000" />
       <workItem from="1640920405769" duration="4038000" />
       <workItem from="1641262906133" duration="38605000" />
-      <workItem from="1641533055861" duration="21969000" />
+      <workItem from="1641533055861" duration="23114000" />
     </task>
     <servers />
   </component>
