@@ -1,11 +1,18 @@
 <template>
   <LazyHydrate when-visible>
 
-    <main class="long-bg">
+    <main class="short-bg">
 
-      <Header hero="home"/>
-      <HomePageGrid/>
-      <HomeQuality/>
+      <Header hero="Contact"/>
+      <section class="block-contact">
+
+        <div class="container">
+          <div class="content">
+            <iframe src="https://discord.com/widget?id=929463973387075676&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+          </div>
+        </div>
+
+      </section>
       <Footer/>
 
     </main>
@@ -27,7 +34,7 @@ export default {
       bodyAttrs: {
         class: 'v1'
       },
-      title: 'Home',
+      title: 'Contact',
       meta: [
         {
           hid: 'description',

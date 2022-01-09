@@ -10,12 +10,12 @@ export default {
         htmlAttrs: {
             lang: 'en'
         },
-        titleTemplate: '%s | HeuzeProductions',
+        titleTemplate: '%s | Heuze Productions',
         meta: [
             { charset: 'utf-8' },
             { 'http-equiv': 'X-UA-Compatible', content:'IE=edge' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: 'HeuzeProductions is an indie game developer using Unity3D. We are making 2D pixel games with stories. Follow our journey making webgl, mobile and desktop games.' },
+            { hid: 'description', name: 'description', content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games on webgl, mobile, TV, desktop and metaverse for your entertainment.' },
             // Twitter
             {
                 hid: 'twitter:card',
@@ -30,12 +30,12 @@ export default {
             {
                 hid: 'twitter:title',
                 name: 'twitter:title',
-                content: 'HeuzeProductions'
+                content: 'Heuze Productions'
             },
             {
                 hid: 'twitter:description',
                 name: 'twitter:description',
-                content: 'HeuzeProductions is an indie game developer using Unity3D. We are making 2D pixel games with stories. Follow our journey making webgl, mobile and desktop games.'
+                content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games on webgl, mobile, TV, desktop and metaverse for your entertainment.'
             },
             {
                 hid: 'twitter:image',
@@ -43,7 +43,7 @@ export default {
                 content: 'https://heuzeproductions.com/heuzeproductioons-social-banner.png'
             },
             // Open Graph
-            { hid: 'og:site_name', property: 'og:site_name', content: 'HeuzeProductions' },
+            { hid: 'og:site_name', property: 'og:site_name', content: 'Heuze Productions' },
             { hid: 'og:type', property: 'og:type', content: 'website' },
             {
                 hid: 'og:url',
@@ -53,12 +53,12 @@ export default {
             {
                 hid: 'og:title',
                 property: 'og:title',
-                content: 'HeuzeProductions'
+                content: 'Heuze Productions'
             },
             {
                 hid: 'og:description',
                 property: 'og:description',
-                content: 'HeuzeProductions is an indie game developer using Unity3D. We are making 2D pixel games with stories. Follow our journey making webgl, mobile and desktop games.'
+                content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games on webgl, mobile, TV, desktop and metaverse for your entertainment.'
             },
             {
                 hid: 'og:image',
@@ -73,7 +73,7 @@ export default {
             {
                 hid: 'og:image:alt',
                 property: 'og:image:alt',
-                content: 'HeuzeProductions'
+                content: 'Heuze Productions'
             },
             { name: 'msapplication-TileColor', content: '#ffc40d' },
             { name: 'theme-color', content: '#ffffff' }
@@ -82,18 +82,14 @@ export default {
             { rel: 'apple-touch-icon', sizes: '180x180', href: 'https://heuzeproductions.com/apple-touch-icon.png' },
             { rel: 'icon', type: 'image/png', sizes: '32x32', href: 'https://heuzeproductions.com/favicon-32x32.png' },
             { rel: 'icon', type: 'image/png', sizes: '96x96', href: 'https://heuzeproductions.com/favicon-16x16.png' },
-            { rel: 'mask-icon', href: 'https://heuzeproductions.com//safari-pinned-tab.svg', color: '#5bbad5' },
+            { rel: 'mask-icon', href: 'https://heuzeproductions.com/safari-pinned-tab.svg', color: '#5bbad5' },
             { rel: 'manifest', href: 'https://heuzeproductions.com/site.webmanifest' },
             { rel: 'preconnect', href: 'https://cdn.jsdelivr.net' },
-            { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
-            { rel: 'preconnect', href: 'https://fonts.gstatic.com' },
-            { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins:700' },
-            { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Muli' },
-            { rel: 'stylesheet', href: 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' }
-        ]
+            { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+            ]
     },
     script: [
-        { hid: 'animate', src: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css', defer: true }
+
     ],
     // Global CSS: https://go.nuxtjs.dev/config-css
     css: [
@@ -132,7 +128,7 @@ export default {
                 locale: "en_US",
                 twitter: "@E2Prod",
                 twitter_card: "summary",
-                theme_color: "#5bbad5",
+                theme_color: "#0d171e",
             },
         ],
         '@nuxt/content',
@@ -150,8 +146,8 @@ export default {
         liveEdit: false
     },
     loading: {
-        color: 'DodgerBlue',
-        height: '10px',
+        color: '#e9128a',
+        height: '5px',
         continuous: true,
         duration: 3000
     },
