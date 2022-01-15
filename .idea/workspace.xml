@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/static/google-play-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/static/google-play-banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/static/heuzeproductions-social-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/static/heuzeproductions-social-banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/static/img/comingsoon_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/static/img/comingsoon_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/static/img/hungry_mage_icon_v0.png" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/static/img/hungry_mage_icon_v0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hprod-app/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e2epls" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -232,7 +230,8 @@
       <workItem from="1640899897319" duration="616000" />
       <workItem from="1640920405769" duration="4038000" />
       <workItem from="1641262906133" duration="38605000" />
-      <workItem from="1641533055861" duration="27995000" />
+      <workItem from="1641533055861" duration="29245000" />
+      <workItem from="1642142501925" duration="805000" />
     </task>
     <servers />
   </component>
