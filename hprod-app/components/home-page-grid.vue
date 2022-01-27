@@ -1,7 +1,8 @@
 <template>
   <section class="home-page-grid">
+
     <div class="home-page-grid--cont">
-      <h2>Our Games</h2>
+      <h2>Our Mobile Games</h2>
       <div class="game-grid">
 
         <div class="card">
@@ -88,5 +89,66 @@
 
       </div>
     </div>
+
+    <div class="home-page-grid--cont">
+      <h2>Our HTML5 Game Portal</h2>
+      <div class="game-grid middle-xs">
+
+        <div class="card">
+          <div class="card-img">
+            <img src="/img/comingsoon.png" alt="Kohibou - 2D worlds" />
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <img src="/img/comingsoon_icon.png" alt="Kohibou - 2D worlds" />
+                <div class="title-desc">
+                  <h3>Kohibou - 2D metaverse</h3>
+                  <p>Kohibou is a 2D pixel world with many environments to explore like a 2D metaverse. One character to explore many type of self-contain 2D worlds.</p>
+                </div>
+              </div>
+              <div class="reviews">
+                <img src="/img/star-15.svg" alt="" />
+                <img src="/img/star-15.svg" alt="" />
+                <img src="/img/star-15.svg" alt="" />
+                <img src="/img/star-15.svg" alt="" />
+                <img src="/img/star-15.svg" alt="" /> (4.5)
+              </div>
+            </div>
+            <div class="info-download">
+              <p>Download now at</p>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-img">
+            <img src="/img/comingsoon.png" alt="Academia Lore - Game Portal" />
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <img src="/img/comingsoon_icon.png" alt="Academia Lore - Game Portal" />
+                <div class="title-desc">
+                  <h3>Academia Lore - Game Portal</h3>
+                  <p>We are making a great product - a mix of education and video games - welcome to Edutainment and Mastery of skills.</p>
+                </div>
+              </div>
+              <div class="reviews">
+                <img src="/img/star-15.svg" alt="" />
+                <img src="/img/star-15.svg" alt="" />
+                <img src="/img/star-15.svg" alt="" />
+                <img src="/img/star-15.svg" alt="" />
+                <img src="/img/star-15.svg" alt="" /> (4.5)
+              </div>
+            </div>
+            <div class="info-download">
+              <p>Download now at</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
   </section>
 </template>
