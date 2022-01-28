@@ -96,12 +96,12 @@
 
         <div class="card">
           <div class="card-img">
-            <img src="/img/comingsoon.png" alt="Kohibou - 2D worlds" />
+            <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon.png" alt="Kohibou - 2D worlds" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <img src="/img/comingsoon_icon.png" alt="Kohibou - 2D worlds" />
+                <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Kohibou - 2D worlds" /></a>
                 <div class="title-desc">
                   <h3>Kohibou - 2D metaverse</h3>
                   <p>Kohibou is a 2D pixel world with many environments to explore like a 2D metaverse. One character to explore many type of self-contain 2D worlds.</p>
@@ -122,12 +122,12 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <img src="/img/comingsoon.png" alt="Academia Lore - Game Portal" />
+            <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon.png" alt="Academia Lore - Game Portal" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <img src="/img/comingsoon_icon.png" alt="Academia Lore - Game Portal" />
+                <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Academia Lore - Game Portal" /></a>
                 <div class="title-desc">
                   <h3>Academia Lore - Game Portal</h3>
                   <p>We are making a great product - a mix of education and video games - welcome to Edutainment and Mastery of skills.</p>
