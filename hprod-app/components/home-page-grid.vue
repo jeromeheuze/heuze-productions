@@ -91,7 +91,7 @@
     </div>
 
     <div class="home-page-grid--cont">
-      <h2>Our HTML5 Game Portal</h2>
+      <h2>Our HTML5 Game Portals</h2>
       <div class="game-grid middle-xs">
 
         <div class="card">
