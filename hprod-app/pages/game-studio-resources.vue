@@ -7,10 +7,27 @@
       <section class="block-contact">
 
         <div class="container">
-          <div class="content">
-            <h2>Video Game Press Kit Generator - Fee Presskit</h2>
-            <p>Fee Presskit - a super smart tool for producing a tailored video game press kit.</p>
-            <a href="https://feepresskit.com/#/" target="_blank" class="button-narrow">Visit Fee Presskit</a>
+          <div class="row">
+            <div class="col-xs-12 col-lg-6">
+              <div class="content">
+            <div class="slots">
+              <h2>Video Game Press Kit Generator - Fee Presskit</h2>
+              <p>Fee Presskit - a super smart tool for producing a tailored video game press kit.</p>
+              <a href="https://feepresskit.com/#/" target="_blank" class="button-narrow">Visit Fee Presskit</a>
+            </div>
+            <div class="slots">
+              <h2>GameDev Market</h2>
+              <p>GameDev Market is a marketplace for high quality, affordable game assets handcrafted by talented creators around the world.</p>
+              <a href="https://www.gamedevmarket.net/?ally=FGYDFYAt" target="_blank" class="button-narrow">Visit GameDev Market</a>
+            </div>
+            <div class="slots">
+              <h2>Game Design Document Outline</h2>
+              <p>A game design document is the blueprint from which a game is to be built. As such, every single detail necessary to build the game should be addressed.</p>
+              <a href="/DesignDocTemplate.pdf" target="_blank" class="button-narrow">Download PDF</a><br>
+              <a href="https://www.cs.unc.edu/Courses/comp585-s15/DesignDocTemplate.pdf" target="_blank" class="button-narrow">Source PDF</a>
+            </div>
+          </div>
+            </div>
           </div>
         </div>
 

@@ -95,7 +95,8 @@ export default {
             { rel: 'icon', type: 'image/png', sizes: '16x16', href: 'https://heuzeproductions.com/favicon-16x16.png' },
             { rel: 'manifest', href: 'https://heuzeproductions.com/manifest.json' },
             { rel: 'preconnect', href: 'https://cdn.jsdelivr.net' },
-            { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+            { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+            { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css' }
             ]
     },
     script: [

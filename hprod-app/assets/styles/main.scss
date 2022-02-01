@@ -9,9 +9,9 @@ html, body {
   color: #fff;
 }
 .long-bg {
-  background: url("/img/header-background-v2.png") bottom center no-repeat #000033;
+  background: url("/img/header-background-v3.png") bottom center no-repeat #000033;
   background-size: cover;
-  height: 650px;
+  height: 901px;
   @media only screen and (max-width: 1024px){
     height: 555px;
   }
@@ -74,14 +74,14 @@ header {
     }
   }
   .hero {
-    margin: 6rem auto 2rem auto;
+    margin: 30rem auto 2rem auto;
     width: 50%;
     @media only screen and (max-width: 480px){
       text-align: center;
     }
     @media only screen and (max-width: 1024px){
-      margin: 3rem auto 1rem auto;
-      width: 90%;
+      margin: 33rem auto 1rem auto;
+      width: 70%;
     }
     &.sub {
       margin: 6rem auto 2rem auto;
@@ -344,9 +344,7 @@ section {
     }
   }
   &.block-contact {
-    display: flex;
-    justify-content: center;
-    align-content: center;
+    display: block;
   }
   &.block-privacy {
     display: flex;
@@ -373,6 +371,11 @@ section {
       font-size: 1.5rem;
       line-height: 1.6rem;
     }
+    a {
+      display: inline-block;
+      line-height: 1.3rem;
+      margin-bottom: 1rem;
+    }
     p, li {
       font-size: 1rem;
       line-height: 1.3rem;
@@ -384,6 +387,9 @@ section {
       li {
         list-style-type: disc;
       }
+    }
+    .slots {
+      margin: 4rem 0;
     }
   }
 }
