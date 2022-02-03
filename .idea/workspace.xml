@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/assets/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/assets/styles/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/components/footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/footer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/components/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/pages/game-studio-resources.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/pages/game-studio-resources.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +236,7 @@
       <workItem from="1642386863443" duration="25000" />
       <workItem from="1643266594434" duration="2371000" />
       <workItem from="1643323012464" duration="13139000" />
-      <workItem from="1643864931589" duration="156000" />
+      <workItem from="1643864931589" duration="2676000" />
     </task>
     <servers />
   </component>

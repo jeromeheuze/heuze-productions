@@ -6,7 +6,7 @@
       <ul>
         <!--<li>Games</li>
         <li>Dev Blog</li>-->
-        <li><nuxt-link to="/game-studio-resources/">Resources</nuxt-link></li>
+        <li><nuxt-link to="/game-studio-resources">Resources</nuxt-link></li>
         <li><nuxt-link to="/contact">Contact</nuxt-link></li>
         <li><a href="https://discord.gg/qBhgA4Af3q" target="_blank">Join our Discord</a></li>
       </ul>
