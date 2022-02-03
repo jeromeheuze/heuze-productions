@@ -174,19 +174,18 @@ footer {
               margin: 1rem 0 3rem 0;
               li {
                 a {
+                  line-height: 48px;
                   &:link, &:visited {
                     color: #000033;
                     @media only screen and (max-width: 480px){
                       color: #fff;
                       font-size: 0.9rem;
-                      line-height: 1rem;
                     }
                   }
                   &:active, &:focus, &:hover {
                     color: #e83e97;
                     @media only screen and (max-width: 480px){
                       font-size: 0.9rem;
-                      line-height: 1rem;
                     }
                   }
                 }
