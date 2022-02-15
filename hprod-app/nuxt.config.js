@@ -41,7 +41,7 @@ export default {
             {
                 hid: 'twitter:image',
                 name: 'twitter:image',
-                content: 'https://heuzeproductions.com/heuzeproductions-social-banner.png'
+                content: 'https://heuzeproductions.com/heuzeproductions-social-banner.jpg'
             },
             // Open Graph
             { hid: 'og:site_name', property: 'og:site_name', content: 'Heuze Productions' },
@@ -64,12 +64,12 @@ export default {
             {
                 hid: 'og:image',
                 property: 'og:image',
-                content: 'https://heuzeproductions.com/heuzeproductions-social-banner.png'
+                content: 'https://heuzeproductions.com/heuzeproductions-social-banner.jpg'
             },
             {
                 hid: 'og:image:secure_url',
                 property: 'og:image:secure_url',
-                content: 'https://heuzeproductions.com/heuzeproductions-social-banner.png'
+                content: 'https://heuzeproductions.com/heuzeproductions-social-banner.jpg'
             },
             {
                 hid: 'og:image:alt',
@@ -135,7 +135,7 @@ export default {
             {
                 site_name: "HeuzeProductions",
                 author: "Jerome Heuze",
-                img: "https://heuzeproductions.com/heuzeproductions-social-banner.png",
+                img: "https://heuzeproductions.com/heuzeproductions-social-banner.jpg",
                 img_size: { width: "1200", height: "630" },
                 locale: "en_US",
                 twitter: "@E2Prod",
