@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/heuzeproductions-social-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/e2epls-social-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/e2production-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/e2production-social-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/entropiahub-64x64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/entropiamarket-64x64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/jamstackhosting-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/jamstackhosting-social-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/og-img-entropia-hub-default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/og-img-entropia-market-default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/themesForSale-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/themesforsale-social-banner.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/assets/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/assets/styles/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/components/hero-home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/hero-home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/nuxt.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +236,7 @@
       <workItem from="1643323012464" duration="13139000" />
       <workItem from="1643864931589" duration="3268000" />
       <workItem from="1643954608591" duration="17000" />
-      <workItem from="1644896448123" duration="3715000" />
+      <workItem from="1644896448123" duration="4957000" />
     </task>
     <servers />
   </component>
