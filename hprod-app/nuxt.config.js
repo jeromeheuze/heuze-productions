@@ -15,6 +15,7 @@ export default {
             { charset: 'utf-8' },
             { 'http-equiv': 'X-UA-Compatible', content:'IE=edge' },
             { name: 'google-site-verification', content: 'ffqOWgEXhG-idphNd4krhLAEAIlAnS1nUEq-yWPTjvI' },
+            { name: 'statvooVerification', content: 'a147aa6695258dfd9dfc265692576934' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
             { hid: 'description', name: 'description', content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games for mobile and the metaverse.' },
             // Twitter
