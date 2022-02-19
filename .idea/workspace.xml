@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/spaceshipadventurepark-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/spaceshipadventurepark-social-banner.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +58,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../entropiamarket.com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hprod-app/static/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -236,6 +239,8 @@
       <workItem from="1643864931589" duration="3268000" />
       <workItem from="1643954608591" duration="17000" />
       <workItem from="1644896448123" duration="8013000" />
+      <workItem from="1645212035286" duration="1366000" />
+      <workItem from="1645254364569" duration="777000" />
     </task>
     <servers />
   </component>

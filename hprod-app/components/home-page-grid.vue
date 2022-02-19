@@ -153,15 +153,15 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://e2epls.com/" target="_blank"><img src="/img/e2epls-social-banner.jpg" alt="Earth2EPLs" /></a>
+            <a href="https://spaceship-adventure-park.com/" target="_blank"><img src="/img/spaceshipadventurepark-social-banner.jpg" alt="Spaceship Adventure Park" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://e2epls.com/" target="_blank"><img src="/img/e2production-96x96.png" alt="Earth2EPLs" /></a>
+                <a href="https://spaceship-adventure-park.com/" target="_blank"><img src="/img/spaceshipadventurepark-96x96.png" alt="Spaceship Adventure Park" /></a>
                 <div class="title-desc">
-                  <h3>Earth2EPLs directory</h3>
-                  <p>We have designed a set of tools to publicize all your Earth2® Property Locator organized by your in-game name in Earth2.</p>
+                  <h3>Spaceship Adventure Park</h3>
+                  <p>Welcome to the SpaceShip Adventure park. Building over 3 location inside Earth2.io - follow our development.</p>
                 </div>
               </div>
               <div class="reviews">
