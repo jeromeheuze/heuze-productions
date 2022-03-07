@@ -307,9 +307,10 @@ section {
               display: none;
             }
           }
-          .info-download {
-            width: 250px;
-            display: none;
+          &.info-download {
+            margin-top: 1rem;
+            background: #111;
+            border: 1px solid #5e72eb;
           }
         }
       }

@@ -6,15 +6,15 @@
       <div class="game-grid middle-xs">
         <div class="card">
           <div class="card-img">
-            <img src="/img/comingsoon.png" alt="" />
+            <img src="/img/header-treasure-flip.jpg" alt="Treasure Flip: Halloween Edition" />
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <img src="/img/comingsoon_icon.png" alt="" />
+                <img src="/img/treasureflip_icon.jpg" alt="Treasure Flip: Halloween Edition" />
                 <div class="title-desc">
-                  <h3>Road to Scary Haunt</h3>
-                  <p>Casual game about capturing ghosts with salt. Fascinating gameplay - coming on halloween 2022</p>
+                  <h3>Treasure Flip: Halloween Edition</h3>
+                  <p>Treasure Flip is a memory game where you need to match pairs of tiles. Play now!</p>
                 </div>
               </div>
               <div class="reviews">
@@ -25,9 +25,10 @@
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
             </div>
-            <div class="info-download">
-              <p>Download now at</p>
-
+          </div>
+          <div class="card-overlay info-download">
+            <div class="play-cont">
+              <a href="https://heuzeproductions.itch.io/treasure-flip-halloween-edition" target="_blank"><img src="/img/itchioo-badge-color.svg" alt="itch.io - Treasure Flip: Halloween Edition" width="150" height="46" /></a>
             </div>
           </div>
         </div>
@@ -52,9 +53,10 @@
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
             </div>
-            <div class="info-download">
-              <p>Download now at</p>
-
+          </div>
+          <div class="card-overlay info-download">
+            <div class="play-cont">
+              <img src="/img/itchioo-badge-soon.svg" alt="itch.io - coming soon" width="150" height="46" style="opacity: 0.1" />
             </div>
           </div>
         </div>
@@ -64,7 +66,6 @@
     <div class="home-page-grid--cont">
       <h2>Our HTML5 Game Portals</h2>
       <div class="game-grid middle-xs">
-
         <div class="card">
           <div class="card-img">
             <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon.png" alt="Kohibou - 2D worlds" /></a>
@@ -85,9 +86,6 @@
                 <img src="/img/star-15.svg" alt="" />
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
-            </div>
-            <div class="info-download">
-              <p>Download now at</p>
             </div>
           </div>
         </div>
@@ -112,19 +110,14 @@
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
             </div>
-            <div class="info-download">
-              <p>Download now at</p>
-            </div>
           </div>
         </div>
-
       </div>
     </div>
 
     <div class="home-page-grid--cont">
       <h2>Our Metaverse Development</h2>
       <div class="game-grid middle-xs">
-
         <div class="card">
           <div class="card-img">
             <a href="https://e2production.com" target="_blank"><img src="/img/e2production-social-banner.jpg" alt="E2Production" /></a>
@@ -172,12 +165,8 @@
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
             </div>
-            <div class="info-download">
-              <p>Download now at</p>
-            </div>
           </div>
         </div>
-
       </div>
     </div>
 
@@ -206,9 +195,6 @@
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
             </div>
-            <div class="info-download">
-              <p>Download now at</p>
-            </div>
           </div>
         </div>
         <div class="card">
@@ -231,9 +217,6 @@
                 <img src="/img/star-15.svg" alt="" />
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
-            </div>
-            <div class="info-download">
-              <p>Download now at</p>
             </div>
           </div>
         </div>
@@ -291,9 +274,6 @@
                 <img src="/img/star-15.svg" alt="" />
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
-            </div>
-            <div class="info-download">
-              <p>Download now at</p>
             </div>
           </div>
         </div>
