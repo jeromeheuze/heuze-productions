@@ -139,9 +139,6 @@
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
             </div>
-            <div class="info-download">
-              <p>Download now at</p>
-            </div>
           </div>
         </div>
         <div class="card">
@@ -248,9 +245,6 @@
                 <img src="/img/star-15.svg" alt="" />
                 <img src="/img/star-15.svg" alt="" /> (4.5)
               </div>
-            </div>
-            <div class="info-download">
-              <p>Download now at</p>
             </div>
           </div>
         </div>

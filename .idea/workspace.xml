@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/header-treasure-flip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/itchioo-badge-color.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/itchioo-badge-soon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/treasure-flip_114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/treasureflip_icon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/assets/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/assets/styles/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +238,7 @@
       <workItem from="1644896448123" duration="8013000" />
       <workItem from="1645212035286" duration="1366000" />
       <workItem from="1645254364569" duration="1302000" />
-      <workItem from="1646613388206" duration="3881000" />
+      <workItem from="1646613388206" duration="4515000" />
     </task>
     <servers />
   </component>
