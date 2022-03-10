@@ -135,7 +135,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: 'Heuze Productions is an indie game developer using Unity3D. We are making 2D casual games. Follow our journey making several games for mobile and the metaverse.'
+          content: 'Heuze Productions is an indie game development studio. We are making 2D casual video games and focus on storytelling. Follow our journey making games for mobile, desktop and the Metaverse.'
         }
       ],
       style: [
