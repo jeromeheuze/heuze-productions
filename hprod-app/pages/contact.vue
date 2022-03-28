@@ -17,6 +17,8 @@
                 <p><a href="https://www.behance.net/jerome-heuze" target="_blank">Behance - Portfolio</a></p>
                 <p><a href="https://www.linkedin.com/in/jeromeheuze/" target="_blank">LinkedIn - Resume</a></p>
                 <p><a href="https://github.com/jeromeheuze" target="_blank">Github</a></p>
+                <p><a href="https://trello.com/b/tcwDq4Nt/heuze-production-roadmap" rel="noopener" target="_blank">Roadmap on Trello</a></p>
+                <p><a href="https://discord.gg/qBhgA4Af3q" target="_blank">Join our Discord</a></p>
               </div>
             </div>
             <div class="col-xs-12 col-lg-6">
