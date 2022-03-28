@@ -56,7 +56,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hprod-app/static/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -244,6 +244,7 @@
       <workItem from="1648412097574" duration="1086000" />
       <workItem from="1648415253236" duration="649000" />
       <workItem from="1648430892845" duration="1156000" />
+      <workItem from="1648435104807" duration="539000" />
     </task>
     <servers />
   </component>
