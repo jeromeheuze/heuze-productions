@@ -87,7 +87,7 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon.png" alt="Academia Lore - Game Portal" /></a>
+            <a href="https://academialore.com" target="_blank"><img src="/img/academialore-testinggames.jpg" alt="Academia Lore - Game Portal" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
