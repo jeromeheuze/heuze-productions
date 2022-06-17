@@ -95,7 +95,7 @@
                 <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Academia Lore - Game Portal" /></a>
                 <div class="title-desc">
                   <h3>Academia Lore - Game Portal</h3>
-                  <p>We are making a great product - a mix of education and video games - welcome to Edutainment and Mastery of skills. To be Released in 2023.</p>
+                  <p>We made a small game portal with free web browser games to play. Enjoy!</p>
                 </div>
               </div>
             </div>
