@@ -17,7 +17,7 @@ export default {
             { name: 'google-site-verification', content: 'ffqOWgEXhG-idphNd4krhLAEAIlAnS1nUEq-yWPTjvI' },
             { name: 'statvooVerification', content: 'a147aa6695258dfd9dfc265692576934' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: 'Heuze Productions is an indie game development studio. We are making 2D casual video games and focus on storytelling. Follow our journey making games for mobile, desktop and the Metaverse.' },
+            { hid: 'description', name: 'description', content: 'Heuze Productions is a solo indie game development studio. We are making 2D casual video games and focus on storytelling. Follow our journey making games for mobile, desktop and the Metaverse.' },
             // Twitter
             {
                 hid: 'twitter:card',
@@ -37,7 +37,7 @@ export default {
             {
                 hid: 'twitter:description',
                 name: 'twitter:description',
-                content: 'Heuze Productions is an indie game development studio. We are making 2D casual video games and focus on storytelling. Follow our journey making games for mobile, desktop and the Metaverse.'
+                content: 'Heuze Productions is a solo indie game development studio. We are making 2D casual video games and focus on storytelling. Follow our journey making games for mobile, desktop and the Metaverse.'
             },
             {
                 hid: 'twitter:image',
@@ -60,7 +60,7 @@ export default {
             {
                 hid: 'og:description',
                 property: 'og:description',
-                content: 'Heuze Productions is an indie game development studio. We are making 2D casual video games and focus on storytelling. Follow our journey making games for mobile, desktop and the Metaverse.'
+                content: 'Heuze Productions is a solo indie game development studio. We are making 2D casual video games and focus on storytelling. Follow our journey making games for mobile, desktop and the Metaverse.'
             },
             {
                 hid: 'og:image',

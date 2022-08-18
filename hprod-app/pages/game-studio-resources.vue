@@ -31,6 +31,16 @@
                   <a href="/DesignDocTemplate.pdf" target="_blank" class="button-narrow">Download PDF</a><br>
                   <a href="https://www.cs.unc.edu/Courses/comp585-s15/DesignDocTemplate.pdf" rel="noopener" target="_blank" class="button-narrow">Source PDF</a>
                 </div>
+                <div class="slots">
+                  <h2>Defold - Game Engine</h2>
+                  <p>The ultimate game engine for web and mobile.</p>
+                  <a href="https://defold.com" rel="noopener" target="_blank" class="button-narrow">Visit Defold</a>
+                </div>
+                <div class="slots">
+                  <h2>GDevelop - Game Engine</h2>
+                  <p>Make games with GDevelop, a no-code, open-source, free, and easy game-making app.</p>
+                  <a href="https://gdevelop.io" rel="noopener" target="_blank" class="button-narrow">Visit GDevelop</a>
+                </div>
           </div>
             </div>
           </div>
