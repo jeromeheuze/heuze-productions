@@ -46,6 +46,13 @@
                   <p>Make games with GDevelop, a no-code, open-source, free, and easy game-making app.</p>
                   <a href="https://gdevelop.io" rel="noopener" target="_blank" class="button-narrow">Visit GDevelop</a>
                 </div>
+                <div class="slots">
+                  <h2>Patreons - I follow</h2>
+                  <a href="https://www.patreon.com/Gamerturk/" rel="noopener" target="_blank" class="button-narrow">Gamerturk - Creating Game/Anime News, Reviews and Playthroughs</a>
+                  <a href="https://www.patreon.com/paceeeey/" rel="noopener" target="_blank" class="button-narrow">Pacey - Creating Earth 2 Videos</a>
+                  <a href="https://www.patreon.com/defold/" rel="noopener" target="_blank" class="button-narrow">Defold - Creating the ultimate game engine for web and mobile</a>
+                  <a href="https://www.patreon.com/gamefromscratch/" rel="noopener" target="_blank" class="button-narrow">GameFromScratch - Creating Video game tutorials</a>
+                </div>
           </div>
             </div>
           </div>
