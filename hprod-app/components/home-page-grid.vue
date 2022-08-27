@@ -71,15 +71,15 @@
 
         <div class="card">
           <div class="card-img">
-            <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon.png" alt="Kohibou - 2D worlds" /></a>
+            <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon.png" alt="Kohibou - 2D metaverse" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Kohibou - 2D worlds" /></a>
+                <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Kohibou - 2D metaverse" /></a>
                 <div class="title-desc">
                   <h3>Kohibou - 2D metaverse</h3>
-                  <p>Kohibou is a 2D pixel world with many environments to explore like a 2D metaverse. One character to explore many type of self-contain 2D worlds. To be Released in 2023.</p>
+                  <p>Kohibou is a 2D pixel world with many cities to explore with their own look and feel. One character to explore many type of self-contain 2D worlds with their own quests.</p>
                 </div>
               </div>
             </div>

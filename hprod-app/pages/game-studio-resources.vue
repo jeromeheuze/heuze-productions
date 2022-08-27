@@ -26,6 +26,11 @@
                   <a href="https://www.gamedevmarket.net/?ally=FGYDFYAt" rel="noopener" target="_blank" class="button-narrow">Visit GameDev Market</a>
                 </div>
                 <div class="slots">
+                  <h2>GameFromScratch.com</h2>
+                  <p>Game Development News, Tutorials and More.</p>
+                  <a href="https://gamefromscratch.com" rel="noopener" target="_blank" class="button-narrow">Visit GameFromScratch</a>
+                </div>
+                <div class="slots">
                   <h2>Game Design Document Outline</h2>
                   <p>A game design document is the blueprint from which a game is to be built. As such, every single detail necessary to build the game should be addressed.</p>
                   <a href="/DesignDocTemplate.pdf" target="_blank" class="button-narrow">Download PDF</a><br>
