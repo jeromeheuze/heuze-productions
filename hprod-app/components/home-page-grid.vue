@@ -87,15 +87,15 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://academialore.com" target="_blank"><img src="/img/academialore-testinggames.jpg" alt="Academia Lore - Game Portal" /></a>
+            <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Academia Lore - Free Fun Games" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Academia Lore - Game Portal" /></a>
+                <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Academia Lore - Free Fun Games" /></a>
                 <div class="title-desc">
-                  <h3>Academia Lore - Game Portal</h3>
-                  <p>We made a small game portal with free web browser games to play. Enjoy!</p>
+                  <h3>Academia Lore - Free Fun Games</h3>
+                  <p>Come and Play free fun games on AcademiaLore website. Play solo or against someone and achieve high scores to get rewards for your account.</p>
                 </div>
               </div>
             </div>
