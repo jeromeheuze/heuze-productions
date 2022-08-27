@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +232,7 @@
       <workItem from="1655178776327" duration="710000" />
       <workItem from="1655438731134" duration="216000" />
       <workItem from="1660838747385" duration="513000" />
-      <workItem from="1661624343437" duration="475000" />
+      <workItem from="1661624343437" duration="669000" />
     </task>
     <servers />
   </component>

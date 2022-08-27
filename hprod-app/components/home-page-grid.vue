@@ -42,8 +42,8 @@
               <div class="icon-game-title">
                 <img src="/img/hungry_mage_icon_v0.png" alt="Hungry Mage App Icon" />
                 <div class="title-desc">
-                  <h3>Hungry Mage - coming in 2022!</h3>
-                  <p>Help our mage pick up his food in a certain order or more trouble will happen in the kingdom. But you are not alone!</p>
+                  <h3>Hungry Mage - coming in 2023!</h3>
+                  <p>Help our mage pick up his food in a certain order or more trouble will happen in the kingdom. But you are not alone! Made with <a href="https://defold.com/" target="_blank">Defold - Game Engine</a>.</p>
                 </div>
               </div>
               <div class="reviews">
@@ -87,7 +87,7 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Academia Lore - Free Fun Games" /></a>
+            <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon.png" alt="Academia Lore - Free Fun Games" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
@@ -135,7 +135,7 @@
                 <a href="https://spaceship-adventure-park.com/" target="_blank"><img src="/img/spaceshipadventurepark-96x96.png" alt="Spaceship Adventure Park" /></a>
                 <div class="title-desc">
                   <h3>Spaceship Adventure Park</h3>
-                  <p>Welcome to the SpaceShip Adventure park. Building over 3 location inside Earth2.io - follow our development. To be Released in 2023.</p>
+                  <p>Welcome to the SpaceShip Adventure park. Building over 3 location inside Earth2.io - follow our development.</p>
                 </div>
               </div>
             </div>
