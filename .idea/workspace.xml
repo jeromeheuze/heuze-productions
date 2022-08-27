@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hprod-app/components/hero-home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/hero-home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/pages/game-studio-resources.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/pages/game-studio-resources.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/pages/index.vue" afterDir="false" />
-    </list>
+    <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,7 +228,7 @@
       <workItem from="1655072905412" duration="644000" />
       <workItem from="1655178776327" duration="710000" />
       <workItem from="1655438731134" duration="216000" />
-      <workItem from="1660838747385" duration="376000" />
+      <workItem from="1660838747385" duration="513000" />
     </task>
     <servers />
   </component>
