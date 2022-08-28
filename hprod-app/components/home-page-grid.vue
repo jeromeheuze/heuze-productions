@@ -167,15 +167,15 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://jamstackhosting.reviews" target="_blank"><img src="/img/jamstackhosting-social-banner.jpg" alt="JamstackHosting.Reviews" /></a>
+            <a href="https://bestfsmods.com" target="_blank"><img src="/img/bestfsmods-social-banner-min.jpg" alt="BestFSMods" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://jamstackhosting.reviews" target="_blank"><img src="/img/jamstackhosting-96x96.png" alt="JamstackHosting.Reviews" /></a>
+                <a href="https://bestfsmods.com" target="_blank"><img src="/img/bestfsmods-96x96.png" alt="BestFSMods" /></a>
                 <div class="title-desc">
-                  <h3>JamstackHosting.Reviews</h3>
-                  <p>You have a Jamstack framework and need to launch - discover top Jamstack Hosting services from our list. Releasing in 2022.</p>
+                  <h3>BestFSMods</h3>
+                  <p>BestFSMods provides a list of mods to download made by other players which are compatible for Farming Simulator 19, Farming Simulator 20 and Farming Simulator 22.</p>
                 </div>
               </div>
             </div>

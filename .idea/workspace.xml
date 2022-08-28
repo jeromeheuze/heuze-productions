@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520ff206-cd08-4c20-9de4-62f2d69fe3bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/bestfsmods-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hprod-app/static/img/bestfsmods-social-banner-min.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/components/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hprod-app/pages/game-studio-resources.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/pages/game-studio-resources.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hprod-app/components/home-page-grid.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +234,7 @@
       <workItem from="1655178776327" duration="710000" />
       <workItem from="1655438731134" duration="216000" />
       <workItem from="1660838747385" duration="513000" />
-      <workItem from="1661624343437" duration="2148000" />
+      <workItem from="1661624343437" duration="2580000" />
     </task>
     <servers />
   </component>
