@@ -159,7 +159,7 @@
                 <a href="https://themes.forsale" target="_blank"><img src="/img/themesForSale-96x96.png" alt="Themes.ForSale" /></a>
                 <div class="title-desc">
                   <h3>Themes.ForSale</h3>
-                  <p>Purchase our quality themes for your favorite Jamstack framework like NuxtJS, Gatsby, Next, Hugo and Jekyll to accelerate your development time. To be determined for release. Releasing 2022.</p>
+                  <p>Purchase our quality themes for your favorite Jamstack framework like NuxtJS, Gatsby, Next, Hugo and Jekyll to accelerate your development time. Releasing 2022-2023.</p>
                 </div>
               </div>
             </div>
