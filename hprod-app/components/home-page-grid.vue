@@ -225,5 +225,45 @@
       </div>
     </div>
 
+    <div class="home-page-grid--cont">
+      <h2>Our Video Game learning platforms</h2>
+      <div class="game-grid middle-xs">
+
+        <div class="card">
+          <div class="card-img">
+            <a href="https://e2.university/" target="_blank"><img src="/img/comingsoon.png" alt="Earth2 University" /></a>
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <a href="https://e2.university/" target="_blank"><img src="/img/comingsoon_icon.png" alt="Earth2 University" /></a>
+                <div class="title-desc">
+                  <h3>Earth2 University</h3>
+                  <p>E2 University provides online guides and list of self-paced courses about Earth2 the Geolocational Metaverse. Discover a list of player owned immersive courses on Earth2 when they become available. Learn and teach in Earth2 - the people's Metaverse.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-img">
+            <a href="https://entropia.university/" target="_blank"><img src="/img/comingsoon.png" alt="Entropia University" /></a>
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <a href="https://entropia.university/" target="_blank"><img src="/img/comingsoon_icon.png" alt="Entropia University" /></a>
+                <div class="title-desc">
+                  <h3>Entropia University</h3>
+                  <p>Entropia Universe – the Sci-Fi MMORPG Metaverse Real Cash Economy Experience. Discover a list of immersive courses and learning path about Entropia - Learn Entropia Universe with veteran players.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
   </section>
 </template>
