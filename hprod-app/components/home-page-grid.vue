@@ -239,7 +239,7 @@
                 <a href="https://e2.university/" target="_blank"><img src="/img/comingsoon_icon.png" alt="Earth2 University" /></a>
                 <div class="title-desc">
                   <h3>Earth2 University</h3>
-                  <p>E2 University provides online guides and list of self-paced courses about Earth2 the Geolocational Metaverse. Discover a list of player owned immersive courses on Earth2 when they become available. Learn and teach in Earth2 - the people's Metaverse.</p>
+                  <p>E2 University provides online guides and list of self-paced courses about Earth2 the Geolocational Metaverse. Discover a list of immersive courses about Earth2. Learn in Earth2 - the people's Metaverse.</p>
                 </div>
               </div>
             </div>
