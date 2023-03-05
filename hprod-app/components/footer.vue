@@ -26,7 +26,7 @@
         </div>
       </div>
       <div class="footer-copyright">
-        <p>&copy; 2022 - All Rights Reserved - Heuze Productions</p>
+        <p>&copy; 2023 - All Rights Reserved - Heuze Productions</p>
       </div>
     </div>
   </footer>
