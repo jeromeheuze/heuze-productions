@@ -207,14 +207,14 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://entropiamarket.com/" target="_blank"><img src="/img/og-img-entropia-market-default.png" alt="Entropia Market" /></a>
+            <a href="https://entropia.estate/" target="_blank"><img src="/img/comingsoon.png" alt="Entropia Estate" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://entropiamarket.com/" target="_blank"><img src="/img/entropiamarket-64x64.png" alt="Entropia Market" /></a>
+                <a href="https://entropia.estate/" target="_blank"><img src="/img/comingsoon_icon.png" alt="Entropia Estate" /></a>
                 <div class="title-desc">
-                  <h3>Entropia Market</h3>
+                  <h3>Entropia Estate</h3>
                   <p>Market data from auction about deeds in Entropia Universe. And your first stop for virtual visits of Entropia estates.</p>
                 </div>
               </div>
