@@ -42,8 +42,9 @@
               <div class="icon-game-title">
                 <img src="/img/hungry_mage_icon_v0.png" alt="Hungry Mage App Icon" />
                 <div class="title-desc">
-                  <h3>Hungry Mage - coming in 2023!</h3>
-                  <p>Help our mage pick up his food in a certain order or more trouble will happen in the kingdom. But you are not alone! Made with <a href="https://defold.com/" target="_blank">Defold - Game Engine</a>.</p>
+                  <h3>Hungry Mage - coming soon!</h3>
+                  <p>Help our mage pick up his food in a certain order or more trouble will happen in the kingdom.
+                      But you are not alone! Made with <a href="https://gamemaker.io/" target="_blank">GameMaker 2023</a>.</p>
                 </div>
               </div>
               <div class="reviews">
@@ -149,22 +150,22 @@
       <h2>Our Web Development Properties</h2>
       <div class="game-grid middle-xs">
 
-<!--        <div class="card">-->
-<!--          <div class="card-img">-->
-<!--            <a href="https://themes.forsale" target="_blank"><img src="/img/themesforsale-social-banner.jpg" alt="Themes.ForSale" /></a>-->
-<!--          </div>-->
-<!--          <div class="card-overlay">-->
-<!--            <div class="info-cont">-->
-<!--              <div class="icon-game-title">-->
-<!--                <a href="https://themes.forsale" target="_blank"><img src="/img/themesForSale-96x96.png" alt="Themes.ForSale" /></a>-->
-<!--                <div class="title-desc">-->
-<!--                  <h3>Themes.ForSale</h3>-->
-<!--                  <p>Purchase our quality themes for your favorite Jamstack framework like NuxtJS, Gatsby, Next, Hugo and Jekyll to accelerate your development time. Releasing 2022-2023.</p>-->
-<!--                </div>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </div>-->
+        <div class="card">
+          <div class="card-img">
+            <a href="https://nucmining.com" target="_blank"><img src="/img/comingsoon.png" alt="NUC Mining" /></a>
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <a href="https://nucmining.com" target="_blank"><img src="/img/nucmining-150x150.png" alt="NUC Mining" /></a>
+                <div class="title-desc">
+                  <h3>NUC Mining</h3>
+                  <p>Want to mine crypto CPU coins on NUC computers. NUC Mining sell used mini pc for mining latest CPU PoW. Check out our stock.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="card">
           <div class="card-img">
             <a href="https://bestfsmods.com" target="_blank"><img src="/img/bestfsmods-social-banner-min.jpg" alt="BestFSMods" /></a>
@@ -212,7 +213,7 @@
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://entropia.estate/" target="_blank"><img src="/img/comingsoon_icon.png" alt="Entropia Estate" /></a>
+                <a href="https://entropia.estate/" target="_blank"><img src="/img/entropiamarket-64x64.png" alt="Entropia Estate" /></a>
                 <div class="title-desc">
                   <h3>Entropia Estate</h3>
                   <p>Market data from auction about deeds in Entropia Universe. And your first stop for virtual visits of Entropia estates.</p>
@@ -223,12 +224,47 @@
         </div>
 
       </div>
+      <div class="game-grid middle-xs">
+
+            <div class="card">
+                <div class="card-img">
+                    <a href="https://entropia.events" target="_blank"><img src="/img/comingsoon.png" alt="Entropia Events" /></a>
+                </div>
+                <div class="card-overlay">
+                    <div class="info-cont">
+                        <div class="icon-game-title">
+                            <a href="https://entropia.events" target="_blank"><img src="/img/comingsoon_icon.png" alt="Entropia Events" /></a>
+                            <div class="title-desc">
+                                <h3>Entropia Events</h3>
+                                <p>Find the latest events created by players from Entropia Universe.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-img">
+                    <a href="https://foma-asteroid.com" target="_blank"><img src="/img/comingsoon.png" alt="FOMA Asteroid" /></a>
+                </div>
+                <div class="card-overlay">
+                    <div class="info-cont">
+                        <div class="icon-game-title">
+                            <a href="https://foma-asteroid.com" target="_blank"><img src="/img/Foma.png" alt="FOMA Asteroid" /></a>
+                            <div class="title-desc">
+                                <h3>FOMA Asteroid</h3>
+                                <p>Discover FOMA - Asteroid from Entropia Universe. Hunt, mine in 20 biomes and visit more than 50+ player owned shops.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
     </div>
 
     <div class="home-page-grid--cont">
       <h2>Our Video Game learning platforms</h2>
       <div class="game-grid middle-xs">
-
         <div class="card">
           <div class="card-img">
             <a href="https://e2.university/" target="_blank"><img src="/img/comingsoon.png" alt="Earth2 University" /></a>
@@ -261,9 +297,10 @@
             </div>
           </div>
         </div>
-
       </div>
     </div>
 
   </section>
 </template>
+<script setup>
+</script>
