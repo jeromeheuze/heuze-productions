@@ -72,7 +72,7 @@
 
         <div class="card">
           <div class="card-img">
-            <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon.png" alt="Kohibou - 2D metaverse" /></a>
+            <a href="https://kohibou.com" target="_blank"><img src="/img/cs_image.jpg" alt="Kohibou - 2D metaverse" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
@@ -88,7 +88,7 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon.png" alt="Academia Lore - Free Fun Games" /></a>
+            <a href="https://academialore.com" target="_blank"><img src="/img/cs_image.jpg" alt="Academia Lore - Free Fun Games" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
@@ -208,7 +208,7 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://entropia.estate/" target="_blank"><img src="/img/comingsoon.png" alt="Entropia Estate" /></a>
+            <a href="https://entropia.estate/" target="_blank"><img src="/img/cs_image.jpg" alt="Entropia Estate" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
@@ -228,7 +228,7 @@
 
             <div class="card">
                 <div class="card-img">
-                    <a href="https://entropia.events" target="_blank"><img src="/img/comingsoon.png" alt="Entropia Events" /></a>
+                    <a href="https://entropia.events" target="_blank"><img src="/img/cs_image.jpg" alt="Entropia Events" /></a>
                 </div>
                 <div class="card-overlay">
                     <div class="info-cont">
@@ -267,7 +267,7 @@
       <div class="game-grid middle-xs">
         <div class="card">
           <div class="card-img">
-            <a href="https://e2.university/" target="_blank"><img src="/img/comingsoon.png" alt="Earth2 University" /></a>
+            <a href="https://e2.university/" target="_blank"><img src="/img/cs_image.jpg" alt="Earth2 University" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
@@ -283,7 +283,7 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://entropia.university/" target="_blank"><img src="/img/comingsoon.png" alt="Entropia University" /></a>
+            <a href="https://entropia.university/" target="_blank"><img src="/img/cs_image.jpg" alt="Entropia University" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
