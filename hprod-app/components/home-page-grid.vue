@@ -157,7 +157,7 @@
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://nucmining.com" target="_blank"><img src="/img/nucmining-150x150.png" alt="NUC Mining" /></a>
+                <a href="https://nucmining.com" target="_blank"><img src="/img/nucmining-192x192.png" width="96" alt="NUC Mining" /></a>
                 <div class="title-desc">
                   <h3>NUC Mining</h3>
                   <p>Want to mine crypto CPU coins on NUC computers. NUC Mining sell used mini pc for mining latest CPU PoW. Check out our stock.</p>
@@ -249,7 +249,7 @@
                 <div class="card-overlay">
                     <div class="info-cont">
                         <div class="icon-game-title">
-                            <a href="https://foma-asteroid.com" target="_blank"><img src="/img/Foma.png" alt="FOMA Asteroid" /></a>
+                            <a href="https://foma-asteroid.com" target="_blank"><img src="/img/Foma.png" height="96" alt="FOMA Asteroid" /></a>
                             <div class="title-desc">
                                 <h3>FOMA Asteroid</h3>
                                 <p>Discover FOMA - Asteroid from Entropia Universe. Hunt, mine in 20 biomes and visit more than 50+ player owned shops.</p>
