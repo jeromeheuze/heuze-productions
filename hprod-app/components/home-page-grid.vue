@@ -244,7 +244,7 @@
             </div>
             <div class="card">
                 <div class="card-img">
-                    <a href="https://foma-asteroid.com" target="_blank"><img src="/img/comingsoon.png" alt="FOMA Asteroid" /></a>
+                    <a href="https://foma-asteroid.com" target="_blank"><img src="/img/foma-og.jpg" alt="FOMA Asteroid" /></a>
                 </div>
                 <div class="card-overlay">
                     <div class="info-cont">
