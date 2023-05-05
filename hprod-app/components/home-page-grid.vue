@@ -152,7 +152,7 @@
 
         <div class="card">
           <div class="card-img">
-            <a href="https://nucmining.com" target="_blank"><img src="/img/comingsoon.png" alt="NUC Mining" /></a>
+            <a href="https://nucmining.com" target="_blank"><img src="/img/nucmining-og-image.jpg" alt="NUC Mining" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
