@@ -44,7 +44,7 @@
                 <div class="title-desc">
                   <h3>Hungry Mage - coming soon!</h3>
                   <p>Help our mage pick up his food in a certain order or more trouble will happen in the kingdom.
-                      But you are not alone! Made with <a href="https://gamemaker.io/" target="_blank">GameMaker 2023</a>.</p>
+                      But you are not alone! Made with <a href="https://defold.com/" target="_blank">Defold</a>.</p>
                 </div>
               </div>
               <div class="reviews">
@@ -80,7 +80,8 @@
                 <a href="https://kohibou.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Kohibou - 2D metaverse" /></a>
                 <div class="title-desc">
                   <h3>Kohibou - 2D metaverse</h3>
-                  <p>Kohibou is a 2D pixel world with many cities to explore with their own look and feel. One character to explore many type of self-contain 2D worlds with their own quests.</p>
+                  <p>Kohibou is a 2D pixel world with many cities to explore with their own look and feel. One character to
+                    explore many type of self-contain 2D worlds with their own quests. Made with <a href="https://defold.com/" target="_blank">Defold</a>.</p>
                 </div>
               </div>
             </div>
@@ -96,7 +97,8 @@
                 <a href="https://academialore.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="Academia Lore - Free Fun Games" /></a>
                 <div class="title-desc">
                   <h3>Academia Lore - Free Fun Games</h3>
-                  <p>Come and Play free fun games on AcademiaLore website. Play solo or against someone and achieve high scores to get rewards for your account.</p>
+                  <p>Come and Play free fun games on AcademiaLore website. Play solo or against someone and achieve high
+                    scores to get rewards for your account. Made with <a href="https://defold.com/" target="_blank">Defold</a>.</p>
                 </div>
               </div>
             </div>

@@ -42,6 +42,11 @@
                   <a href="https://defold.com" rel="noopener" target="_blank" class="button-narrow">Visit Defold</a>
                 </div>
                 <div class="slots">
+                  <h2>Rive App</h2>
+                  <p>Build interactive animations that run anywhere.</p>
+                  <a href="https://www.rive.app" rel="noopener" target="_blank" class="button-narrow">Visit Rive</a>
+                </div>
+                <div class="slots">
                   <h2>GDevelop - Game Engine</h2>
                   <p>Make games with GDevelop, a no-code, open-source, free, and easy game-making app.</p>
                   <a href="https://gdevelop.io" rel="noopener" target="_blank" class="button-narrow">Visit GDevelop</a>
