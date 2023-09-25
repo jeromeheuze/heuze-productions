@@ -162,7 +162,7 @@
                 <a href="https://nucmining.com" target="_blank"><img src="/img/nucmining-192x192.png" width="96" alt="NUC Mining" /></a>
                 <div class="title-desc">
                   <h3>NUC Mining</h3>
-                  <p>Want to mine crypto CPU coins on NUC computers. NUC Mining sell used mini pc for mining latest CPU PoW. Check out our stock.</p>
+                  <p>Want to mine crypto CPU coins on NUC computers. Business For Sale.</p>
                 </div>
               </div>
             </div>
@@ -170,15 +170,15 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://bestfsmods.com" target="_blank"><img src="/img/bestfsmods-social-banner-min.jpg" alt="BestFSMods" /></a>
+            <a href="https://webdevmastery.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="WebDevMastery" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://bestfsmods.com" target="_blank"><img src="/img/bestfsmods-96x96.png" alt="BestFSMods" /></a>
+                <a href="https://webdevmastery.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="WebDevMastery" /></a>
                 <div class="title-desc">
-                  <h3>BestFSMods</h3>
-                  <p>BestFSMods provides a list of mods to download made by other players which are compatible for Farming Simulator 19, Farming Simulator 20 and Farming Simulator 22.</p>
+                  <h3>WebDevMastery</h3>
+                  <p>Learn HTML, CSS from our examples split into sections: Elements, Modules, Web Tools and Game UI.</p>
                 </div>
               </div>
             </div>
@@ -228,22 +228,6 @@
       </div>
       <div class="game-grid middle-xs">
 
-            <div class="card">
-                <div class="card-img">
-                    <a href="https://entropia.events" target="_blank"><img src="/img/cs_image.jpg" alt="Entropia Events" /></a>
-                </div>
-                <div class="card-overlay">
-                    <div class="info-cont">
-                        <div class="icon-game-title">
-                            <a href="https://entropia.events" target="_blank"><img src="/img/comingsoon_icon.png" alt="Entropia Events" /></a>
-                            <div class="title-desc">
-                                <h3>Entropia Events</h3>
-                                <p>Find the latest events created by players from Entropia Universe.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="card">
                 <div class="card-img">
                     <a href="https://foma-asteroid.com" target="_blank"><img src="/img/foma-og.jpg" alt="FOMA Asteroid" /></a>
