@@ -170,7 +170,7 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://webdevmastery.com" target="_blank"><img src="/img/comingsoon_icon.png" alt="WebDevMastery" /></a>
+            <a href="https://webdevmastery.com" target="_blank"><img src="/img/cs_image.jpg" alt="WebDevMastery" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
