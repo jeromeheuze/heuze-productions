@@ -154,15 +154,15 @@
 
         <div class="card">
           <div class="card-img">
-            <a href="https://nucmining.com" target="_blank"><img src="/img/nucmining-og-image.jpg" alt="NUC Mining" /></a>
+            <a href="https://learndefold.com" target="_blank"><img src="/img/cs_image.jpg" alt="LearnDefold" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://nucmining.com" target="_blank"><img src="/img/nucmining-192x192.png" width="96" alt="NUC Mining" /></a>
+                <a href="https://learndefold.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="LearnDefold" /></a>
                 <div class="title-desc">
-                  <h3>NUC Mining</h3>
-                  <p>Want to mine crypto CPU coins on NUC computers. Business For Sale.</p>
+                  <h3>LearnDefold</h3>
+                  <p>Defold -- game engine for high-performance cross-platform games. We will use LUA script and 2D games.</p>
                 </div>
               </div>
             </div>
