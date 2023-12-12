@@ -252,9 +252,7 @@
                 <div class="title-desc">
                   <h3>BookFairyTales</h3>
                   <p>BookFairyTales is a 3D world library split many smaller rooms. We are making a platform where you can
-                    read books and interactive stories. We are still under development and will continue to update. Feel
-                    free to contact us and gives us ideas, issues, opinions, and dont hesitate to share. Think it more like
-                    an immersive library experience for children books.</p>
+                    read books and interactive stories.</p>
                 </div>
               </div>
             </div>
