@@ -170,15 +170,16 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://webdevmastery.com" target="_blank"><img src="/img/cs_image.jpg" alt="WebDevMastery" /></a>
+            <a href="https://webdevmastery.com" target="_blank"><img src="/img/webdevmast_image.jpg" alt="WebDevMastery" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://webdevmastery.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="WebDevMastery" /></a>
+                <a href="https://webdevmastery.com" target="_blank"><img src="/img/webdevmast_icon.jpg" width="96" alt="WebDevMastery" /></a>
                 <div class="title-desc">
                   <h3>WebDevMastery</h3>
-                  <p>Learn HTML, CSS from our examples split into sections: Elements, Modules, Web Tools and Game UI.</p>
+                  <p>We provide review / support / tutorials for website assets you purchase from marketplace like codester.
+                    We will focus on website templates, scripts PHP & JS, game assets, and User Interface.</p>
                 </div>
               </div>
             </div>
@@ -210,7 +211,7 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://entropia.estate/" target="_blank"><img src="/img/cs_image.jpg" alt="Entropia Estate" /></a>
+            <a href="https://entropia.estate/" target="_blank"><img src="/img/ee_image.jpg" alt="Entropia Estate" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
