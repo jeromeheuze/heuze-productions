@@ -215,7 +215,7 @@
                 <a href="https://gddmaker.com" target="_blank"><img src="/img/gdd_icon.png" width="96" alt="gddmaker" /></a>
                 <div class="title-desc">
                   <h3>GDDMaker - Game Design Document Maker</h3>
-                  <p>A game design document is the blueprint from which a game is to be built.</p>
+                  <p>A game design document is the blueprint from which a game is to be built. Micro-Saas</p>
                 </div>
               </div>
             </div>
@@ -235,7 +235,7 @@
                 <a href="https://mathk12.tools" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="Math K-12 Homework Generator" /></a>
                 <div class="title-desc">
                   <h3>Math K-12 Homework Generator</h3>
-                  <p>Math K-12 Homework Generator is a website to generate a lot of different homework for your students to handout or print as PDF.</p>
+                  <p>Math K-12 Homework Generator is a website to generate a lot of different homework for your students to handout or print as PDF. Micro-Saas</p>
                 </div>
               </div>
             </div>
@@ -252,7 +252,7 @@
                 <div class="title-desc">
                   <h3>BookFairyTales</h3>
                   <p>BookFairyTales is a 3D world library split many smaller rooms. We are making a platform where you can
-                    read books and interactive stories.</p>
+                    read books and interactive stories. Micro-Saas</p>
                 </div>
               </div>
             </div>
