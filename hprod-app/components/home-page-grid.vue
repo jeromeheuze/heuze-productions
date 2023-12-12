@@ -187,6 +187,81 @@
         </div>
 
       </div>
+      <div class="game-grid middle-xs">
+
+        <div class="card">
+          <div class="card-img">
+            <a href="https://spacescience.degree" target="_blank"><img src="/img/ssd_image.jpg" alt="Space Science Degree" /></a>
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <a href="https://spacescience.degree" target="_blank"><img src="/img/ssd_icon.png" width="96" alt="Space Science Degree" /></a>
+                <div class="title-desc">
+                  <h3>Space Science Degree</h3>
+                  <p>Find the best degree for you - online or in person.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-img">
+            <a href="https://gddmaker.com" target="_blank"><img src="/img/cs_image.jpg" alt="gddmaker" /></a>
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <a href="https://gddmaker.com" target="_blank"><img src="/img/gdd_icon.png" width="96" alt="gddmaker" /></a>
+                <div class="title-desc">
+                  <h3>GDDMaker - Game Design Document Maker</h3>
+                  <p>A game design document is the blueprint from which a game is to be built.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="game-grid middle-xs">
+
+        <div class="card">
+          <div class="card-img">
+            <a href="https://mathk12.tools" target="_blank"><img src="/img/cs_image.jpg" alt="Math K-12 Homework Generator" /></a>
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <a href="https://mathk12.tools" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="Math K-12 Homework Generator" /></a>
+                <div class="title-desc">
+                  <h3>Math K-12 Homework Generator</h3>
+                  <p>Math K-12 Homework Generator is a website to generate a lot of different homework for your students to handout or print as PDF.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-img">
+            <a href="https://bookfairytales.com" target="_blank"><img src="/img/cs_image.jpg" alt="gddmaker" /></a>
+          </div>
+          <div class="card-overlay">
+            <div class="info-cont">
+              <div class="icon-game-title">
+                <a href="https://bookfairytales.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="gddmaker" /></a>
+                <div class="title-desc">
+                  <h3>BookFairyTales</h3>
+                  <p>BookFairyTales is a 3D world library split many smaller rooms. We are making a platform where you can
+                    read books and interactive stories. We are still under development and will continue to update. Feel
+                    free to contact us and gives us ideas, issues, opinions, and dont hesitate to share. Think it more like
+                    an immersive library experience for children books.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
     </div>
 
     <div class="home-page-grid--cont">
@@ -254,7 +329,7 @@
       <div class="game-grid middle-xs">
         <div class="card">
           <div class="card-img">
-            <a href="https://e2.university/" target="_blank"><img src="/img/cs_image.jpg" alt="Earth2 University" /></a>
+            <a href="https://e2.university/" target="_blank"><img src="/img/e2uni_icon.png" alt="Earth2 University" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
