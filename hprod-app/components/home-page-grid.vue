@@ -315,7 +315,7 @@
                 <a href="https://entropia.university/" target="_blank"><img src="/img/comingsoon_icon.png" alt="Entropia University" /></a>
                 <div class="title-desc">
                   <h3>Entropia University</h3>
-                  <p>Entropia Universe – the Sci-Fi MMORPG Metaverse Real Cash Economy Experience. Discover a list of immersive courses and learning path about Entropia - Learn Entropia Universe with veteran players.</p>
+                  <p>Entropia Universe – the Sci-Fi MMORPG Metaverse Real Cash Economy Experience. Discover a list of immersive courses and learning path about Entropia.</p>
                 </div>
               </div>
             </div>
