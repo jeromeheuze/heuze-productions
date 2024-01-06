@@ -150,43 +150,7 @@
 
     <div class="home-page-grid--cont">
       <h2>Our Web Development Properties</h2>
-      <div class="game-grid middle-xs">
 
-        <div class="card">
-          <div class="card-img">
-            <a href="https://learndefold.com" target="_blank"><img src="/img/cs_image.jpg" alt="LearnDefold" /></a>
-          </div>
-          <div class="card-overlay">
-            <div class="info-cont">
-              <div class="icon-game-title">
-                <a href="https://learndefold.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="LearnDefold" /></a>
-                <div class="title-desc">
-                  <h3>LearnDefold</h3>
-                  <p>Defold -- game engine for high-performance cross-platform games. We will use LUA script and 2D games.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-img">
-            <a href="https://webdevmastery.com" target="_blank"><img src="/img/webdevmast_image.jpg" alt="WebDevMastery" /></a>
-          </div>
-          <div class="card-overlay">
-            <div class="info-cont">
-              <div class="icon-game-title">
-                <a href="https://webdevmastery.com" target="_blank"><img src="/img/webdevmast_icon.jpg" width="96" alt="WebDevMastery" /></a>
-                <div class="title-desc">
-                  <h3>WebDevMastery</h3>
-                  <p>We provide review / support / tutorials for website assets you purchase from marketplace like codester.
-                    We will focus on website templates, scripts PHP & JS, game assets, and User Interface.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
       <div class="game-grid middle-xs">
 
         <div class="card">
@@ -327,15 +291,15 @@
       <div class="game-grid middle-xs">
         <div class="card">
           <div class="card-img">
-            <a href="https://e2.university/" target="_blank"><img src="/img/e2uni_icon.png" alt="Earth2 University" /></a>
+            <a href="https://e2.university/" target="_blank"><img src="/img/cs_image.jpg" alt="Earth2 University" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://e2.university/" target="_blank"><img src="/img/comingsoon_icon.png" alt="Earth2 University" /></a>
+                <a href="https://e2.university/" target="_blank"><img src="/img/e2uni_icon.png" alt="Earth2 University" /></a>
                 <div class="title-desc">
                   <h3>Earth2 University</h3>
-                  <p>E2 University provides online guides and list of self-paced courses about Earth2 the Geolocational Metaverse. Discover a list of immersive courses about Earth2. Learn in Earth2 - the people's Metaverse.</p>
+                  <p>Learn Earth2 Metaverse - Tiles, Properties, Jewels, CyDroids and Civilians. Explore a wide range of features with our professional courses.</p>
                 </div>
               </div>
             </div>
