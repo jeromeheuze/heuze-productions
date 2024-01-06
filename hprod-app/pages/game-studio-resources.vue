@@ -11,11 +11,6 @@
             <div class="col-xs-12 col-lg-6">
               <div class="content">
                 <div class="slots">
-                  <h2>Heuze Production Roadmap</h2>
-                  <p>Follow our development of games, websites, and metaverses.</p>
-                  <a href="https://trello.com/b/tcwDq4Nt/heuze-production-roadmap" rel="noopener" target="_blank" class="button-narrow">Visit our Roadmap</a>
-                </div>
-                <div class="slots">
                   <h2>Video Game Press Kit Generator - Fee Presskit</h2>
                   <p>Fee Presskit - a super smart tool for producing a tailored video game press kit.</p>
                   <a href="https://feepresskit.com/#/" rel="noopener" target="_blank" class="button-narrow">Visit Fee Presskit</a>
@@ -52,8 +47,12 @@
                   <a href="https://gdevelop.io" rel="noopener" target="_blank" class="button-narrow">Visit GDevelop</a>
                 </div>
                 <div class="slots">
+                  <h2>Fiverr Services - I use frequently</h2>
+                  <a href="https://www.fiverr.com/s/jW2ERL" rel="noopener" target="_blank" class="button-narrow">Logo Design from ZULKI</a>
+                  <a href="https://www.fiverr.com/s/KD69vV" rel="noopener" target="_blank" class="button-narrow">Data scraping from Munir!</a>
+                </div>
+                <div class="slots">
                   <h2>Patreons - I follow</h2>
-                  <a href="https://www.patreon.com/Gamerturk/" rel="noopener" target="_blank" class="button-narrow">Gamerturk - Creating Game/Anime News, Reviews and Playthroughs</a>
                   <a href="https://www.patreon.com/paceeeey/" rel="noopener" target="_blank" class="button-narrow">Pacey - Creating Earth 2 Videos</a>
                   <a href="https://www.patreon.com/defold/" rel="noopener" target="_blank" class="button-narrow">Defold - Creating the ultimate game engine for web and mobile</a>
                   <a href="https://www.patreon.com/gamefromscratch/" rel="noopener" target="_blank" class="button-narrow">GameFromScratch - Creating Video game tutorials</a>
