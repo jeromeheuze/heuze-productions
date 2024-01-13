@@ -33,35 +33,6 @@
             </div>
           </div>
         </div>
-        <div class="card">
-          <div class="card-img">
-            <img src="/img/hungry_mage_v0.png" alt="Hungry Mage" />
-          </div>
-          <div class="card-overlay">
-            <div class="info-cont">
-              <div class="icon-game-title">
-                <img src="/img/hungry_mage_icon_v0.png" alt="Hungry Mage App Icon" />
-                <div class="title-desc">
-                  <h3>Hungry Mage - coming soon!</h3>
-                  <p>Help our mage pick up his food in a certain order or more trouble will happen in the kingdom.
-                      But you are not alone! Made with <a href="https://defold.com/" target="_blank">Defold</a>.</p>
-                </div>
-              </div>
-              <div class="reviews">
-                <img src="/img/star-15.svg" alt="" />
-                <img src="/img/star-15.svg" alt="" />
-                <img src="/img/star-15.svg" alt="" />
-                <img src="/img/star-15.svg" alt="" />
-                <img src="/img/star-15.svg" alt="" /> (4.5)
-              </div>
-            </div>
-          </div>
-          <div class="card-overlay info-download">
-            <div class="play-cont">
-              <img src="/img/itchioo-badge-soon.svg" alt="itch.io - coming soon" width="150" height="46" style="opacity: 0.1" />
-            </div>
-          </div>
-        </div>
 
       </div>
     </div>
