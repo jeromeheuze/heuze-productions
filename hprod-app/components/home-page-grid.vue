@@ -178,12 +178,12 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://bookfairytales.com" target="_blank"><img src="/img/cs_image.jpg" alt="gddmaker" /></a>
+            <a href="https://bookfairytales.com" target="_blank"><img src="/img/cs_image.jpg" alt="BookFairyTales" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://bookfairytales.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="gddmaker" /></a>
+                <a href="https://bookfairytales.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="BookFairyTales" /></a>
                 <div class="title-desc">
                   <h3>BookFairyTales</h3>
                   <p>BookFairyTales is a 3D world library split many smaller rooms. We are making a platform where you can
@@ -195,6 +195,43 @@
         </div>
 
       </div>
+    </div>
+    <div class="game-grid middle-xs">
+
+      <div class="card">
+        <div class="card-img">
+          <a href="https://learndefold.com" target="_blank"><img src="/img/cs_image.jpg" alt="Learn Defold" /></a>
+        </div>
+        <div class="card-overlay">
+          <div class="info-cont">
+            <div class="icon-game-title">
+              <a href="https://learndefold.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="Learn Defold" /></a>
+              <div class="title-desc">
+                <h3>Learn Defold</h3>
+                <p>We offer comprehensive courses, reviews, and tutorials for Defold, emphasizing the creation of quality 2D games with professional examples.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-img">
+          <a href="https://learnpixijs.com" target="_blank"><img src="/img/cs_image.jpg" alt="Learn PixiJS" /></a>
+        </div>
+        <div class="card-overlay">
+          <div class="info-cont">
+            <div class="icon-game-title">
+              <a href="https://learnpixijs.com" target="_blank"><img src="/img/comingsoon_icon.png" width="96" alt="Learn PixiJS" /></a>
+              <div class="title-desc">
+                <h3>Learn PixiJS</h3>
+                <p>We offer comprehensive courses, reviews, and tutorials for PixiJS, emphasizing the creation of dynamic web elements.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
     </div>
 
     <div class="home-page-grid--cont">
