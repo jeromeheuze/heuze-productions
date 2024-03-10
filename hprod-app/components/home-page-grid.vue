@@ -101,7 +101,7 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://e2.university/" target="_blank"><img src="/img/cs_image.jpg" alt="Earth2 University" /></a>
+            <a href="https://e2.university/" target="_blank"><img src="/img/e2u_image.jpg" alt="Earth2 University" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
@@ -131,7 +131,7 @@
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://spacescience.degree" target="_blank"><img src="/img/ssd_icon.png" width="96" alt="Space Science Degree" /></a>
+                <a href="https://spacescience.degree" target="_blank"><img src="/img/ssd_icon.jpg" width="96" alt="Space Science Degree" /></a>
                 <div class="title-desc">
                   <h3>Space Science Degree</h3>
                   <p>Find the best degree for you - online or in person.</p>
