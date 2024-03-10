@@ -101,15 +101,15 @@
         </div>
         <div class="card">
           <div class="card-img">
-            <a href="https://spaceship-adventure-park.com/" target="_blank"><img src="/img/spaceshipadventurepark-social-banner.jpg" alt="Spaceship Adventure Park" /></a>
+            <a href="https://e2.university/" target="_blank"><img src="/img/cs_image.jpg" alt="Earth2 University" /></a>
           </div>
           <div class="card-overlay">
             <div class="info-cont">
               <div class="icon-game-title">
-                <a href="https://spaceship-adventure-park.com/" target="_blank"><img src="/img/spaceshipadventurepark-96x96.png" alt="Spaceship Adventure Park" /></a>
+                <a href="https://e2.university/" target="_blank"><img src="/img/e2uni_icon.png" alt="Earth2 University" /></a>
                 <div class="title-desc">
-                  <h3>Spaceship Adventure Park</h3>
-                  <p>Welcome to the SpaceShip Adventure park. Building over 3 location inside Earth2.io - follow our development.</p>
+                  <h3>Earth2 University</h3>
+                  <p>Learn Earth2 Metaverse - Tiles, Properties, Jewels, CyDroids and Civilians. Explore a wide range of features with our professional courses.</p>
                 </div>
               </div>
             </div>
@@ -158,6 +158,7 @@
         </div>
 
       </div>
+
       <div class="game-grid middle-xs">
 
         <div class="card">
@@ -196,6 +197,7 @@
 
       </div>
     </div>
+
     <div class="game-grid middle-xs">
 
       <div class="card">
@@ -231,7 +233,6 @@
         </div>
       </div>
 
-    </div>
     </div>
 
     <div class="home-page-grid--cont">
@@ -274,7 +275,7 @@
       </div>
       <div class="game-grid middle-xs">
 
-            <div class="card">
+        <div class="card">
                 <div class="card-img">
                     <a href="https://foma-asteroid.com" target="_blank"><img src="/img/foma-og.jpg" alt="FOMA Asteroid" /></a>
                 </div>
@@ -291,44 +292,6 @@
                 </div>
             </div>
 
-        </div>
-    </div>
-
-    <div class="home-page-grid--cont">
-      <h2>Our Video Game learning platforms</h2>
-      <div class="game-grid middle-xs">
-        <div class="card">
-          <div class="card-img">
-            <a href="https://e2.university/" target="_blank"><img src="/img/cs_image.jpg" alt="Earth2 University" /></a>
-          </div>
-          <div class="card-overlay">
-            <div class="info-cont">
-              <div class="icon-game-title">
-                <a href="https://e2.university/" target="_blank"><img src="/img/e2uni_icon.png" alt="Earth2 University" /></a>
-                <div class="title-desc">
-                  <h3>Earth2 University</h3>
-                  <p>Learn Earth2 Metaverse - Tiles, Properties, Jewels, CyDroids and Civilians. Explore a wide range of features with our professional courses.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-img">
-            <a href="https://entropia.university/" target="_blank"><img src="/img/cs_image.jpg" alt="Entropia University" /></a>
-          </div>
-          <div class="card-overlay">
-            <div class="info-cont">
-              <div class="icon-game-title">
-                <a href="https://entropia.university/" target="_blank"><img src="/img/comingsoon_icon.png" alt="Entropia University" /></a>
-                <div class="title-desc">
-                  <h3>Entropia University</h3>
-                  <p>Entropia Universe – the Sci-Fi MMORPG Metaverse Real Cash Economy Experience. Discover a list of immersive courses and learning path about Entropia.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
 
