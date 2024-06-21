@@ -17,6 +17,7 @@ export default {
             { name: 'google-site-verification', content: 'ffqOWgEXhG-idphNd4krhLAEAIlAnS1nUEq-yWPTjvI' },
             { name: 'statvooVerification', content: 'a147aa6695258dfd9dfc265692576934' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+            { name: "author", content: "Jerome Heuze" },
             { hid: 'description', name: 'description', content: 'Heuze Productions is a solo indie game development studio. We are making 2D casual video games and focus on storytelling. Follow our journey making games for mobile, desktop and the Metaverse.' },
             // Twitter
             {
