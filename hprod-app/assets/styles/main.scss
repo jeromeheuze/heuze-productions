@@ -1,4 +1,3 @@
-@import "reset";
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;400;500;600;700&display=swap');
 
 html, body {
@@ -9,7 +8,7 @@ html, body {
   color: #fff;
 }
 .long-bg {
-  background: url("/img/header-background-v3.png") bottom center no-repeat #000033;
+  background: url("/public/img/header-background-v3.png") bottom center no-repeat #000033;
   background-size: cover;
   height: 901px;
   @media only screen and (max-width: 1024px){
@@ -21,7 +20,7 @@ html, body {
   }
 }
 .short-bg {
-  background: url("/img/header-background-v2.png") bottom center no-repeat #000033;
+  background: url("/public/img/header-background-v2.png") bottom center no-repeat #000033;
   background-size: cover;
   height: 450px;
   @media only screen and (max-width: 1024px){
@@ -125,7 +124,7 @@ header {
 }
 
 footer {
-  background: url("/img/footer-background.png") top center no-repeat #000033;
+  background: url("/public/img/footer-background.png") top center no-repeat #000033;
   background-size: cover;
   padding-top: 20rem;
   padding-bottom: 2rem;
@@ -246,7 +245,7 @@ section {
       text-align: center;
       font-size: 2.2rem;
       line-height: 70px;
-      background: url("/img/irbis-bg.png") center center no-repeat;
+      background: url("/public/img/irbis-bg.png") center center no-repeat;
       padding: 70px 0 40px 0;
       @media only screen and (max-width: 480px){
         background-size: contain;
@@ -332,7 +331,7 @@ section {
       text-align: center;
       font-size: 2.2rem;
       line-height: 70px;
-      background: url("/img/irbis-bg.png") center center no-repeat;
+      background: url("/public/img/irbis-bg.png") center center no-repeat;
       padding: 70px 0 40px 0;
       @media only screen and (max-width: 480px){
         background-size: contain;
